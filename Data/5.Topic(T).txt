@@ -1,0 +1,1022 @@
+# 1000 exemples de relation Topic (T) - Construction N-de-N
+
+## Alimentation et restauration (1-100)
+1. restaurant de sushis
+2. café de spécialité
+3. magasin de bonbons
+4. boutique de chocolats
+5. restaurant de fruits de mer
+6. magasin de produits bio
+7. restaurant de viandes grillées
+8. boutique de fromages
+9. restaurant de pizzas
+10. magasin de vins fins
+11. restaurant de cuisine asiatique
+12. café de desserts
+13. restaurant de tapas
+14. magasin de produits exotiques
+15. restaurant de cuisine indienne
+16. café de glaces artisanales
+17. restaurant de grillades
+18. boutique de confitures
+19. restaurant de cuisine française
+20. magasin de produits régionaux
+21. restaurant de cuisine fusion
+22. café de brunchs
+23. restaurant de fondues
+24. magasin d'épices
+25. restaurant de cuisine libanaise
+26. café de pâtisseries orientales
+27. restaurant de cuisine chinoise
+28. boutique de thés
+29. restaurant de cuisine mexicaine
+30. magasin de produits diététiques
+31. restaurant de cuisine thaïlandaise
+32. café de smoothies
+33. restaurant de cuisine japonaise
+34. boutique de miels
+35. restaurant de cuisine coréenne
+36. magasin de produits sans gluten
+37. restaurant de cuisine méditerranéenne
+38. café de cafés d'origine
+39. restaurant de cuisine vietnamienne
+40. boutique d'huiles d'olive
+41. restaurant de cuisine marocaine
+42. magasin de produits végan
+43. restaurant de cuisine brésilienne
+44. café de jus frais
+45. restaurant de cuisine péruvienne
+46. boutique de vinaigres
+47. restaurant de cuisine espagnole
+48. magasin de produits de la mer
+49. restaurant de cuisine grecque
+50. café de boissons chaudes
+51. restaurant de cuisine turque
+52. boutique de pâtes artisanales
+53. restaurant de cuisine portugaise
+54. magasin de produits fermiers
+55. restaurant de cuisine allemande
+56. café de milkshakes
+57. restaurant de cuisine russe
+58. boutique de biscuits
+59. restaurant de cuisine africaine
+60. magasin de produits orientaux
+61. restaurant de cuisine créole
+62. café de chocolats chauds
+63. restaurant de cuisine cajun
+64. boutique de sauces
+65. restaurant de cuisine cubaine
+66. magasin de produits halal
+67. restaurant de cuisine argentine
+68. café de thés glacés
+69. restaurant de cuisine iranienne
+70. boutique de pains spéciaux
+71. restaurant de cuisine éthiopienne
+72. magasin de produits casher
+73. restaurant de cuisine scandinave
+74. café de cafés glacés
+75. restaurant de cuisine polonaise
+76. boutique de charcuteries
+77. restaurant de cuisine hongroise
+78. magasin de produits surgelés
+79. restaurant de cuisine balkanique
+80. café de boissons végétales
+81. restaurant de cuisine caribéenne
+82. boutique de tartes
+83. restaurant de cuisine pakistanaise
+84. magasin de produits de luxe
+85. restaurant de cuisine afghane
+86. café de cidres
+87. restaurant de cuisine indonésienne
+88. boutique de macarons
+89. restaurant de cuisine malaisienne
+90. magasin de produits artisanaux
+91. restaurant de cuisine népalaise
+92. café de boissons énergétiques
+93. restaurant de cuisine philippine
+94. boutique de nougats
+95. restaurant de cuisine birmane
+96. magasin de produits locaux
+97. restaurant de cuisine laotienne
+98. café de tisanes
+99. restaurant de cuisine cambodgienne
+100. boutique de pralines
+
+## Arts et culture (101-200)
+101. film d'horreur
+102. musée d'art moderne
+103. galerie de peintures
+104. théâtre de boulevard
+105. cinéma d'auteur
+106. film de science-fiction
+107. musée d'histoire naturelle
+108. galerie de photographies
+109. théâtre de marionnettes
+110. film d'action
+111. musée d'archéologie
+112. galerie de sculptures
+113. théâtre de rue
+114. film de guerre
+115. musée de la marine
+116. galerie d'art contemporain
+117. théâtre d'improvisation
+118. film de western
+119. musée de l'aviation
+120. galerie d'estampes
+121. théâtre de danse
+122. film d'animation
+123. musée de sciences
+124. galerie de gravures
+125. théâtre de mime
+126. film de comédie
+127. musée d'ethnographie
+128. galerie d'arts premiers
+129. théâtre expérimental
+130. film de drame
+131. musée de cire
+132. galerie de dessins
+133. théâtre lyrique
+134. film de thriller
+135. musée du jouet
+136. galerie d'art abstrait
+137. théâtre de variétés
+138. film de romance
+139. musée de l'automobile
+140. galerie d'art figuratif
+141. théâtre de cirque
+142. film d'aventure
+143. musée du costume
+144. galerie d'art tribal
+145. théâtre de monologues
+146. film de biographie
+147. musée de la musique
+148. galerie d'art moderne
+149. théâtre de répertoire
+150. film de fantaisie
+151. musée du design
+152. galerie d'art urbain
+153. théâtre de textes
+154. film de suspense
+155. musée de la photographie
+156. galerie d'art conceptuel
+157. théâtre de lectures
+158. film de catastrophe
+159. musée des beaux-arts
+160. galerie d'art numérique
+161. théâtre de cabarets
+162. film de mystère
+163. musée d'histoire locale
+164. galerie d'art populaire
+165. théâtre de sketches
+166. film de cape et d'épée
+167. musée de la résistance
+168. galerie d'art naïf
+169. théâtre musical
+170. film de kung-fu
+171. musée des techniques
+172. galerie d'art brut
+173. théâtre de poésie
+174. film de zombies
+175. musée de la vie rurale
+176. galerie d'art minimal
+177. théâtre de marionnettes d'eau
+178. film de vampires
+179. musée de la médecine
+180. galerie d'art performatif
+181. théâtre de conteurs
+182. film de super-héros
+183. musée des traditions
+184. galerie d'installations
+185. théâtre d'ombres
+186. film de pirates
+187. musée maritime
+188. galerie de vidéos
+189. théâtre de clowns
+190. film de ninja
+191. musée ferroviaire
+192. galerie d'art cinétique
+193. théâtre de masques
+194. film de samouraï
+195. musée militaire
+196. galerie d'art optique
+197. théâtre de contes
+198. film de gangsters
+199. musée textile
+200. galerie d'art interactif
+
+## Éducation et formation (201-300)
+201. cours de mathématiques
+202. école de commerce
+203. centre de formation
+204. cours d'anglais
+205. école d'ingénieurs
+206. centre d'apprentissage
+207. cours de physique
+208. école de médecine
+209. centre de langues
+210. cours de chimie
+211. école d'architecture
+212. centre de soutien scolaire
+213. cours d'histoire
+214. école de droit
+215. centre d'études
+216. cours de géographie
+217. école de journalisme
+218. centre de recherche
+219. cours de biologie
+220. école de design
+221. centre de documentation
+222. cours de philosophie
+223. école d'art
+224. centre de ressources
+225. cours de littérature
+226. école de musique
+227. centre d'excellence
+228. cours d'économie
+229. école de danse
+230. centre de perfectionnement
+231. cours de sociologie
+232. école de mode
+233. centre de développement
+234. cours de psychologie
+235. école de cinéma
+236. centre d'innovation
+237. cours d'informatique
+238. école d'aviation
+239. centre de compétences
+240. cours de statistiques
+241. école de cuisine
+242. centre de formation continue
+243. cours de langues anciennes
+244. école de photographie
+245. centre d'orientation
+246. cours de comptabilité
+247. école de théâtre
+248. centre d'évaluation
+249. cours de marketing
+250. école de coiffure
+251. centre d'expertise
+252. cours de management
+253. école d'esthétique
+254. centre de qualification
+255. cours de droit international
+256. école de conduite
+257. centre de certification
+258. cours de finance
+259. école de sport
+260. centre de tutorat
+261. cours de sciences politiques
+262. école de jardinage
+263. centre d'accompagnement
+264. cours de relations internationales
+265. école de musique électronique
+266. centre de préparation
+267. cours d'anthropologie
+268. école de natation
+269. centre d'insertion
+270. cours de rhétorique
+271. école de yoga
+272. centre de réussite
+273. cours de logique
+274. école d'équitation
+275. centre de mise à niveau
+276. cours d'éthique
+277. école de plongée
+278. centre d'apprentissage accéléré
+279. cours d'esthétique
+280. école de pilotage
+281. centre de formation professionnelle
+282. cours de sémiologie
+283. école de massage
+284. centre d'alphabétisation
+285. cours de linguistique
+286. école de voile
+287. centre de remise à niveau
+288. cours de méthodologie
+289. école de tennis
+290. centre d'enseignement spécialisé
+291. cours d'épistémologie
+292. école de golf
+293. centre de coaching
+294. cours de didactique
+295. école de ski
+296. centre d'encadrement
+297. cours d'herméneutique
+298. école d'escalade
+299. centre de mentorat
+300. cours de pédagogie
+
+## Commerce et services (301-400)
+301. magasin de chaussures
+302. boutique de vêtements
+303. agence de voyages
+304. magasin de jouets
+305. boutique de bijoux
+306. agence immobilière
+307. magasin d'électronique
+308. boutique de souvenirs
+309. agence de communication
+310. magasin de meubles
+311. boutique d'accessoires
+312. agence de publicité
+313. magasin de sport
+314. boutique de décoration
+315. agence de marketing
+316. magasin de livres
+317. boutique de cosmétiques
+318. agence d'événementiel
+319. magasin de musique
+320. boutique de parfums
+321. agence de recrutement
+322. magasin d'informatique
+323. boutique de maroquinerie
+324. agence de placement
+325. magasin de bricolage
+326. boutique de lingerie
+327. agence de traduction
+328. magasin de jardinage
+329. boutique d'artisanat
+330. agence de design
+331. magasin d'optique
+332. boutique de mode
+333. agence de conseil
+334. magasin d'antiquités
+335. boutique de luxe
+336. agence d'architecture
+337. magasin de bandes dessinées
+338. boutique de créateurs
+339. agence d'intérim
+340. magasin de disques
+341. boutique de prêt-à-porter
+342. agence de sécurité
+343. magasin d'instruments de musique
+344. boutique de haute couture
+345. agence de nettoyage
+346. magasin de photographie
+347. boutique de vintage
+348. agence d'assurance
+349. magasin d'art
+350. boutique d'occasion
+351. agence bancaire
+352. magasin de timbres
+353. boutique de seconde main
+354. agence de location
+355. magasin de monnaies
+356. boutique d'artistes
+357. agence de gardiennage
+358. magasin de cartes postales
+359. boutique de créations
+360. agence de maintenance
+361. magasin de tableaux
+362. boutique de friperie
+363. agence de dépannage
+364. magasin de sculptures
+365. boutique de tissus
+366. agence de services
+367. magasin de posters
+368. boutique de laine
+369. agence de transport
+370. magasin de brocante
+371. boutique de mercerie
+372. agence de déménagement
+373. magasin de collection
+374. boutique de couture
+375. agence de logistique
+376. magasin de minéraux
+377. boutique de tricot
+378. agence de coursiers
+379. magasin de fossiles
+380. boutique de broderie
+381. agence de livraison
+382. magasin de coquillages
+383. boutique de patchwork
+384. agence de distribution
+385. magasin de papillons
+386. boutique de scrapbooking
+387. agence de conciergerie
+388. magasin de pierres précieuses
+389. boutique de perles
+390. agence de gestion
+391. magasin de cristaux
+392. boutique de boutons
+393. agence d'organisation
+394. magasin de médailles
+395. boutique de rubans
+396. agence de coordination
+397. magasin d'insignes
+398. boutique de dentelles
+399. agence d'administration
+400. magasin de décorations
+
+## Santé et bien-être (401-500)
+401. centre de santé
+402. clinique de médecine générale
+403. cabinet de dentisterie
+404. centre de physiothérapie
+405. clinique de dermatologie
+406. cabinet d'ostéopathie
+407. centre de kinésithérapie
+408. clinique d'ophtalmologie
+409. cabinet de podologie
+410. centre de cardiologie
+411. clinique de chirurgie
+412. cabinet d'orthodontie
+413. centre de rhumatologie
+414. clinique de neurologie
+415. cabinet de psychologie
+416. centre d'endocrinologie
+417. clinique de gynécologie
+418. cabinet de diététique
+419. centre de gastro-entérologie
+420. clinique de pédiatrie
+421. cabinet de naturopathie
+422. centre de pneumologie
+423. clinique d'urologie
+424. cabinet d'acupuncture
+425. centre d'oncologie
+426. clinique de radiologie
+427. cabinet d'hypnose
+428. centre de gériatrie
+429. clinique d'allergologie
+430. cabinet de sophrologie
+431. centre de médecine du sport
+432. clinique d'anesthésiologie
+433. cabinet de réflexologie
+434. centre de néphrologie
+435. clinique d'hématologie
+436. cabinet de shiatsu
+437. centre de médecine nucléaire
+438. clinique de psychiatrie
+439. cabinet de magnétisme
+440. centre d'hépato-gastro-entérologie
+441. clinique de chirurgie plastique
+442. cabinet d'homéopathie
+443. centre de diabétologie
+444. clinique d'orthopédie
+445. cabinet d'aromathérapie
+446. centre de médecine interne
+447. clinique de traumatologie
+448. cabinet de phytothérapie
+449. centre d'addictologie
+450. clinique d'ORL
+451. cabinet d'étiopathie
+452. centre de médecine préventive
+453. clinique de chirurgie esthétique
+454. cabinet de chromothérapie
+455. centre de médecine du travail
+456. clinique de maladies infectieuses
+457. cabinet de lithothérapie
+458. centre de tabacologie
+459. clinique de médecine vasculaire
+460. cabinet de biorésonance
+461. centre de nutrition
+462. clinique de chirurgie maxillo-faciale
+463. cabinet de kinésiologie
+464. centre d'immunologie
+465. clinique de chirurgie cardiaque
+466. cabinet d'iridologie
+467. centre de toxicologie
+468. clinique de neurochirurgie
+469. cabinet de reiki
+470. centre de génétique médicale
+471. clinique de chirurgie thoracique
+472. cabinet de médecine chinoise
+473. centre de médecine palliative
+474. clinique de chirurgie digestive
+475. cabinet d'ayurvéda
+476. centre de douleur
+477. clinique de chirurgie vasculaire
+478. cabinet d'énergétique
+479. centre de rééducation
+480. clinique de chirurgie pédiatrique
+481. cabinet de reboutement
+482. centre de réadaptation
+483. clinique d'andrologie
+484. cabinet de massage thérapeutique
+485. centre de désintoxication
+486. clinique de médecine reproductive
+487. cabinet de chiropraxie
+488. centre de soins palliatifs
+489. clinique de fertilité
+490. cabinet de drainage lymphatique
+491. centre de gérontologie
+492. clinique de chirurgie bariatrique
+493. cabinet de fasciathérapie
+494. centre de médecine esthétique
+495. clinique de procréation assistée
+496. cabinet de médecine manuelle
+497. centre d'hygiène
+498. clinique de chirurgie robotique
+499. cabinet de posturologie
+500. centre de prévention
+
+## Sports et loisirs (501-600)
+501. terrain de football
+502. salle de sport
+503. piscine de natation
+504. terrain de tennis
+505. salle de musculation
+506. piscine olympique
+507. terrain de basketball
+508. salle de fitness
+509. piscine couverte
+510. terrain de rugby
+511. salle de danse
+512. bassin de plongée
+513. terrain de handball
+514. salle de yoga
+515. piscine municipale
+516. terrain de volleyball
+517. salle de boxe
+518. piscine d'apprentissage
+519. terrain de baseball
+520. salle d'escalade
+521. piscine de compétition
+522. terrain de golf
+523. salle de gymnastique
+524. piscine de loisirs
+525. terrain de hockey
+526. salle d'arts martiaux
+527. parc aquatique
+528. terrain de cricket
+529. salle de squash
+530. centre aquatique
+531. terrain de badminton
+532. salle de judo
+533. complexe nautique
+534. terrain de pétanque
+535. salle de karaté
+536. bassin ludique
+537. terrain de boules
+538. salle de taekwondo
+539. piscine chauffée
+540. terrain de croquet
+541. salle de kung-fu
+542. bassin de balnéothérapie
+543. terrain de boccia
+544. salle de capoeira
+545. centre de thalassothérapie
+546. terrain de curling
+547. salle de kickboxing
+548. spa de détente
+549. terrain de pétéca
+550. salle de savate
+551. hammam de relaxation
+552. terrain de sepak takraw
+553. salle de kendo
+554. sauna finlandais
+555. terrain de tchoukball
+556. salle d'aïkido
+557. bain turc
+558. terrain de kin-ball
+559. salle de tai-chi
+560. jacuzzi de massage
+561. terrain de footgolf
+562. salle de pilates
+563. bain à remous
+564. terrain de padel
+565. salle de zumba
+566. bassin nordique
+567. terrain de pickleball
+568. salle de crossfit
+569. piscine thermale
+570. terrain de spikeball
+571. salle de spinning
+572. centre de balnéothérapie
+573. terrain de rounders
+574. salle de body combat
+575. institut de bien-être
+576. terrain de hornussen
+577. salle de body pump
+578. centre thermal
+579. terrain de hurling
+580. salle de body attack
+581. station thermale
+582. terrain de shinty
+583. salle de body balance
+584. source thermale
+585. terrain de pelote basque
+586. salle de body jam
+587. cure thermale
+588. terrain de jeu provençal
+589. salle de stretching
+590. établissement thermal
+591. terrain de lyonnaise
+592. salle de cardio training
+593. thermes romains
+594. terrain de raffa
+595. salle de step
+596. bains publics
+597. terrain de volo
+598. salle d'aérobic
+599. piscine de rééducation
+600. terrain de sport-boules
+
+## Technologie et numérique (601-700)
+601. site de e-commerce
+602. plateforme de streaming
+603. application de messagerie
+604. site de réseaux sociaux
+605. plateforme de vidéo
+606. application de navigation
+607. site de recherche
+608. plateforme de formation en ligne
+609. application de retouche photo
+610. site d'actualités
+611. plateforme de musique
+612. application de fitness
+613. site de jeux vidéo
+614. plateforme de podcast
+615. application de méditation
+616. site de partage de photos
+617. plateforme de freelance
+618. application de météo
+619. site de forums
+620. plateforme de crowdfunding
+621. application de traduction
+622. site de blogs
+623. plateforme de location
+624. application de productivité
+625. site de petites annonces
+626. plateforme de covoiturage
+627. application de scanner
+628. site de wiki
+629. plateforme de rencontres
+630. application de notes
+631. site de critiques
+632. plateforme de livraison
+633. application de calendrier
+634. site de tutoriels
+635. plateforme de réservation
+636. application de budget
+637. site de téléchargement
+638. plateforme de financement participatif
+639. application de santé
+640. site de comparaison
+641. plateforme d'enchères
+642. application de sécurité
+643. site de partage de vidéos
+644. plateforme de coaching
+645. application de VPN
+646. site de questions-réponses
+647. plateforme de téléconsultation
+648. application de gestionnaire de mots de passe
+649. site de coupons
+650. plateforme de mentorat
+651. application de contrôle parental
+652. site de recettes
+653. plateforme de courses en ligne
+654. application de sauvegarde
+655. site de généalogie
+656. plateforme de dons
+657. application de nettoyage
+658. site d'encyclopédie
+659. plateforme de sondages
+660. application d'optimisation
+661. site de documentation
+662. plateforme de webinaires
+663. application de montage vidéo
+664. site de portfolios
+665. plateforme de visioconférence
+666. application de gestion de projet
+667. site de CV en ligne
+668. plateforme de télétravail
+669. application de CRM
+670. site de code source
+671. plateforme de collaboration
+672. application d'ERP
+673. site de cartes interactives
+674. plateforme de gestion documentaire
+675. application de facturation
+676. site de données ouvertes
+677. plateforme de signature électronique
+678. application de comptabilité
+679. site d'APIs
+680. plateforme de gestion RH
+681. application de stock
+682. site de statistiques
+683. plateforme de marketing automation
+684. application de CMS
+685. site d'hébergement
+686. plateforme d'emailing
+687. application de design
+688. site de dépôt de code
+689. plateforme de tests utilisateurs
+690. application de prototypage
+691. site de monitoring
+692. plateforme d'analytics
+693. application de wireframing
+694. site de benchmarking
+695. plateforme de SEO
+696. application de mockup
+697. site de métriques
+698. plateforme d'A/B testing
+699. application de veille
+700. site de dashboards
+
+## Nature et environnement (701-800)
+701. parc de loisirs
+702. jardin de plantes
+703. réserve naturelle
+704. parc d'attractions
+705. jardin botanique
+706. réserve ornithologique
+707. parc animalier
+708. jardin d'acclimatation
+709. réserve marine
+710. parc zoologique
+711. jardin exotique
+712. réserve forestière
+713. parc safari
+714. jardin aquatique
+715. réserve faunique
+716. parc ornithologique
+717. jardin de roses
+718. réserve biologique
+719. parc aquatique naturel
+720. jardin de bambous
+721. réserve géologique
+722. parc de sculptures
+723. jardin de cactus
+724. réserve écologique
+725. parc de dinosaures
+726. jardin de papillons
+727. réserve intégrale
+728. parc préhistorique
+729. jardin de rocaille
+730. réserve de biosphère
+731. parc marin
+732. jardin zen
+733. réserve cynégétique
+734. parc forestier
+735. jardin d'herbes aromatiques
+736. réserve halieutique
+737. parc régional
+738. jardin médicinal
+739. réserve de chasse
+740. parc national
+741. jardin potager
+742. réserve aquatique
+743. parc naturel
+744. jardin d'agrément
+745. réserve de pêche
+746. parc écologique
+747. jardin à la française
+748. réserve ornementale
+749. parc géologique
+750. jardin à l'anglaise
+751. réserve botanique
+752. parc volcanique
+753. jardin japonais
+754. réserve horticole
+755. parc des glaciers
+756. jardin méditerranéen
+757. réserve arboricole
+758. parc côtier
+759. jardin tropical
+760. réserve florale
+761. parc montagnard
+762. jardin alpin
+763. réserve végétale
+764. parc lacustre
+765. jardin de topiaires
+766. réserve de mangrove
+767. parc fluvial
+768. jardin suspendu
+769. réserve de corail
+770. parc marécageux
+771. jardin de curé
+772. réserve de récifs
+773. parc dunaire
+774. jardin de simples
+775. réserve d'estuaire
+776. parc insulaire
+777. jardin de vivaces
+778. réserve de zones humides
+779. parc de steppes
+780. jardin de plantes grasses
+781. réserve de tourbière
+782. parc de savane
+783. jardin de fougères
+784. réserve de marais
+785. parc de prairies
+786. jardin de plantes carnivores
+787. réserve d'étang
+788. parc de toundra
+789. jardin de collection
+790. réserve de lagune
+791. parc de taïga
+792. jardin d'orchidées
+793. réserve de delta
+794. parc de garrigue
+795. jardin de broméliacées
+796. réserve de baie
+797. parc de maquis
+798. jardin de succulentes
+799. réserve de fjord
+800. parc de landes
+
+## Transports et infrastructure (801-900)
+801. gare de trains
+802. aéroport international
+803. port de commerce
+804. gare routière
+805. aéroport régional
+806. port de plaisance
+807. station de métro
+808. aérodrome de tourisme
+809. port de pêche
+810. arrêt de bus
+811. héliport de secours
+812. port maritime
+813. terminus de tramway
+814. base aérienne
+815. port fluvial
+816. station de taxi
+817. aéroclub de loisirs
+818. marina de yachts
+819. dépôt de vélos
+820. piste d'atterrissage
+821. quai de débarquement
+822. parking de covoiturage
+823. hangar d'aviation
+824. embarcadère de ferries
+825. aire de stationnement
+826. tour de contrôle
+827. débarcadère de bateaux
+828. garage de bus
+829. terminal de fret
+830. cale de construction
+831. dépôt de tramways
+832. zone de chargement
+833. bassin de radoub
+834. remise de trains
+835. aire de livraison
+836. chantier naval
+837. atelier de réparation
+838. espace de fret
+839. arsenal maritime
+840. centre de maintenance
+841. plateforme logistique
+842. dock de réparation
+843. hub de transport
+844. terminal de passagers
+845. cale sèche
+846. nœud de correspondance
+847. zone d'aviation
+848. ponton d'amarrage
+849. carrefour de transit
+850. piste de décollage
+851. mouillage de navires
+852. point d'échange
+853. voie de circulation
+854. rade d'ancrage
+855. zone de transfert
+856. taxiway d'avions
+857. havre de navigation
+858. centre d'interconnexion
+859. apron de stationnement
+860. anse de refuge
+861. plateforme multimodale
+862. aire de trafic
+863. abri de bateaux
+864. gare de triage
+865. zone d'embarquement
+866. port d'attache
+867. bifurcation de lignes
+868. salle d'enregistrement
+869. rade foraine
+870. embranchement ferroviaire
+871. comptoir d'accueil
+872. baie d'hivernage
+873. bretelle d'accès
+874. guichet de billetterie
+875. darce de stockage
+876. voie de service
+877. hall de départ
+878. bassin de carénage
+879. quai de desserte
+880. zone d'arrivée
+881. forme de radoub
+882. ligne de transport
+883. porte d'embarquement
+884. cale de halage
+885. réseau de circulation
+886. salle d'attente
+887. slip de mise à l'eau
+888. axe de déplacement
+889. consigne de bagages
+890. appontement de liaison
+891. corridor de transit
+892. service d'information
+893. jetée d'accostage
+894. artère de communication
+895. bureau d'accueil
+896. estacade de transbordement
+897. voie de communication
+898. point d'information
+899. wharf de déchargement
+900. réseau de desserte
+
+## Bâtiments et architecture (901-1000)
+901. tour de bureaux
+902. immeuble d'habitation
+903. bâtiment de stockage
+904. tour d'observation
+905. immeuble de standing
+906. bâtiment industriel
+907. tour de télécommunication
+908. immeuble de rapport
+909. bâtiment commercial
+910. tour de refroidissement
+911. résidence de standing
+912. bâtiment administratif
+913. tour d'horloge
+914. résidence étudiante
+915. bâtiment scolaire
+916. tour de guet
+917. résidence pour seniors
+918. bâtiment universitaire
+919. clocher d'église
+920. résidence de tourisme
+921. bâtiment hospitalier
+922. beffroi de ville
+923. résidence secondaire
+924. bâtiment culturel
+925. minaret de mosquée
+926. résidence principale
+927. bâtiment sportif
+928. campanile de basilique
+929. résidence hôtelière
+930. bâtiment religieux
+931. pagode de temple
+932. résidence médicalisée
+933. bâtiment pénitentiaire
+934. dôme de cathédrale
+935. résidence protégée
+936. bâtiment militaire
+937. flèche de monument
+938. résidence de luxe
+939. bâtiment judiciaire
+940. tourelle de château
+941. résidence sociale
+942. bâtiment municipal
+943. donjon de forteresse
+944. résidence services
+945. bâtiment préfectoral
+946. mât de drapeau
+947. résidence artistique
+948. bâtiment parlementaire
+949. phare de navigation
+950. logement de fonction
+951. bâtiment ministériel
+952. pylône électrique
+953. logement social
+954. bâtiment gouvernemental
+955. cheminée d'usine
+956. logement étudiant
+957. bâtiment diplomatique
+958. silo de stockage
+959. logement intermédiaire
+960. bâtiment consulaire
+961. citerne d'eau
+962. logement communautaire
+963. bâtiment douanier
+964. réservoir de gaz
+965. logement collectif
+966. bâtiment postal
+967. château d'eau
+968. logement individuel
+969. bâtiment ferroviaire
+970. antenne de transmission
+971. logement groupé
+972. bâtiment portuaire
+973. mât de télévision
+974. logement mitoyen
+975. bâtiment aéroportuaire
+976. pylône de téléphonie
+977. logement jumelé
+978. hangar de marchandises
+979. relais de radiodiffusion
+980. logement pavillonnaire
+981. entrepôt de distribution
+982. tour hertzienne
+983. logement en duplex
+984. dépôt de matériel
+985. émetteur de radio
+986. logement en triplex
+987. magasin de stockage
+988. station de base
+989. logement en rez-de-jardin
+990. silo de céréales
+991. station relais
+992. logement en attique
+993. grenier de stockage
+994. mât d'antenne
+995. logement en combles
+996. cave de conservation
+997. tour de radiocommunication
+998. logement en mezzanine
+999. chai de vieillissement
+1000. poste de transformation
+
