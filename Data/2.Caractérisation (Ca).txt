@@ -1,0 +1,1025 @@
+# 1000 exemples de relation sémantique Caractérisation (Ca)
+
+*Structure : N1 de N2 où N1 est une qualité, propriété ou caractéristique de N2*
+
+## Qualités morales et éthiques (1-50)
+1. sournoiserie du politicien
+2. sagesse du vieillard
+3. générosité du philanthrope
+4. avarice de l'usurier
+5. courage du héros
+6. lâcheté du traître
+7. bonté de la grand-mère
+8. méchanceté de l'enfant
+9. honnêteté de l'artisan
+10. malhonnêteté du commerçant
+11. fidélité du chien
+12. infidélité de l'époux
+13. loyauté du serviteur
+14. trahison de l'ami
+15. sincérité du témoin
+16. hypocrisie du prêcheur
+17. franchise de l'enfant
+18. duplicité du diplomate
+19. droiture du juge
+20. corruption du ministre
+21. intégrité du fonctionnaire
+22. perversité du criminel
+23. pureté de l'innocence
+24. vice du débauché
+25. vertu de la religieuse
+26. noblesse de l'âme
+27. bassesse du caractère
+28. élévation de l'esprit
+29. mesquinerie du bourgeois
+30. grandeur du geste
+31. petitesse de l'acte
+32. magnanimité du roi
+33. égoïsme de l'individu
+34. altruisme du bénévole
+35. charité de l'église
+36. cruauté du tyran
+37. douceur de l'agneau
+38. violence du fauve
+39. patience de la mère
+40. impatience de l'enfant
+41. tolérance du sage
+42. intolérance du fanatique
+43. indulgence du père
+44. sévérité du maître
+45. clémence du souverain
+46. rigueur du professeur
+47. souplesse du négociateur
+48. rigidité du bureaucrate
+49. flexibilité de l'athlète
+50. obstination de l'entêté
+
+## Qualités intellectuelles et mentales (51-150)
+51. intelligence de l'étudiant
+52. bêtise de l'ignorant
+53. perspicacité de l'analyste
+54. naïveté de l'innocent
+55. finesse de l'esprit
+56. grossièreté du rustre
+57. subtilité du penseur
+58. lourdeur de l'imbécile
+59. vivacité de l'enfant
+60. lenteur du vieillard
+61. rapidité de l'éclair
+62. paresse du fainéant
+63. diligence de l'employé
+64. négligence du paresseux
+65. attention de l'élève
+66. distraction du rêveur
+67. concentration du moine
+68. dispersion de l'hyperactif
+69. mémoire de l'éléphant
+70. oubli du distrait
+71. lucidité du malade
+72. confusion de l'alcoolique
+73. clarté de l'exposé
+74. obscurité du texte
+75. précision du chirurgien
+76. approximation de l'amateur
+77. exactitude du comptable
+78. imprécision du témoin
+79. rigueur du scientifique
+80. laxisme du surveillant
+81. curiosité de l'enfant
+82. indifférence de l'apathique
+83. intérêt de l'amateur
+84. ennui du blasé
+85. enthousiasme du novice
+86. désenchantement du vétéran
+87. passion de l'artiste
+88. froideur du technicien
+89. ardeur du militant
+90. tiédeur du modéré
+91. zèle de l'apprenti
+92. nonchalance du paresseux
+93. application de l'étudiant
+94. désinvolture du dilettante
+95. sérieux du professionnel
+96. légèreté de l'insouciant
+97. gravité du magistrat
+98. frivolité de la mondaine
+99. profondeur du philosophe
+100. superficialité du bavard
+101. culture de l'intellectuel
+102. inculture de l'illettré
+103. érudition du savant
+104. ignorance du primitif
+105. savoir de l'expert
+106. incompétence de l'amateur
+107. compétence du spécialiste
+108. maladresse du débutant
+109. habileté de l'artisan
+110. gaucherie de l'adolescent
+111. dextérité du prestidigitateur
+112. maladresse du gaucher
+113. adresse du tireur
+114. inhabilité du novice
+115. talent de l'artiste
+116. médiocrité du fonctionnaire
+117. génie du créateur
+118. nullité de l'incapable
+119. don du musicien
+120. absence du sourd
+121. aptitude de l'élève
+122. inaptitude du cancre
+123. capacité du dirigeant
+124. incapacité du pauvre
+125. faculté de l'homme
+126. impossibilité de l'animal
+127. pouvoir du magicien
+128. impuissance du malade
+129. force de l'athlète
+130. faiblesse du vieillard
+131. vigueur du jeune
+132. débilité de l'infirme
+133. énergie de l'entrepreneur
+134. mollesse du paresseux
+135. dynamisme du leader
+136. statisme du conservateur
+137. activité de l'ouvrier
+138. inactivité du retraité
+139. mouvement du danseur
+140. immobilité de la statue
+141. agilité du singe
+142. lourdeur de l'éléphant
+143. légèreté de l'oiseau
+144. pesanteur de la pierre
+145. élégance de la danseuse
+146. vulgarité du nouveau riche
+147. distinction de l'aristocrate
+148. trivialité du populaire
+149. raffinement du gourmet
+150. simplicité du paysan
+
+## Qualités physiques et sensorielles (151-250)
+151. beauté de la femme
+152. laideur du monstre
+153. charme de l'actrice
+154. disgrâce de l'infirme
+155. grâce de l'enfant
+156. lourdeur du mastodonte
+157. finesse des traits
+158. grossièreté des formes
+159. délicatesse de la porcelaine
+160. rudesse de l'écorce
+161. douceur de la soie
+162. âpreté du tissu
+163. mollesse du coussin
+164. dureté de la pierre
+165. souplesse du cuir
+166. rigidité du métal
+167. flexibilité de l'osier
+168. cassant du verre
+169. élasticité du caoutchouc
+170. plasticité de l'argile
+171. fluidité de l'eau
+172. viscosité du miel
+173. liquidité du mercure
+174. solidité du roc
+175. fragilité de l'œuf
+176. résistance de l'acier
+177. solidité du béton
+178. précarité de l'équilibre
+179. stabilité de la base
+180. instabilité de la tour
+181. fermeté de la poignée
+182. mollesse de la chair
+183. tonicité du muscle
+184. flaccidité de la peau
+185. tension du câble
+186. relâchement du lien
+187. compression de l'air
+188. dilatation du gaz
+189. contraction du muscle
+190. extension du ressort
+191. rétrécissement du tube
+192. élargissement de l'ouverture
+193. réduction de la taille
+194. augmentation du volume
+195. diminution de la masse
+196. accroissement du poids
+197. allègement de la charge
+198. alourdissement du fardeau
+199. légèreté de la plume
+200. lourdeur du plomb
+201. finesse de l'or
+202. grossièreté du sable
+203. pureté du cristal
+204. impureté de la boue
+205. netteté de l'image
+206. flou de la photo
+207. clarté de l'eau
+208. opacité du verre
+209. transparence de l'air
+210. opacité du métal
+211. luminosité de l'étoile
+212. obscurité de la nuit
+213. brillance du diamant
+214. matité de la terre
+215. éclat du soleil
+216. ternissure du métal
+217. scintillement de la paillette
+218. extinction de la flamme
+219. incandescence du métal
+220. froideur de la glace
+221. chaleur du feu
+222. tiédeur de l'eau
+223. fraîcheur de l'air
+224. brûlure du fer
+225. gelée de l'hiver
+226. humidité de l'atmosphère
+227. sécheresse du désert
+228. moiteur de la peau
+229. aridité du sol
+230. saturation de l'éponge
+231. dessèchement de la plante
+232. hydratation de la peau
+233. déshydratation du corps
+234. imprégnation du tissu
+235. évaporation de l'eau
+236. condensation de la vapeur
+237. cristallisation du sel
+238. dissolution du sucre
+239. précipitation du calcaire
+240. sublimation de la glace
+241. fusion de la cire
+242. solidification de l'eau
+243. congélation du liquide
+244. ébullition de l'eau
+245. vaporisation de l'alcool
+246. distillation du vin
+247. fermentation du raisin
+248. putréfaction de la chair
+249. décomposition du cadavre
+250. oxydation du fer
+
+## Qualités esthétiques et artistiques (251-350)
+251. harmonie de la musique
+252. discordance des sons
+253. mélodie du chant
+254. cacophonie du bruit
+255. rythme de la danse
+256. arythmie du cœur
+257. cadence de la marche
+258. désordre du mouvement
+259. symétrie du bâtiment
+260. asymétrie du visage
+261. proportion de la statue
+262. disproportion du corps
+263. équilibre de la composition
+264. déséquilibre de l'œuvre
+265. unité du style
+266. disparité des éléments
+267. cohérence du discours
+268. incohérence du propos
+269. logique de l'argumentation
+270. absurdité du raisonnement
+271. pertinence de l'exemple
+272. inadéquation de l'illustration
+273. justesse de l'expression
+274. fausseté de l'affirmation
+275. vérité de l'observation
+276. mensonge de l'accusation
+277. sincérité de l'aveu
+278. artifice de la comédie
+279. naturel de l'attitude
+280. affectation du geste
+281. simplicité de l'habit
+282. sophistication de la tenue
+283. sobriété de la décoration
+284. exubérance de l'ornement
+285. dépouillement du style
+286. surcharge de l'ensemble
+287. pureté de la ligne
+288. contamination de l'œuvre
+289. netteté du trait
+290. bavure de l'esquisse
+291. précision du dessin
+292. approximation de l'ébauche
+293. fini de l'œuvre
+294. inachèvement de l'esquisse
+295. perfection du chef-d'œuvre
+296. imperfection de l'amateur
+297. maîtrise de l'artiste
+298. maladresse de l'apprenti
+299. virtuosité du musicien
+300. médiocrité de l'interprète
+301. talent du peintre
+302. absence du copiste
+303. génie du créateur
+304. banalité de l'imitateur
+305. originalité de l'inventeur
+306. plagiat du copieur
+307. innovation de l'artiste
+308. répétition du manœuvre
+309. créativité de l'enfant
+310. stérilité du critique
+311. imagination du poète
+312. réalisme du photographe
+313. fantaisie de l'auteur
+314. rigueur du chroniqueur
+315. poésie du vers
+316. prosaïsme de l'article
+317. lyrisme du chant
+318. sécheresse du rapport
+319. épique de l'histoire
+320. trivialité du fait divers
+321. dramatique de la scène
+322. platitude de l'échange
+323. comique de la situation
+324. tragique du destin
+325. sublime de l'art
+326. ridicule de l'affectation
+327. grandeur de l'âme
+328. petitesse de l'esprit
+329. noblesse du geste
+330. trivialité de l'acte
+331. élévation de la pensée
+332. bassesse du sentiment
+333. pureté de l'intention
+334. perversité du mobile
+335. droiture de la conduite
+336. tortuosité de la méthode
+337. franchise de l'expression
+338. ambiguïté du propos
+339. clarté de l'explication
+340. confusion de l'exposé
+341. limpidité du style
+342. opacité du texte
+343. transparence de l'intention
+344. obscurité du dessein
+345. évidence de la preuve
+346. mystère de l'énigme
+347. révélation de la vérité
+348. dissimulation du fait
+349. manifestation de l'émotion
+350. secret de la pensée
+
+## Qualités professionnelles et techniques (351-450)
+351. compétence de l'expert
+352. incompétence du novice
+353. expertise du spécialiste
+354. amateurisme du débutant
+355. professionnalisme du métier
+356. dilettantisme de l'amateur
+357. savoir-faire de l'artisan
+358. maladresse de l'apprenti
+359. expérience du vétéran
+360. inexpérience de la recrue
+361. ancienneté du doyen
+362. nouveauté du stagiaire
+363. routine du fonctionnaire
+364. innovation de l'entrepreneur
+365. tradition du métier
+366. modernité de l'approche
+367. conservatisme du système
+368. progressisme de la méthode
+369. efficacité de l'organisation
+370. inefficacité de la bureaucratie
+371. productivité de l'usine
+372. improductivité du service
+373. rentabilité de l'entreprise
+374. déficit de la société
+375. bénéfice de l'opération
+376. perte de l'investissement
+377. gain du commerce
+378. coût de la production
+379. économie de la gestion
+380. gaspillage de l'administration
+381. optimisation du processus
+382. dégradation du système
+383. amélioration de la qualité
+384. détérioration du service
+385. perfectionnement de la technique
+386. régression de l'art
+387. progression du savoir
+388. stagnation de la science
+389. développement de l'industrie
+390. déclin de l'activité
+391. croissance de l'économie
+392. récession du marché
+393. expansion de l'entreprise
+394. contraction des affaires
+395. dynamisme de l'équipe
+396. atonie du groupe
+397. vitalité de l'organisation
+398. moribondité de l'institution
+399. jeunesse de l'entreprise
+400. vétusté de l'équipement
+401. modernité de l'outil
+402. archaïsme de la méthode
+403. actualité de l'information
+404. péremption de la donnée
+405. fraîcheur de la nouvelle
+406. vieillissement du produit
+407. nouveauté de l'invention
+408. ancienneté de l'usage
+409. originalité de l'idée
+410. banalité de la conception
+411. singularité de l'approche
+412. uniformité du procédé
+413. diversité de l'offre
+414. monotonie de la gamme
+415. variété du choix
+416. limitation de l'option
+417. richesse de l'assortiment
+418. pauvreté de la sélection
+419. abondance de la production
+420. rareté du produit
+421. profusion de l'offre
+422. pénurie de la demande
+423. suffisance de la quantité
+424. insuffisance du stock
+425. excès de la production
+426. manque de la fourniture
+427. surplus de l'inventaire
+428. déficit de l'approvisionnement
+429. plénitude du magasin
+430. vide de l'entrepôt
+431. saturation du marché
+432. demande du consommateur
+433. offre du producteur
+434. concurrence du rival
+435. monopole de l'entreprise
+436. domination du leader
+437. soumission du suiveur
+438. indépendance de l'artisan
+439. dépendance du salarié
+440. autonomie du patron
+441. subordination de l'employé
+442. liberté de l'entrepreneur
+443. contrainte du règlement
+444. flexibilité de l'organisation
+445. rigidité de la structure
+446. adaptabilité du système
+447. inadaptation de l'outil
+448. polyvalence de l'agent
+449. spécialisation de l'expert
+450. généralisme du consultant
+
+## Qualités relationnelles et sociales (451-550)
+451. sociabilité de l'hôte
+452. sauvagerie de l'ermite
+453. convivialité de l'ami
+454. hostilité de l'ennemi
+455. amabilité de la dame
+456. rudesse du rustre
+457. politesse de l'enfant
+458. grossièreté du malotru
+459. courtoisie du chevalier
+460. incivilité du voyou
+461. urbanité du citadin
+462. rusticité du paysan
+463. raffinement de l'aristocrate
+464. vulgarité du parvenu
+465. distinction de la dame
+466. trivialité de la servante
+467. élégance de la mondaine
+468. négligé de la bohème
+469. chic de la parisienne
+470. débraillé du clochard
+471. prestance du ministre
+472. insignifiance du petit
+473. charisme du leader
+474. banalité du suiveur
+475. magnétisme de l'orateur
+476. fadeur du conférencier
+477. séduction de l'actrice
+478. répulsion du monstre
+479. attraction de l'aimant
+480. répugnance du cadavre
+481. sympathie du public
+482. antipathie de l'assistance
+483. popularité de la star
+484. impopularité du tyran
+485. célébrité de l'artiste
+486. anonymat de l'inconnu
+487. notoriété du personnage
+488. discrétion du modeste
+489. ostentation du riche
+490. modestie du sage
+491. orgueil du vaniteux
+492. humilité du moine
+493. fierté du père
+494. honte du coupable
+495. dignité du magistrat
+496. indignité du traître
+497. honneur du soldat
+498. déshonneur du déserteur
+499. gloire du héros
+500. infamie du lâche
+501. respect de l'âge
+502. irrespect de la jeunesse
+503. vénération du fidèle
+504. blasphème de l'impie
+505. déférence du sujet
+506. insolence du rebelle
+507. soumission de l'esclave
+508. rébellion du prisonnier
+509. obéissance de l'enfant
+510. désobéissance de l'adolescent
+511. discipline du militaire
+512. indiscipline de la troupe
+513. ordre du commandant
+514. désordre de la révolte
+515. autorité du chef
+516. anarchie du groupe
+517. pouvoir du roi
+518. impuissance du peuple
+519. domination du maître
+520. libération de l'esclave
+521. oppression du tyran
+522. résistance du patriote
+523. collaboration du traître
+524. trahison de l'espion
+525. fidélité du servant
+526. abandon du lâche
+527. constance de l'amoureux
+528. inconstance du volage
+529. persévérance du chercheur
+530. incertitude du douteur
+531. assurance de l'expert
+532. hésitation du novice
+533. confiance de l'ami
+534. méfiance de l'ennemi
+535. crédulité de l'innocent
+536. scepticisme du philosophe
+537. foi du croyant
+538. doute de l'athée
+539. certitude du dogme
+540. interrogation de l'enquête
+541. affirmation du témoin
+542. négation de l'accusé
+543. confirmation du fait
+544. infirmation de la thèse
+545. validation de l'hypothèse
+546. réfutation de l'argument
+547. démonstration de l'évidence
+548. contestation de la preuve
+549. acceptation de la vérité
+550. refus de l'évidence
+
+## Qualités temporelles et spatiales (551-650)
+551. ancienneté de l'édifice
+552. nouveauté de la construction
+553. vétusté du bâtiment
+554. fraîcheur de la peinture
+555. jeunesse du couple
+556. maturité de l'adulte
+557. vieillesse du patriarche
+558. enfance du souvenir
+559. adolescence du rêve
+560. âge de la raison
+561. rapidité de l'éclair
+562. lenteur de l'escargot
+563. vitesse du guépard
+564. immobilité de la montagne
+565. mouvement de la mer
+566. agitation de la foule
+567. calme du lac
+568. turbulence de l'air
+569. sérénité du soir
+570. violence de l'orage
+571. douceur de la brise
+572. force du vent
+573. faiblesse du souffle
+574. puissance du moteur
+575. impuissance de la machine
+576. énergie de l'explosion
+577. mollesse de l'impact
+578. vigueur de l'attaque
+579. débilité de la défense
+580. intensité de la lumière
+581. faiblesse de l'éclairage
+582. luminosité du jour
+583. obscurité de la cave
+584. clarté de l'aube
+585. ténèbres de la nuit
+586. pénombre du soir
+587. éclat du diamant
+588. matité du plomb
+589. brillance de l'or
+590. ternissure de l'argent
+591. scintillement des étoiles
+592. extinction du feu
+593. hauteur de la tour
+594. profondeur du puits
+595. largeur de la route
+596. étroitesse du sentier
+597. longueur du fleuve
+598. brièveté du ruisseau
+599. étendue de la plaine
+600. exiguïté de la chambre
+601. vastitude de l'océan
+602. petitesse de la goutte
+603. immensité du ciel
+604. finitude de l'existence
+605. infinité de l'univers
+606. limitation de l'espace
+607. expansion de l'cosmos
+608. contraction de l'atome
+609. grandeur de l'ensemble
+610. minutie du détail
+611. globalité de la vue
+612. particularité du cas
+613. généralité de la règle
+614. spécificité de l'exemple
+615. universalité de la loi
+616. singularité du phénomène
+617. multiplicité des cas
+618. unicité de l'être
+619. pluralité des voix
+620. unité de la nation
+621. diversité des peuples
+622. uniformité de l'armée
+623. variété des espèces
+624. monotonie du paysage
+625. richesse de la nature
+626. pauvreté du sol
+627. fertilité de la terre
+628. stérilité du désert
+629. fécondité de la femme
+630. aridité du climat
+631. humidité de l'air
+632. sécheresse de la saison
+633. moiteur de la peau
+634. dessèchement de la gorge
+635. saturation de l'éponge
+636. évaporation de l'eau
+637. condensation de la rosée
+638. sublimation de la neige
+639. fusion de la glace
+640. solidification du métal
+641. liquéfaction du gaz
+642. vaporisation du liquide
+643. cristallisation du sel
+644. dissolution du sucre
+645. précipitation de la pluie
+646. sédimentation de la vase
+647. accumulation des déchets
+648. dispersion du pollen
+649. concentration de l'essence
+650. dilution de l'alcool
+
+## Qualités sensorielles et perceptuelles (651-750)
+651. douceur du velours
+652. rugosité de l'écorce
+653. lissé de la soie
+654. aspérité de la lime
+655. mollesse de l'oreiller
+656. dureté de la pierre
+657. élasticité du caoutchouc
+658. rigidité de l'acier
+659. flexibilité de l'osier
+660. cassant du verre
+661. plasticité de l'argile
+662. fluidité de l'huile
+663. viscosité du miel
+664. liquidité de l'eau
+665. solidité du roc
+666. fragilité de l'œuf
+667. résistance du diamant
+668. transparence du cristal
+669. opacité du métal
+670. translucidité du jade
+671. luminosité de la perle
+672. brillance de l'or
+673. matité de l'argile
+674. éclat du soleil
+675. ternissure du cuivre
+676. scintillement de la paillette
+677. miroitement de l'eau
+678. chatoiement de la soie
+679. irisé de la bulle
+680. opalescence de la nacre
+681. phosphorescence de la mer
+682. luminescence du ver
+683. fluorescence du minéral
+684. incandescence du fer
+685. blancheur de la neige
+686. noirceur du charbon
+687. rougeur du sang
+688. verdeur de l'herbe
+689. bleuté du ciel
+690. jaunissement des feuilles
+691. brunissement du pain
+692. grisaille du temps
+693. coloration de l'automne
+694. décoloration du tissu
+695. teinte de l'aquarelle
+696. nuance du pastel
+697. ton de la voix
+698. timbre de l'instrument
+699. sonorité de la cloche
+700. résonance de l'écho
+701. harmonie de l'accord
+702. dissonance de la note
+703. mélodie du chant
+704. cacophonie du bruit
+705. silence de la nuit
+706. vacarme de l'usine
+707. murmure du vent
+708. rugissement du lion
+709. sifflement du serpent
+710. gazouillment de l'oiseau
+711. bourdonnement de l'abeille
+712. craquement du bois
+713. grincement de la porte
+714. claquement du fouet
+715. tintement de la cloche
+716. sonnerie du téléphone
+717. carillon de l'église
+718. fracas de l'orage
+719. grondement du tonnerre
+720. chuintement de la vapeur
+721. bruissement des feuilles
+722. clapotis des vagues
+723. gargouillis de l'eau
+724. bouillonnement de la source
+725. parfum de la rose
+726. puanteur de l'égout
+727. arôme du café
+728. fétidité du cadavre
+729. fragrance du jasmin
+730. pestilence de la charogne
+731. senteur de la forêt
+732. empuantissement de l'air
+733. embaumement de l'encens
+734. effluves du printemps
+735. relents de l'alcool
+736. émanations du marais
+737. exhalaisons de la terre
+738. bouffées du vent
+739. saveur du fruit
+740. amertume de l'absinthe
+741. douceur du miel
+742. acidité du citron
+743. âcreté de la fumée
+744. fadeur de l'eau
+745. piquant du piment
+746. salé de la mer
+747. sucré du bonbon
+748. épicé du curry
+749. relevé de la moutarde
+750. insipidité du bouillon
+
+## Qualités émotionnelles et affectives (751-850)
+751. tendresse de la mère
+752. dureté du père
+753. affection de l'ami
+754. indifférence de l'étranger
+755. amour de l'épouse
+756. haine de l'ennemi
+757. passion de l'amoureux
+758. tiédeur du mari
+759. ardeur de la jeunesse
+760. froideur de l'âge
+761. chaleur de l'accueil
+762. glaciale de la réception
+763. cordialité de l'hôte
+764. hostilité du maître
+765. bienveillance du juge
+766. malveillance du témoin
+767. générosité du donateur
+768. avarice de l'usurier
+769. largesse du prince
+770. pingrerie du bourgeois
+771. munificence du mécène
+772. ladrerie du grippe-sou
+773. prodigalité du fils
+774. économie de la mère
+775. gaspillage de l'héritier
+776. épargne de la fourmi
+777. prévoyance du sage
+778. imprévoyance de l'enfant
+779. prudence de l'ancien
+780. témérité du jeune
+781. audace de l'aventurier
+782. pusillanimité du peureux
+783. bravoure du soldat
+784. couardise du lâche
+785. vaillance du héros
+786. poltronnerie du pleutre
+787. intrépidité du dompteur
+788. crainte de la souris
+789. assurance de l'expert
+790. timidité de la jeune fille
+791. confiance de l'ami
+792. méfiance de l'ennemi
+793. sûreté de soi
+794. doute de l'esprit
+795. certitude de la foi
+796. incertitude du lendemain
+797. espoir de l'avenir
+798. désespoir du présent
+799. optimisme de la jeunesse
+800. pessimisme de l'âge
+801. joie de vivre
+802. spleen de l'automne
+803. gaieté de l'enfant
+804. mélancolie du poète
+805. allégresse de la fête
+806. tristesse de l'adieu
+807. enjouement de l'ami
+808. morosité du malade
+809. enthousiasme du novice
+810. dégoût du blasé
+811. émerveillement de l'innocent
+812. cynisme du vieux
+813. naïveté de l'enfance
+814. perversité de l'adulte
+815. innocence de l'agneau
+816. malice du renard
+817. candeur de la jeune fille
+818. roublardise du marchand
+819. simplicité de l'artisan
+820. sophistication du mondain
+821. rusticité du campagnard
+822. urbanité du citadin
+823. sauvagerie du primitif
+824. civilisation de l'homme
+825. barbarie du conquérant
+826. culture de l'élite
+827. inculture de la masse
+828. raffinement de l'esthète
+829. grossièreté du rustre
+830. délicatesse de l'âme
+831. brutalité de la bête
+832. sensibilité du poète
+833. insensibilité du bourreau
+834. susceptibilité de l'artiste
+835. indifférence du philistin
+836. émotivité de la femme
+837. impassibilité de l'homme
+838. nervosité du cheval
+839. placidité de la vache
+840. excitabilité du sang
+841. flegme de l'anglais
+842. vivacité de l'esprit
+843. atonie du corps
+844. dynamisme de l'action
+845. léthargie du sommeil
+846. énergie de la jeunesse
+847. apathie de la vieillesse
+848. vitalité de l'organisme
+849. langueur de l'âme
+850. vigueur de la santé
+
+## Qualités comportementales et caractérielles (851-950)
+851. discipline du militaire
+852. anarchie de l'artiste
+853. méthode du scientifique
+854. désordre de l'enfant
+855. organisation du chef
+856. chaos de la situation
+857. rigueur du juge
+858. laxisme du parent
+859. sévérité du maître
+860. indulgence de la grand-mère
+861. fermeté de la décision
+862. mollesse de l'attitude
+863. détermination de l'esprit
+864. hésitation du caractère
+865. résolution de l'homme
+866. irrésolution de la femme
+867. constance de l'amour
+868. inconstance du cœur
+869. fidélité du chien
+870. versatilité du chat
+871. loyauté du serviteur
+872. déloyauté du traître
+873. droiture de l'âme
+874. tortuosité de l'esprit
+875. franchise du regard
+876. sournoiserie du geste
+877. sincérité de l'aveu
+878. hypocrisie du discours
+879. vérité de l'enfant
+880. mensonge de l'adulte
+881. authenticité de l'être
+882. artifice de la comédie
+883. naturel de l'expression
+884. affectation du maintien
+885. spontanéité de la réaction
+886. calcul de l'attitude
+887. impulsivité du tempérament
+888. réflexion de l'intelligence
+889. précipitation de la jeunesse
+890. prudence de l'expérience
+891. témérité de l'ignorance
+892. circonspection du sage
+893. audace de l'innovateur
+894. pusillanimité du conformiste
+895. hardiesse du pionnier
+896. timidité du suiveur
+897. bravoure du héros
+898. couardise du pleutre
+899. intrépidité de l'explorateur
+900. poltronnerie du lâche
+901. vaillance du combattant
+902. défaillance du faible
+903. résistance de l'opprimé
+904. soumission de l'esclave
+905. rébellion du révolté
+906. obéissance de l'enfant
+907. insubordination du rebelle
+908. docilité de l'élève
+909. indocilité de l'adolescent
+910. malléabilité de l'argile
+911. rigidité du système
+912. flexibilité de l'esprit
+913. intransigeance du dogme
+914. tolérance de l'âme
+915. fanatisme de l'esprit
+916. modération du sage
+917. extrémisme du radical
+918. mesure de l'acte
+919. démesure de la passion
+920. équilibre de la raison
+921. déséquilibre de l'émotion
+922. pondération du jugement
+923. emportement de la colère
+924. calme de l'esprit
+925. agitation du cœur
+926. sérénité de l'âme
+927. trouble de la conscience
+928. paix intérieure
+929. guerre des sentiments
+930. harmonie de l'être
+931. discord de l'âme
+932. unité de la personne
+933. division de l'esprit
+934. cohérence du caractère
+935. incohérence du comportement
+936. logique de l'action
+937. absurdité de la conduite
+938. rationalité de l'approche
+939. irrationalité de la peur
+940. sagesse de l'âge
+941. folie de la jeunesse
+942. maturité de l'esprit
+943. puérilité de l'attitude
+944. gravité de la situation
+945. légèreté de l'humeur
+946. profondeur de la pensée
+947. superficialité du propos
+948. substance de l'idée
+949. vacuité de l'esprit
+950. plénitude de l'âme
+
+## Qualités spirituelles et philosophiques (951-1000)
+951. spiritualité de l'âme
+952. matérialisme de l'époque
+953. mysticisme de l'extase
+954. rationalisme de la science
+955. idéalisme de la jeunesse
+956. réalisme de l'expérience
+957. romantisme du cœur
+958. classicisme de l'art
+959. modernité de l'approche
+960. traditionalisme de l'école
+961. progressisme de l'idée
+962. conservatisme du parti
+963. libéralisme de l'esprit
+964. autoritarisme du régime
+965. démocratisme de l'institution
+966. totalitarisme de l'État
+967. individualisme de l'artiste
+968. collectivisme de la société
+969. humanisme de la pensée
+970. nihilisme de l'époque
+971. existentialisme de la philosophie
+972. essentialisme de la doctrine
+973. relativisme de l'opinion
+974. absolutisme de la vérité
+975. scepticisme de l'intelligence
+976. dogmatisme de la foi
+977. pragmatisme de l'action
+978. utopisme du rêve
+979. réalisme de la politique
+980. idéalisme de la morale
+981. cynisme de l'expérience
+982. naïveté de l'innocence
+983. sagesse de la tradition
+984. innovation de l'esprit
+985. créativité de l'imagination
+986. stérilité de l'imitation
+987. originalité de la pensée
+988. banalité du lieu commun
+989. profondeur de l'analyse
+990. superficialité de l'examen
+991. perspicacité de l'observation
+992. myopie de la vision
+993. clairvoyance de l'intuition
+994. aveuglement de la passion
+995. lucidité de la raison
+996. confusion de l'esprit
+997. clarté de la conscience
+998. obscurité de l'inconscient
+999. évidence de la vérité
+1000. mystère de l'existence

@@ -1,0 +1,1025 @@
+# 1000 exemples de relation sémantique Conséquence (Co)
+
+*Structure : N1 de N2 où N1 est la conséquence/résultat de N2*
+
+## Catastrophes naturelles et météo (1-50)
+1. dégâts de la tempête
+2. ravages du cyclone
+3. destructions de l'ouragan
+4. inondations de la crue
+5. effondrements du tremblement de terre
+6. brûlures du soleil
+7. gelées de l'hiver
+8. sécheresse de la canicule
+9. avalanches de la neige
+10. érosion de la pluie
+11. fissures du gel
+12. déformations de la chaleur
+13. coulées de la fonte
+14. débordements de l'orage
+15. chutes de la grêle
+16. tourbillons du vent
+17. affaissements de l'érosion
+18. craquelures de la sécheresse
+19. submersions de la marée
+20. glissements de terrain
+21. ruptures de la digue
+22. embâcles de la glace
+23. déracinements du vent
+24. éboulements de la pluie
+25. fractures du froid
+26. dilatations de la chaleur
+27. condensations de l'humidité
+28. cristallisations du gel
+29. évaporations du soleil
+30. précipitations du nuage
+31. formations de l'orage
+32. accumulations de la neige
+33. stagnations de l'eau
+34. écoulements de la pluie
+35. infiltrations de l'humidité
+36. saturations de l'eau
+37. dessèchements de la chaleur
+38. durcissements du froid
+39. ramollissements de la chaleur
+40. oxydations de l'air
+41. corrosions de l'humidité
+42. altérations du temps
+43. dégradations du climat
+44. modifications de la température
+45. transformations du gel
+46. mutations de la météo
+47. évolutions du temps
+48. changements de saison
+49. variations de température
+50. fluctuations du climat
+
+## Accidents et incidents (51-100)
+51. blessures de l'accident
+52. fractures de la chute
+53. brûlures de l'explosion
+54. coupures du verre
+55. égratignures de la ronce
+56. ecchymoses du choc
+57. traumatismes du crash
+58. séquelles de l'opération
+59. cicatrices de l'accident
+60. handicap de la maladie
+61. paralysie de l'attaque
+62. amnésie du traumatisme
+63. troubles de l'accident
+64. complications de l'intervention
+65. rechutes de la maladie
+66. aggravations du traitement
+67. effets de la médication
+68. réactions du médicament
+69. allergies du produit
+70. intoxications du poison
+71. empoisonnements de la substance
+72. contaminations de la pollution
+73. infections du virus
+74. contagions de la maladie
+75. épidémies du germe
+76. propagations du virus
+77. transmissions de la maladie
+78. diffusions de l'infection
+79. extensions de l'épidémie
+80. développements de la maladie
+81. progressions du mal
+82. évolutions de la pathologie
+83. dégénérescences de l'âge
+84. détériorations de la santé
+85. affaiblissements de l'âge
+86. vieillissements du temps
+87. usures de l'âge
+88. fatigues du travail
+89. épuisements de l'effort
+90. surmenages du stress
+91. dépressions de l'échec
+92. angoisses de l'attente
+93. phobies du trauma
+94. névroses de l'enfance
+95. psychoses de la drogue
+96. addictions de l'alcool
+97. dépendances de la drogue
+98. accoutumances du produit
+99. tolerances de l'usage
+100. sevrages de l'arrêt
+
+## Activités humaines et travail (101-200)
+101. fatigue du travail
+102. courbatures de l'exercice
+103. sueurs de l'effort
+104. essoufflement de la course
+105. crampes de l'entraînement
+106. douleurs de la gymnastique
+107. tensions de l'étude
+108. maux de tête du stress
+109. insomnies de l'anxiété
+110. cauchemars de la peur
+111. réussites du travail
+112. échecs de la paresse
+113. promotions du mérite
+114. licenciements de la crise
+115. chômage de la récession
+116. faillites de la gestion
+117. bénéfices de l'investissement
+118. pertes de la spéculation
+119. profits de la vente
+120. déficits de la dépense
+121. dettes de l'emprunt
+122. créances de la vente
+123. intérêts du placement
+124. dividendes de l'action
+125. plus-values de la vente
+126. moins-values de la perte
+127. amortissements du temps
+128. dépréciations de l'usage
+129. obsolescences de l'évolution
+130. renouvellements de la mode
+131. innovations de la recherche
+132. découvertes de la science
+133. inventions de l'imagination
+134. créations de l'art
+135. productions de l'industrie
+136. fabrications de l'usine
+137. manufactures de l'atelier
+138. confections de l'artisan
+139. réalisations de l'architecte
+140. constructions de l'entrepreneur
+141. édifications du maçon
+142. installations de l'électricien
+143. réparations du mécanicien
+144. maintenances du technicien
+145. entretiens du jardinier
+146. nettoyages de la femme de ménage
+147. cuisines du chef
+148. préparations du cuisinier
+149. services du serveur
+150. ventes du vendeur
+151. achats de l'acheteur
+152. négociations du commercial
+153. contrats du représentant
+154. accords du négociateur
+155. signatures du directeur
+156. décisions du patron
+157. ordres du chef
+158. instructions du supérieur
+159. consignes du responsable
+160. directives de la direction
+161. recommandations du conseil
+162. conseils de l'expert
+163. expertises du spécialiste
+164. diagnostics du médecin
+165. prescriptions du docteur
+166. traitements du thérapeute
+167. soins de l'infirmière
+168. guérisons du remède
+169. récupérations du repos
+170. rétablissements du traitement
+171. améliorations de l'exercice
+172. progressions de l'entraînement
+173. perfectionnements de la pratique
+174. maîtrises de l'apprentissage
+175. acquisitions de l'étude
+176. apprentissages de l'école
+177. formations de l'université
+178. éducations de l'enseignement
+179. instructions du professeur
+180. leçons du maître
+181. cours de l'instituteur
+182. enseignements du formateur
+183. transmissions du savoir
+184. diffusions de la connaissance
+185. propagations de l'information
+186. communications du message
+187. informations de la presse
+188. nouvelles du journal
+189. annonces de la radio
+190. émissions de la télévision
+191. programmes de la chaîne
+192. spectacles du théâtre
+193. représentations de la troupe
+194. concerts de l'orchestre
+195. exhibitions de l'artiste
+196. démonstrations du spécialiste
+197. présentations du conférencier
+198. expositions du musée
+199. collections du collectionneur
+200. accumulations du temps
+
+## Émotions et relations sociales (201-300)
+201. joie de la victoire
+202. tristesse de l'échec
+203. colère de l'injustice
+204. rage de la frustration
+205. fureur de la trahison
+206. irritation de l'attente
+207. agacement du retard
+208. exaspération de la répétition
+209. énervement du bruit
+210. stress de l'examen
+211. angoisse de l'inconnu
+212. inquiétude de l'absence
+213. soucis de l'argent
+214. préoccupations de l'avenir
+215. tracas du quotidien
+216. embarras de la situation
+217. gêne du regard
+218. honte de l'erreur
+219. confusion de la surprise
+220. trouble de la nouveauté
+221. émoi de la rencontre
+222. émotion de la découverte
+223. enthousiasme de la passion
+224. excitation de l'attente
+225. impatience du désir
+226. hâte de partir
+227. empressement de l'urgence
+228. précipitation de la panique
+229. affolement de la peur
+230. terreur de l'inconnu
+231. effroi du danger
+232. épouvante de l'horreur
+233. frayeur du bruit
+234. crainte du risque
+235. appréhension de l'examen
+236. méfiance de l'expérience
+237. suspicion du doute
+238. jalousie de l'amour
+239. envie du succès
+240. ressentiment de l'injustice
+241. rancune de l'offense
+242. amertume de la déception
+243. déception de l'espoir
+244. désillusion de la réalité
+245. découragement de l'échec
+246. démotivation de la routine
+247. lassitude de la répétition
+248. ennui de l'inactivité
+249. monotonie de la routine
+250. nostalgie du passé
+251. mélancolie de l'automne
+252. spleen de l'hiver
+253. cafard de la pluie
+254. déprime du dimanche
+255. solitude de l'isolement
+256. abandon de la séparation
+257. détresse de la perte
+258. chagrin de la mort
+259. deuil de la disparition
+260. pleurs de la douleur
+261. larmes de l'émotion
+262. sanglots du désespoir
+263. gémissements de la souffrance
+264. plaintes de la douleur
+265. cris de la peur
+266. hurlements de la rage
+267. vociférations de la colère
+268. exclamations de la surprise
+269. soupirs de la fatigue
+270. halètements de l'effort
+271. suffocations de l'émotion
+272. palpitations du stress
+273. tremblements de la peur
+274. frissons du froid
+275. sueurs de l'angoisse
+276. rougeurs de la honte
+277. pâleurs de l'émotion
+278. blêmissements de la peur
+279. évanouissements du choc
+280. syncopes de l'émotion
+281. malaises de la chaleur
+282. vertiges de la hauteur
+283. nausées de la maladie
+284. vomissements de l'intoxication
+285. hoquets de l'émotion
+286. éternuements de l'allergie
+287. toux de la grippe
+288. rhumes de l'hiver
+289. fièvres de l'infection
+290. courbatures de la maladie
+291. maux de l'âge
+292. douleurs de la vieillesse
+293. raideurs du froid
+294. engourdissements de l'immobilité
+295. fourmillements de la position
+296. picotements de la circulation
+297. démangeaisons de l'allergie
+298. irritations du produit
+299. inflammations de l'infection
+300. gonflements du traumatisme
+
+## Processus naturels et transformations (301-400)
+301. rouille de l'humidité
+302. moisissures de l'humidité
+303. pourriture de l'eau
+304. décompositions du temps
+305. fermentations de la chaleur
+306. putréfactions de l'abandon
+307. altérations de l'air
+308. oxydations de l'oxygène
+309. corrosions de l'acide
+310. érosions du temps
+311. usures du frottement
+312. abrasions du contact
+313. rayures du frottement
+314. griffures de l'usage
+315. entailles du couteau
+316. perforations du clou
+317. trouées de la vrille
+318. déchirures de la force
+319. ruptures de la tension
+320. cassures du choc
+321. brisures de l'impact
+322. fractures du poids
+323. fêlures du gel
+324. lézardes du temps
+325. crevasses de la sécheresse
+326. failles du mouvement
+327. ouvertures de la pression
+328. béances de l'écartement
+329. distensions de la force
+330. élargissements de l'usage
+331. agrandissements de l'extension
+332. extensions de la croissance
+333. développements du temps
+334. croissances de la nutrition
+335. pousses du printemps
+336. germinations de la graine
+337. éclosions de l'œuf
+338. naissances de la vie
+339. formations de la nature
+340. créations de l'évolution
+341. transformations du temps
+342. métamorphoses de la croissance
+343. mutations de l'adaptation
+344. évolutions de l'espèce
+345. adaptations de l'environnement
+346. sélections de la survie
+347. survivances de l'adaptation
+348. persistances de la résistance
+349. résistances de l'habitude
+350. endurances de l'entraînement
+351. accoutumances de la répétition
+352. habitudes de l'usage
+353. automatismes de l'entraînement
+354. réflexes de l'instinct
+355. instincts de la nature
+356. naturels de la naissance
+357. innés de la génétique
+358. héréditaires de l'hérédité
+359. transmissions de la génération
+360. successions de l'héritage
+361. héritages de la famille
+362. patrimoines de l'ancêtre
+363. legs du testateur
+364. donations du bienfaiteur
+365. cadeaux de la générosité
+366. présents de l'affection
+367. offrandes de la dévotion
+368. sacrifices de l'amour
+369. renoncements de la sagesse
+370. abandons de la lassitude
+371. désistements de l'échec
+372. démissions de la fatigue
+373. retraites de l'âge
+374. repos de la fatigue
+375. sommeils de l'épuisement
+376. rêves de la nuit
+377. cauchemars de l'angoisse
+378. réveils du bruit
+379. sursauts de la peur
+380. sobresauts de la surprise
+381. soubresauts de l'émotion
+382. tressaillements de l'effroi
+383. saisissements de la peur
+384. stupéfactions de la nouvelle
+385. émerveillements de la beauté
+386. enchantements de la découverte
+387. ravissements de l'art
+388. extases de l'amour
+389. jouissances du plaisir
+390. délices de la volupté
+391. bonheurs de la réussite
+392. félicités de l'amour
+393. béatitudes de la paix
+394. sérénités de la sagesse
+395. quiétudes de la nature
+396. tranquillités du soir
+397. calmes de la méditation
+398. silences de la concentration
+399. recueillements de la prière
+400. contemplations de la beauté
+
+## Conséquences économiques et commerciales (401-500)
+401. inflation de la demande
+402. déflation de la récession
+403. dévaluations de la crise
+404. réévaluations de la croissance
+405. fluctuations du marché
+406. variations des cours
+407. oscillations de la bourse
+408. chutes des actions
+409. effondrement du marché
+410. krach de la spéculation
+411. bulles de l'euphorie
+412. corrections du marché
+413. ajustements de l'économie
+414. régulations de l'État
+415. interventions du gouvernement
+416. mesures de la politique
+417. décisions du ministre
+418. réformes du président
+419. changements de la loi
+420. modifications du règlement
+421. amendements de la constitution
+422. révisions du code
+423. actualisations de la norme
+424. mises à jour du système
+425. modernisations de l'organisation
+426. rénovations de l'entreprise
+427. restructurations de la société
+428. réorganisations du service
+429. redistributions des rôles
+430. redéfinitions des postes
+431. redéploiements du personnel
+432. reclassements des employés
+433. mutations des fonctionnaires
+434. affectations des agents
+435. nominations des cadres
+436. désignations des responsables
+437. élections des représentants
+438. sélections des candidats
+439. recrutements de l'entreprise
+440. embauches du directeur
+441. engagements du patron
+442. contrats de l'employeur
+443. accords du syndicat
+444. conventions de la profession
+445. négociations des partenaires
+446. discussions des parties
+447. débats de l'assemblée
+448. délibérations du conseil
+449. consultations de la commission
+450. expertises du comité
+451. études du bureau
+452. recherches du laboratoire
+453. investigations de l'enquêteur
+454. vérifications de l'inspecteur
+455. contrôles de l'auditeur
+456. audits de la société
+457. bilans de l'exercice
+458. comptes de l'entreprise
+459. résultats de l'activité
+460. performances de l'équipe
+461. réalisations du groupe
+462. accomplissements de l'individu
+463. exploits du champion
+464. prouesses de l'athlète
+465. records du sportif
+466. victoires de l'équipe
+467. triomphes du héros
+468. succès de l'artiste
+469. gloires de l'acteur
+470. célébrités de la star
+471. renommées du maître
+472. réputations de l'expert
+473. notoriétés du spécialiste
+474. popularités de l'animateur
+475. audiences de l'émission
+476. écoutes de la radio
+477. ventes du livre
+478. tirages du journal
+479. diffusions de l'information
+480. propagations de la nouvelle
+481. transmissions du message
+482. communications de l'entreprise
+483. publicités de la marque
+484. promotions du produit
+485. lancements de la campagne
+486. annonces de la publicité
+487. spots de la télévision
+488. affiches de la réclame
+489. prospectus de la promotion
+490. catalogues de la vente
+491. brochures de l'information
+492. dépliants de la présentation
+493. flyers de l'événement
+494. invitations de la fête
+495. convocations de la réunion
+496. citations du tribunal
+497. assignations de la justice
+498. notifications de l'huissier
+499. significations de l'avocat
+500. jugements du tribunal
+
+## Conséquences sociales et culturelles (501-600)
+501. traditions de l'histoire
+502. coutumes du peuple
+503. habitudes de la culture
+504. mœurs de la société
+505. usages de la communauté
+506. pratiques du groupe
+507. rituels de la religion
+508. cérémonies du culte
+509. célébrations de la fête
+510. commémorations de l'événement
+511. anniversaires de la naissance
+512. jubilés de l'institution
+513. centenaires de la fondation
+514. bicentenaires de la révolution
+515. millénaires de l'histoire
+516. héritages du passé
+517. legs de l'ancêtre
+518. transmissions de la génération
+519. successions de la famille
+520. continuités de la tradition
+521. perpétuations de l'usage
+522. conservations de la coutume
+523. préservations du patrimoine
+524. sauvegardes de la culture
+525. protections de l'identité
+526. défenses de la langue
+527. résistances de l'oppression
+528. oppositions du régime
+529. révoltes de l'injustice
+530. révolutions de l'histoire
+531. soulèvements du peuple
+532. insurrections de la misère
+533. émeutes de la colère
+534. manifestations du mécontentement
+535. protestations de l'indignation
+536. revendications du syndicat
+537. réclamations des employés
+538. plaintes des usagers
+539. doléances des citoyens
+540. griefs de la population
+541. reproches de la critique
+542. blâmes de l'autorité
+543. réprimandes du chef
+544. sanctions de la direction
+545. punitions du règlement
+546. pénalités de la loi
+547. amendes de l'infraction
+548. condamnations du tribunal
+549. sentences du juge
+550. verdicts du jury
+551. acquittements de l'innocence
+552. relaxes du doute
+553. libérations de la prison
+554. élargissements de la détention
+555. sorties de la captivité
+556. évasions de l'enfermement
+557. fuites de la poursuite
+558. échappées de la surveillance
+559. esquives du contrôle
+560. évitements du danger
+561. préventions du risque
+562. précautions de la prudence
+563. protections de la sécurité
+564. défenses de l'attaque
+565. résistances de l'agression
+566. ripostes de l'offense
+567. vengeances de l'affront
+568. représailles de l'injure
+569. rétorsions de l'hostilité
+570. réactions de l'provocation
+571. réponses de la question
+572. solutions du problème
+573. résolutions de la difficulté
+574. dénoûments de l'intrigue
+575. conclusions de l'enquête
+576. fins de l'histoire
+577. termes de la période
+578. échéances du délai
+579. expiration du contrat
+580. cessations de l'activité
+581. arrêts de la production
+582. suspensions du travail
+583. interruptions de la tâche
+584. pauses de l'effort
+585. repos de la fatigue
+586. détentes de la tension
+587. relaxations du stress
+588. décompressions de la pression
+589. soulagements de la douleur
+590. apaisements de l'inquiétude
+591. calmements de l'agitation
+592. pacifications de la guerre
+593. réconciliations de la dispute
+594. pardons de l'offense
+595. excuses de l'erreur
+596. regrets de la faute
+597. repentirs de la faute
+598. remords du crime
+599. contritions du péché
+600. pénitences de la confession
+
+## Sciences et technologies (601-700)
+601. découvertes de la recherche
+602. inventions de la science
+603. innovations de la technologie
+604. créations de l'ingénierie
+605. développements de l'industrie
+606. progressions de la technique
+607. avancées de la médecine
+608. percées de la physique
+609. révélations de l'astronomie
+610. observations de l'microscope
+611. analyses du laboratoire
+612. expériences du chercheur
+613. tests de l'ingénieur
+614. essais du prototype
+615. vérifications de l'hypothèse
+616. confirmations de la théorie
+617. validations de l'expérience
+618. démonstrations de l'épreuve
+619. preuves de l'expérimentation
+620. évidences de l'observation
+621. indices de l'analyse
+622. traces de l'enquête
+623. vestiges de l'archéologie
+624. restes de la fouille
+625. débris de l'explosion
+626. fragments de la destruction
+627. morceaux de la cassure
+628. éclats de l'éclatement
+629. parcelles de la division
+630. particules de la désintégration
+631. atomes de la matière
+632. molécules de la substance
+633. composés de la chimie
+634. éléments de la nature
+635. corps de la physique
+636. matières de l'univers
+637. substances de la réalité
+638. essences de l'existence
+639. natures de l'être
+640. caractères de l'individu
+641. traits de la personnalité
+642. aspects de l'apparence
+643. facettes de la réalité
+644. faces de la vérité
+645. côtés de la question
+646. angles de l'approche
+647. perspectives de l'analyse
+648. points de vue de l'observateur
+649. opinions de l'expert
+650. jugements du critique
+651. appréciations de l'esthète
+652. évaluations de l'évaluateur
+653. estimations de l'expert
+654. calculs du mathématicien
+655. comptes de l'comptable
+656. bilans de la gestion
+657. résultats de l'opération
+658. produits de l'multiplication
+659. sommes de l'addition
+660. différences de la soustraction
+661. quotients de la division
+662. restes de la division
+663. résidus de l'opération
+664. déchets de la production
+665. rebuts de la fabrication
+666. chutes de la découpe
+667. rognures de la taille
+668. copeaux du rabotage
+669. sciures du sciage
+670. poussières du ponçage
+671. limailles du limage
+672. éclats de la taille
+673. bavures de l'usinage
+674. traces de l'outil
+675. marques de l'instrument
+676. empreintes du moule
+677. impressions de la presse
+678. gravures de la plaque
+679. sculptures de l'artiste
+680. modelages du sculpteur
+681. façonnages de l'artisan
+682. ouvrages de l'ouvrier
+683. travaux de l'entrepreneur
+684. réalisations de l'architecte
+685. constructions du maçon
+686. bâtiments de l'constructeur
+687. édifices de l'époque
+688. monuments de l'histoire
+689. vestiges du passé
+690. ruines de la civilisation
+691. débris de l'ancien temps
+692. restes de l'antiquité
+693. traces de l'histoire
+694. témoignages de l'époque
+695. signes du temps
+696. indices de l'évolution
+697. preuves du changement
+698. marques de l'transformation
+699. stigmates de l'épreuve
+700. cicatrices de l'expérience
+
+## Phénomènes biologiques et physiologiques (701-800)
+701. mutations de l'évolution
+702. adaptations de l'environnement
+703. sélections de la nature
+704. survivances de l'espèce
+705. résistances de l'organisme
+706. immunités de la vaccination
+707. anticorps de l'infection
+708. défenses du corps
+709. réactions de l'organisme
+710. réponses du système
+711. fonctionnements de l'organe
+712. activités du cerveau
+713. pensées de l'esprit
+714. réflexions de l'intelligence
+715. méditations de la conscience
+716. concentrations de l'attention
+717. focalisations de l'effort
+718. tensions de la volonté
+719. efforts de la détermination
+720. persévérances de la ténacité
+721. persistances de l'obstination
+722. entêtements de l'orgueil
+723. fierté de l'amour-propre
+724. dignités de l'honneur
+725. noblesses de l'âme
+726. grandeurs de l'esprit
+727. élévations de la pensée
+728. sublimations de l'art
+729. idéalisations de l'amour
+730. spiritualisations de la foi
+731. purifications de l'âme
+732. sanctifications de la grâce
+733. bénédictions de la Providence
+734. grâces de la bonté
+735. faveurs de la générosité
+736. bienfaits de la charité
+737. bonnes actions de l'altruisme
+738. services de l'amitié
+739. aides de la solidarité
+740. secours de la fraternité
+741. assistances de l'humanité
+742. protections de l'amour
+743. soins de l'affection
+744. attentions de la tendresse
+745. délicatesses de la sensibilité
+746. raffinements de la culture
+747. sophistications de l'éducation
+748. perfectionnements de l'art
+749. améliorations de la technique
+750. optimisations de la méthode
+751. efficacités de l'organisation
+752. performances du système
+753. rendements de la machine
+754. productivités de l'usine
+755. productions de l'industrie
+756. fabrications de l'atelier
+757. confections de l'artisan
+758. créations de l'artiste
+759. œuvres du créateur
+760. chefs-d'œuvre du maître
+761. merveilles de l'art
+762. beautés de la nature
+763. splendeurs du paysage
+764. magnificences du spectacle
+765. grandiosités du panorama
+766. majesté de la montagne
+767. sublimités de l'océan
+768. immensités de l'espace
+769. infinités de l'univers
+770. éternités du temps
+771. perpétuités de l'existence
+772. immortalités de l'âme
+773. survivances de l'esprit
+774. permanences de l'essence
+775. constances de la nature
+776. stabilités de l'équilibre
+777. équilibres de la balance
+778. harmonies de l'ensemble
+779. accordements de l'union
+780. ententes de l'alliance
+781. alliances de l'amour
+782. unions du mariage
+783. mariages de l'amour
+784. amours de la passion
+785. passions du cœur
+786. émotions de l'âme
+787. sentiments de l'esprit
+788. sensations du corps
+789. perceptions des sens
+790. impressions de l'expérience
+791. souvenirs de la mémoire
+792. réminiscences du passé
+793. évocations de l'histoire
+794. rappels du temps
+795. retours de la nostalgie
+796. revivals de la mode
+797. renaissances de l'art
+798. résurrections de l'espoir
+799. réveils de la conscience
+800. éveils de l'intelligence
+
+## Phénomènes psychologiques et mentaux (801-900)
+801. compréhensions de l'explication
+802. éclaircissements de l'analyse
+803. élucidations de l'enquête
+804. révélations de l'investigation
+805. découvertes de la recherche
+806. trouvailles de la fouille
+807. inventions de l'imagination
+808. créations de la fantaisie
+809. innovations de l'originalité
+810. nouveautés de la mode
+811. changements de l'époque
+812. transformations du temps
+813. évolutions de l'histoire
+814. progressions de la civilisation
+815. développements de la culture
+816. croissances de la société
+817. expansions de l'économie
+818. extensions du territoire
+819. agrandissements de la ville
+820. élargissements de la route
+821. prolongements de la ligne
+822. continuations du projet
+823. poursuites de l'objectif
+824. persévérances de l'effort
+825. obstinations de la volonté
+826. déterminations du caractère
+827. résolutions de l'esprit
+828. décisions de la raison
+829. choix de la réflexion
+830. sélections du jugement
+831. préférences du goût
+832. inclinations de la nature
+833. penchants de l'instinct
+834. tendances de l'époque
+835. orientations de la politique
+836. directions du gouvernement
+837. conduites de l'administration
+838. gestions de l'entreprise
+839. managements de l'équipe
+840. leaderships du chef
+841. commandements de l'autorité
+842. dominations du pouvoir
+843. contrôles de la force
+844. maîtrises de la technique
+845. expertises de l'expérience
+846. compétences de la formation
+847. qualifications de l'étude
+848. diplômes de l'université
+849. certificats de l'école
+850. brevets de l'invention
+851. licences de l'autorisation
+852. permis de la loi
+853. autorisations du règlement
+854. accords de la négociation
+855. contrats de l'engagement
+856. conventions de l'alliance
+857. traités de la diplomatie
+858. pactes de l'union
+859. alliances de l'intérêt
+860. associations de l'avantage
+861. partenariats de la coopération
+862. collaborations du travail
+863. participations de l'effort
+864. contributions de l'aide
+865. apports de la richesse
+866. investissements de l'argent
+867. placements du capital
+868. épargnes de l'économie
+869. réserves de la prudence
+870. provisions de la précaution
+871. stocks de la prévision
+872. accumulations du temps
+873. collections de la passion
+874. rassemblements de l'effort
+875. regroupements de l'organisation
+876. concentrations de la stratégie
+877. centralisations du pouvoir
+878. unifications de l'empire
+879. fédérations des États
+880. confédérations des peuples
+881. unions des nations
+882. alliances des pays
+883. coalitions de la guerre
+884. ligues de la défense
+885. associations de la protection
+886. syndicats de la profession
+887. corporations du métier
+888. guildes de l'artisanat
+889. confréries de la tradition
+890. ordres de la chevalerie
+891. sociétés de l'élite
+892. clubs de la bourgeoisie
+893. cercles de l'aristocratie
+894. salons de la culture
+895. académies de la science
+896. instituts de la recherche
+897. laboratoires de l'expérience
+898. observatoires de l'astronomie
+899. bibliothèques du savoir
+900. musées de l'art
+
+## Phénomènes linguistiques et communicationnels (901-1000)
+901. expressions de la pensée
+902. formulations de l'idée
+903. articulations du concept
+904. énonciations de la proposition
+905. déclarations de l'opinion
+906. affirmations de la conviction
+907. assertions de la certitude
+908. confirmations de la vérité
+909. attestations du témoignage
+910. témoignages de l'expérience
+911. récits de l'aventure
+912. narrations de l'histoire
+913. descriptions du paysage
+914. peintures de la scène
+915. portraits du personnage
+916. évocations du souvenir
+917. rappels de la mémoire
+918. réminiscences du passé
+919. nostalgie de l'enfance
+920. regrets de la jeunesse
+921. remords de l'acte
+922. repentirs de la faute
+923. contritions du péché
+924. confessions de l'aveu
+925. révélations du secret
+926. dévoilements de la vérité
+927. découvertes du mystère
+928. élucidations de l'énigme
+929. résolutions du problème
+930. solutions de l'équation
+931. réponses de la question
+932. explications du phénomène
+933. interprétations du signe
+934. traductions du texte
+935. versions de l'original
+936. adaptations de l'œuvre
+937. transpositions du roman
+938. arrangements de la mélodie
+939. orchestrations de la partition
+940. harmonisations de la musique
+941. compositions du musicien
+942. créations de l'artiste
+943. inventions du génie
+944. innovations de l'esprit
+945. originalités de l'auteur
+946. nouveautés de l'écrivain
+947. modernités du poète
+948. contemporanéités de l'époque
+949. actualités du moment
+950. nouvelles du jour
+951. informations de la presse
+952. annonces de la radio
+953. émissions de la télévision
+954. programmes de la chaîne
+955. diffusions du réseau
+956. transmissions de l'antenne
+957. communications du satellite
+958. connexions de l'internet
+959. liaisons du réseau
+960. contacts de la relation
+961. rapports de l'enquête
+962. bilans de l'analyse
+963. synthèses de l'étude
+964. résumés du document
+965. abrégés du texte
+966. condensés de l'ouvrage
+967. extraits du livre
+968. citations de l'auteur
+969. références de la source
+970. mentions de l'origine
+971. indications de la provenance
+972. signalements de la découverte
+973. notifications de l'événement
+974. avertissements du danger
+975. alertes de l'alarme
+976. signaux de l'urgence
+977. appels au secours
+978. cris de détresse
+979. plaintes de la douleur
+980. gémissements de la souffrance
+981. lamentations du malheur
+982. déplorations de la perte
+983. regrets de l'absence
+984. manques de la séparation
+985. vides de l'éloignement
+986. distances de l'espace
+987. éloignements du temps
+988. séparations de la guerre
+989. divisions du conflit
+990. ruptures de la dispute
+991. cassures de la relation
+992. brisures du lien
+993. déchirures de l'amour
+994. fractures de l'amitié
+995. fêlures de la confiance
+996. lézardes de l'alliance
+997. crevasses de l'union
+998. failles du système
+999. défauts de la méthode
+1000. imperfections de l'œuvre
