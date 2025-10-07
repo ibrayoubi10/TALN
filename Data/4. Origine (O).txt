@@ -1,0 +1,1097 @@
+# 1000 exemples - Relation Origine (O)
+
+## Vins et spiritueux par pays
+1. vin de France
+2. champagne de France
+3. bordeaux de France
+4. bourgogne de France
+5. cognac de France
+6. armagnac de France
+7. calvados de France
+8. chartreuse de France
+9. bénédictine de France
+10. cointreau de France
+11. whisky d'Écosse
+12. scotch d'Écosse
+13. bourbon d'Amérique
+14. brandy d'Espagne
+15. sherry d'Espagne
+16. porto du Portugal
+17. madère du Portugal
+18. chianti d'Italie
+19. prosecco d'Italie
+20. grappa d'Italie
+21. ouzo de Grèce
+22. retsina de Grèce
+23. sake du Japon
+24. vodka de Russie
+25. tequila du Mexique
+26. mezcal du Mexique
+27. rhum des Antilles
+28. cachaça du Brésil
+29. pisco du Pérou
+30. raki de Turquie
+
+## Produits alimentaires par région
+31. café du Brésil
+32. café de Colombie
+33. café d'Éthiopie
+34. café du Kenya
+35. café de Jamaïque
+36. thé de Chine
+37. thé d'Inde
+38. thé de Ceylan
+39. thé du Darjeeling
+40. thé d'Earl Grey
+41. chocolat de Belgique
+42. chocolat de Suisse
+43. chocolat du Venezuela
+44. vanille de Madagascar
+45. vanille de Tahiti
+46. safran d'Iran
+47. safran du Cachemire
+48. poivre de Cambodge
+49. poivre de Sarawak
+50. cannelle de Ceylan
+51. cannelle de Chine
+52. cardamome d'Inde
+53. curcuma d'Inde
+54. gingembre de Chine
+55. wasabi du Japon
+56. miso du Japon
+57. soja de Chine
+58. quinoa du Pérou
+59. amarante du Mexique
+60. riz de Thaïlande
+
+## Fromages par région
+61. roquefort de France
+62. camembert de Normandie
+63. brie de Meaux
+64. comté de Franche-Comté
+65. cantal d'Auvergne
+66. maroilles du Nord
+67. munster d'Alsace
+68. chèvre de Loire
+69. tomme de Savoie
+70. bleu d'Auvergne
+71. cheddar d'Angleterre
+72. stilton d'Angleterre
+73. gouda de Hollande
+74. edam de Hollande
+75. emmental de Suisse
+76. gruyère de Suisse
+77. parmesan d'Italie
+78. gorgonzola d'Italie
+79. mozzarella d'Italie
+80. feta de Grèce
+81. kasseri de Grèce
+82. manchego d'Espagne
+83. cabrales d'Espagne
+84. serra da Estrela du Portugal
+85. limburger de Belgique
+
+## Textiles et matériaux par origine
+86. soie de Chine
+87. soie de Lyon
+88. coton d'Égypte
+89. coton d'Inde
+90. laine d'Écosse
+91. laine d'Australie
+92. laine de Nouvelle-Zélande
+93. cachemire du Tibet
+94. cachemire du Cachemire
+95. mohair d'Afrique du Sud
+96. alpaga du Pérou
+97. vicuña du Pérou
+98. lin de Belgique
+99. lin de Normandie
+100. chanvre de France
+101. jute du Bangladesh
+102. sisal du Mexique
+103. coton bio du Pérou
+104. bambou d'Asie
+105. kapok d'Indonésie
+
+## Produits de la mer par origine
+106. saumon d'Écosse
+107. saumon d'Alaska
+108. saumon de Norvège
+109. thon de Méditerranée
+110. thon du Pacifique
+111. cabillaud de Norvège
+112. cabillaud d'Islande
+113. morue de Terre-Neuve
+114. sole de Douvres
+115. turbot de Bretagne
+116. bar de Méditerranée
+117. daurade de Méditerranée
+118. anchois d'Espagne
+119. sardine du Portugal
+120. maquereau d'Écosse
+121. hareng de la Baltique
+122. caviar de Russie
+123. caviar d'Iran
+124. caviar de France
+125. huîtres de Belon
+126. huîtres de Marennes
+127. huîtres de Bouzigues
+128. moules de Bouchot
+129. coquilles Saint-Jacques de Normandie
+130. homard du Maine
+131. homard de Bretagne
+132. langoustes de Bretagne
+133. crevettes de Camargue
+134. gambas d'Espagne
+135. crabes de Bretagne
+
+## Fruits et légumes par région
+136. pommes de Normandie
+137. poires de Provence
+138. pêches du Languedoc
+139. abricots de Provence
+140. cerises de Provence
+141. fraises de Plougastel
+142. framboises des Vosges
+143. myrtilles des Vosges
+144. cassis de Bourgogne
+145. raisin de Provence
+146. figues de Provence
+147. melons de Cavaillon
+148. pastèques du Languedoc
+149. agrumes de Provence
+150. citrons de Menton
+151. oranges de Valencia
+152. mandarines d'Espagne
+153. pamplemousses de Floride
+154. bananes des Antilles
+155. ananas de Côte d'Ivoire
+156. mangues du Sénégal
+157. papayes du Brésil
+158. avocats du Mexique
+159. kiwis de Nouvelle-Zélande
+160. dattes d'Algérie
+161. noix de Grenoble
+162. noisettes du Piémont
+163. amandes de Provence
+164. châtaignes d'Ardèche
+165. truffes du Périgord
+
+## Épices et condiments par origine
+166. moutarde de Dijon
+167. moutarde de Meaux
+168. vinaigre de Modène
+169. vinaigre de Xérès
+170. huile d'olive de Provence
+171. huile d'olive de Toscane
+172. huile d'olive de Grèce
+173. huile d'olive d'Espagne
+174. huile d'argan du Maroc
+175. huile de sésame de Chine
+176. sauce soja du Japon
+177. sauce soja de Chine
+178. nuoc-mâm du Vietnam
+179. sambal d'Indonésie
+180. harissa de Tunisie
+181. ras el hanout du Maroc
+182. curry d'Inde
+183. garam masala d'Inde
+184. piment d'Espelette
+185. piment de Cayenne
+186. paprika de Hongrie
+187. sumac de Turquie
+188. zaatar du Liban
+189. herbes de Provence
+190. fines herbes de France
+
+## Matériaux précieux par origine
+191. or d'Afrique du Sud
+192. or du Klondike
+193. argent du Mexique
+194. platine de Russie
+195. diamant d'Afrique du Sud
+196. diamant du Botswana
+197. rubis de Birmanie
+198. saphir de Ceylan
+199. émeraude de Colombie
+200. perle de Tahiti
+201. perle du Japon
+202. perle d'Australie
+203. jade de Chine
+204. jade de Birmanie
+205. turquoise de Turquie
+206. lapis-lazuli d'Afghanistan
+207. ambre de la Baltique
+208. corail de Méditerranée
+209. nacre de Tahiti
+210. cristal de Bohème
+
+## Artisanat par région
+211. porcelaine de Chine
+212. porcelaine de Limoges
+213. porcelaine de Sèvres
+214. faïence de Delft
+215. faïence de Quimper
+216. faïence de Moustiers
+217. céramique de Vallauris
+218. poterie de Dieulefit
+219. grès de Puisaye
+220. terre cuite de Provence
+221. majolique d'Italie
+222. azulejos du Portugal
+223. tapis de Perse
+224. tapis du Maroc
+225. tapis d'Orient
+226. kilim de Turquie
+227. tapisserie des Gobelins
+228. tapisserie d'Aubusson
+229. dentelle de Calais
+230. dentelle de Venise
+231. dentelle de Bruges
+232. dentelle d'Alençon
+233. broderie de Madère
+234. broderie de Richelieu
+235. passementerie de Lyon
+
+## Instruments de musique par origine
+236. piano de Vienne
+237. violon de Crémone
+238. accordéon d'Italie
+239. harmonique d'Allemagne
+240. cornemuse d'Écosse
+241. castagnettes d'Espagne
+242. flamenco d'Espagne
+243. guitare d'Espagne
+244. banjo d'Amérique
+245. balalaïka de Russie
+246. sitar d'Inde
+247. tabla d'Inde
+248. didgeridoo d'Australie
+249. djembé d'Afrique
+250. shakuhachi du Japon
+251. erhu de Chine
+252. oud d'Arabie
+253. bouzouki de Grèce
+254. mandoline d'Italie
+255. concertina d'Angleterre
+
+## Automobiles par origine
+256. Renault de France
+257. Peugeot de France
+258. Citroën de France
+259. Mercedes d'Allemagne
+260. BMW d'Allemagne
+261. Audi d'Allemagne
+262. Volkswagen d'Allemagne
+263. Porsche d'Allemagne
+264. Ferrari d'Italie
+265. Lamborghini d'Italie
+266. Maserati d'Italie
+267. Alfa Romeo d'Italie
+268. Rolls-Royce d'Angleterre
+269. Bentley d'Angleterre
+270. Jaguar d'Angleterre
+271. Mini d'Angleterre
+272. Volvo de Suède
+273. Saab de Suède
+274. Toyota du Japon
+275. Honda du Japon
+276. Nissan du Japon
+277. Mazda du Japon
+278. Subaru du Japon
+279. Hyundai de Corée
+280. Tesla d'Amérique
+
+## Races d'animaux par origine
+281. berger allemand d'Allemagne
+282. berger belge de Belgique
+283. berger australien d'Australie
+284. setter irlandais d'Irlande
+285. spaniel anglais d'Angleterre
+286. cocker américain d'Amérique
+287. beagle d'Angleterre
+288. bulldog anglais d'Angleterre
+289. husky de Sibérie
+290. samoyède de Russie
+291. akita du Japon
+292. shiba inu du Japon
+293. chow-chow de Chine
+294. pékinois de Chine
+295. lhassa apso du Tibet
+296. afghan d'Afghanistan
+297. saluki d'Arabie
+298. basenji d'Afrique
+299. rhodesian ridgeback d'Afrique
+300. dogue du Tibet
+
+## Danses par origine
+301. flamenco d'Espagne
+302. fandango d'Espagne
+303. bolero d'Espagne
+304. sardane de Catalogne
+305. tarentelle d'Italie
+306. mazurka de Pologne
+307. polka de Bohème
+308. valse de Vienne
+309. csardas de Hongrie
+310. sirtaki de Grèce
+311. haka de Nouvelle-Zélande
+312. tango d'Argentine
+313. samba du Brésil
+314. rumba de Cuba
+315. mambo de Cuba
+316. cha-cha-cha de Cuba
+317. merengue de République dominicaine
+318. salsa de Porto Rico
+319. reggae de Jamaïque
+320. calypso de Trinidad
+
+## Plats traditionnels par origine
+321. paella d'Espagne
+322. gazpacho d'Andalousie
+323. tortilla d'Espagne
+324. pizza d'Italie
+325. risotto d'Italie
+326. osso buco d'Italie
+327. carbonara d'Italie
+328. moussaka de Grèce
+329. souvlaki de Grèce
+330. tzatziki de Grèce
+331. goulash de Hongrie
+332. choucroute d'Alsace
+333. bouillabaisse de Marseille
+334. cassoulet du Languedoc
+335. pot-au-feu de France
+336. coq au vin de Bourgogne
+337. ratatouille de Nice
+338. quiche lorraine de Lorraine
+339. tarte flambée d'Alsace
+340. crêpes de Bretagne
+341. fish and chips d'Angleterre
+342. haggis d'Écosse
+343. fondue de Suisse
+344. rösti de Suisse
+345. sauerbraten d'Allemagne
+
+## Bières par origine
+346. bière de Belgique
+347. lambic de Belgique
+348. gueuze de Belgique
+349. trappiste de Belgique
+350. pils de Bohème
+351. weissbier de Bavière
+352. kölsch de Cologne
+353. bitter d'Angleterre
+354. stout d'Irlande
+355. porter d'Angleterre
+356. lager d'Allemagne
+357. märzen d'Allemagne
+358. bock d'Allemagne
+359. saison de Wallonie
+360. witbier de Flandre
+361. IPA d'Inde
+362. ale d'Angleterre
+363. mild d'Angleterre
+364. brown ale d'Angleterre
+365. barley wine d'Angleterre
+
+## Parfums et cosmétiques par origine
+366. parfum de Grasse
+367. eau de Cologne de Cologne
+368. lavande de Provence
+369. rose de Bulgarie
+370. jasmin de Grasse
+371. tubéreuse de France
+372. ylang-ylang des Comores
+373. patchouli d'Indonésie
+374. santal d'Inde
+375. oud d'Arabie
+376. musc du Tibet
+377. ambre gris du Cachalot
+378. civette d'Éthiopie
+379. castoreum du Canada
+380. bergamote de Calabre
+
+## Matériaux de construction par origine
+381. marbre de Carrare
+382. granit de Bretagne
+383. grès des Vosges
+384. calcaire de Caen
+385. pierre de Bourgogne
+386. ardoise d'Angers
+387. tuile de Provence
+388. brique du Nord
+389. chaux de Thiers
+390. plâtre de Paris
+391. ciment de Portland
+392. béton de France
+393. acier de Lorraine
+394. fer de Lorraine
+395. aluminium de France
+396. cuivre du Chili
+397. zinc du Pérou
+398. plomb d'Australie
+399. étain de Malaisie
+400. tungstène de Chine
+
+## Fleurs par origine
+401. rose de France
+402. tulipe de Hollande
+403. orchidée de Thaïlande
+404. chrysanthème du Japon
+405. pivoine de Chine
+406. hortensia du Japon
+407. azalée du Japon
+408. rhododendron de l'Himalaya
+409. camélia du Japon
+410. magnolia d'Amérique
+411. bougainvillée du Brésil
+412. hibiscus d'Hawaï
+413. frangipanier de Polynésie
+414. protea d'Afrique du Sud
+415. strelitzia d'Afrique du Sud
+416. anthurium de Colombie
+417. gerbera d'Afrique du Sud
+418. freesia d'Afrique du Sud
+419. lys du Japon
+420. iris de France
+
+## Bois exotiques par origine
+421. acajou d'Amérique
+422. palissandre du Brésil
+423. ébène d'Afrique
+424. teck de Birmanie
+425. bambou d'Asie
+426. cèdre du Liban
+427. séquoia de Californie
+428. eucalyptus d'Australie
+429. ipé du Brésil
+430. wengé d'Afrique
+431. padouk d'Afrique
+432. amarante d'Amérique
+433. violette du Brésil
+434. bubinga d'Afrique
+435. zébranos d'Afrique
+436. moabi d'Afrique
+437. sipo d'Afrique
+438. sapelli d'Afrique
+439. iroko d'Afrique
+440. doussié d'Afrique
+
+## Pierres précieuses par origine
+441. opale d'Australie
+442. topaze du Brésil
+443. améthyste du Brésil
+444. citrine du Brésil
+445. aigue-marine du Brésil
+446. tourmaline du Brésil
+447. péridot d'Égypte
+448. grenat de Bohème
+449. tanzanite de Tanzanie
+450. tsavorite du Kenya
+451. spinelle de Birmanie
+452. alexandrite de Russie
+453. kunzite d'Afghanistan
+454. morganite de Madagascar
+455. apatite du Myanmar
+456. fluorite de Chine
+457. quartz fumé d'Écosse
+458. cristal de roche du Brésil
+459. calcédoine d'Allemagne
+460. jaspe d'Allemagne
+
+## Papiers et cartons par origine
+461. papier du Japon
+462. papier de riz de Chine
+463. papyrus d'Égypte
+464. parchemin d'Orient
+465. vélin de France
+466. papier de Hollande
+467. papier d'Arches
+468. papier de Canson
+469. papier d'Ingres
+470. bristol d'Angleterre
+471. carton de Lyon
+472. carton ondulé d'Amérique
+473. kraft de Suède
+474. journal de France
+475. magazine d'Amérique
+
+## Cuirs par origine
+476. cuir de Russie
+477. cuir de Cordoue
+478. cuir de Florence
+479. maroquin du Maroc
+480. chevreau de France
+481. agneau de France
+482. vachette de France
+483. box-calf d'Angleterre
+484. daim de Suède
+485. nubuck d'Amérique
+486. reptile d'Asie
+487. crocodile d'Afrique
+488. python d'Asie
+489. autruche d'Afrique
+490. requin du Groenland
+
+## Thés par région spécifique
+491. thé vert de Chine
+492. thé noir d'Inde
+493. oolong de Taïwan
+494. pu-erh du Yunnan
+495. sencha du Japon
+496. matcha du Japon
+497. gyokuro du Japon
+498. bancha du Japon
+499. hojicha du Japon
+500. genmaicha du Japon
+501. assam d'Inde
+502. darjeeling d'Inde
+503. nilgiri d'Inde
+504. sikkim d'Inde
+505. ceylan du Sri Lanka
+506. earl grey d'Angleterre
+507. english breakfast d'Angleterre
+508. lady grey d'Angleterre
+509. lapsang souchong de Chine
+510. jasmin de Chine
+
+## Huiles essentielles par origine
+511. lavande de Provence
+512. romarin de Provence
+513. thym de Provence
+514. menthe de Provence
+515. eucalyptus d'Australie
+516. tea tree d'Australie
+517. citronnelle d'Asie
+518. palmarosa d'Inde
+519. géranium rosat de La Réunion
+520. ylang-ylang des Comores
+521. cannelle de Ceylan
+522. cardamome d'Inde
+523. gingembre de Chine
+524. citronnelle de Java
+525. patchouli d'Indonésie
+526. santal d'Inde
+527. cèdre de l'Atlas
+528. cyprès de Provence
+529. genévrier de Provence
+530. pin sylvestre d'Écosse
+
+## Épices rares par origine
+531. vanille de Tahiti
+532. vanille de Madagascar
+533. vanille des Comores
+534. poivre long d'Inde
+535. poivre de Sichuan
+536. baies roses de La Réunion
+537. piment d'Espelette
+538. piment de Cayenne
+539. cumin d'Égypte
+540. coriandre du Maroc
+541. fenugrec d'Inde
+542. nigelle d'Égypte
+543. sumac de Turquie
+544. mahlab de Syrie
+545. ras el hanout du Maroc
+546. berbéré d'Éthiopie
+547. dukkah d'Égypte
+548. za'atar du Liban
+549. harissa de Tunisie
+550. chermoula du Maroc
+
+## Pâtes par origine
+551. spaghetti d'Italie
+552. tagliatelle d'Italie
+553. linguine d'Italie
+554. penne d'Italie
+555. fusilli d'Italie
+556. lasagne d'Italie
+557. ravioli d'Italie
+558. tortellini d'Italie
+559. gnocchi d'Italie
+560. risotto d'Italie
+561. nouilles de Chine
+562. ramen du Japon
+563. udon du Japon
+564. soba du Japon
+565. pho du Vietnam
+566. pad thaï de Thaïlande
+567. couscous du Maghreb
+568. bulgur de Turquie
+569. spätzle d'Allemagne
+570. pierogi de Pologne
+
+## Vins fins par appellation
+571. champagne de Reims
+572. chablis de Bourgogne
+573. sancerre de Loire
+574. muscadet de Loire
+575. beaujolais de Lyon
+576. côtes du rhône de Provence
+577. châteauneuf-du-pape de Provence
+578. bandol de Provence
+579. sauternes de Bordeaux
+580. margaux de Bordeaux
+581. pomerol de Bordeaux
+582. saint-émilion de Bordeaux
+583. rioja d'Espagne
+584. ribera del duero d'Espagne
+585. barolo d'Italie
+586. barbaresco d'Italie
+587. brunello d'Italie
+588. valpolicella d'Italie
+589. douro du Portugal
+590. tokay de Hongrie
+
+## Liqueurs par origine
+591. amaretto d'Italie
+592. limoncello d'Italie
+593. sambuca d'Italie
+594. frangelico d'Italie
+595. galliano d'Italie
+596. kahlúa du Mexique
+597. cointreau de France
+598. grand marnier de France
+599. chartreuse de France
+600. bénédictine de France
+601. calvados de Normandie
+602. armagnac de Gascogne
+603. cognac de Charente
+604. kirsch d'Alsace
+605. mirabelle de Lorraine
+606. poire williams de Suisse
+607. génépi de Savoie
+608. pastis de Provence
+609. absinthe de Suisse
+610. aquavit de Scandinavie
+
+## Chocolats fins par origine
+611. praline de Belgique
+612. truffe de France
+613. ganache de France
+614. gianduja d'Italie
+615. torrone d'Italie
+616. nougat de Montélimar
+617. calisson d'Aix
+618. macarons de Paris
+619. berlingot de Carpentras
+620. caramels de Bretagne
+621. chocolat noir d'Équateur
+622. chocolat de Madagascar
+623. cacao de Venezuela
+624. cacao d'Équateur
+625. cacao de Pérou
+626. cacao de Madagascar
+627. fève de cacao du Ghana
+628. fève de cacao de Côte d'Ivoire
+629. beurre de cacao du Brésil
+630. poudre de cacao de Hollande
+
+## Objets d'art par origine
+631. statue de Grèce
+632. vase de Chine
+633. bronze de France
+634. marbre de Rome
+635. fresque d'Italie
+636. mosaïque de Ravenne
+637. vitrail de France
+638. tapisserie de Flandres
+639. miniature de Perse
+640. laque du Japon
+641. émail de Limoges
+642. cloisonné de Chine
+643. émaux de Longwy
+644. faïence de Delft
+645. porcelaine de Sèvres
+646. cristal de Baccarat
+647. cristal de Bohème
+648. cristal de Venise
+649. verre de Murano
+650. bijou de l'Inde
+
+## Produits de beauté naturels
+651. henné du Maroc
+652. argile du Maroc
+653. eau de rose de Bulgarie
+654. huile d'argan du Maroc
+655. beurre de karité d'Afrique
+656. aloe vera du Mexique
+657. ginseng de Corée
+658. gelée royale de France
+659. propolis de Nouvelle-Zélande
+660. miel de Provence
+661. miel d'acacia de France
+662. miel de châtaignier de France
+663. miel de lavande de Provence
+664. miel de tilleul de France
+665. miel de sapin des Vosges
+666. miel de bruyère d'Écosse
+667. miel de manuka de Nouvelle-Zélande
+668. pollen de France
+669. cire d'abeille de France
+670. lait d'ânesse de France
+
+## Légumes anciens par région
+671. artichaut de Bretagne
+672. topinambour de France
+673. panais de France
+674. rutabaga de Suède
+675. crosne du Japon
+676. oca du Pérou
+677. igname d'Afrique
+678. patate douce d'Amérique
+679. manioc d'Amérique
+680. taro d'Asie
+681. plantain des Antilles
+682. banane plantain d'Afrique
+683. fruit de l'arbre à pain de Polynésie
+684. durian d'Asie
+685. ramboutan de Malaisie
+686. litchi de Chine
+687. longane de Chine
+688. dragon fruit du Vietnam
+689. fruit de la passion du Brésil
+690. grenade du Moyen-Orient
+
+## Condiments asiatiques
+691. miso du Japon
+692. tamari du Japon
+693. shoyu du Japon
+694. mirin du Japon
+695. sake du Japon
+696. wasabi du Japon
+697. nori du Japon
+698. kombu du Japon
+699. bonito du Japon
+700. yuzu du Japon
+701. shiso du Japon
+702. mochi du Japon
+703. tofu de Chine
+704. tempeh d'Indonésie
+705. kimchi de Corée
+706. gochujang de Corée
+707. nam pla de Thaïlande
+708. sriracha de Thaïlande
+709. sambal d'Indonésie
+710. rendang d'Indonésie
+
+## Produits laitiers par région
+711. beurre de Normandie
+712. crème de Normandie
+713. lait de Normandie
+714. yaourt de Bulgarie
+715. kéfir du Caucase
+716. ayran de Turquie
+717. lassi d'Inde
+718. ghee d'Inde
+719. paneer d'Inde
+720. ricotta d'Italie
+721. mascarpone d'Italie
+722. burrata d'Italie
+723. stracciatella d'Italie
+724. pecorino d'Italie
+725. asiago d'Italie
+726. taleggio d'Italie
+727. fontina d'Italie
+728. provolone d'Italie
+729. scamorza d'Italie
+730. caciocavallo d'Italie
+
+## Huiles végétales par origine
+731. olive de Provence
+732. tournesol de France
+733. colza de France
+734. noix de Grenoble
+735. noisette du Piémont
+736. amande de Provence
+737. sésame d'Asie
+738. lin du Canada
+739. chanvre de France
+740. argan du Maroc
+741. coco des Philippines
+742. palme d'Afrique
+743. karité d'Afrique
+744. baobab d'Afrique
+745. moringa d'Inde
+746. nigelle d'Égypte
+747. onagre d'Amérique
+748. bourrache d'Europe
+749. rose musquée du Chili
+750. jojoba du Mexique
+
+## Alcools de fruits par région
+751. kirsch d'Alsace
+752. mirabelle de Lorraine
+753. quetsche d'Alsace
+754. poire williams de Suisse
+755. framboise des Vosges
+756. myrtille des Vosges
+757. gentiane d'Auvergne
+758. génépi des Alpes
+759. marc de Bourgogne
+760. fine de Cognac
+761. eau-de-vie de prune de Souillac
+762. lambig de Bretagne
+763. ratafia de Champagne
+764. hypocras du Languedoc
+765. carthagène du Languedoc
+766. pineau des Charentes
+767. floc de Gascogne
+768. macvin du Jura
+769. trousseau du Jura
+770. vin jaune du Jura
+
+## Spécialités sucrées par région
+771. nougat de Montélimar
+772. calisson d'Aix-en-Provence
+773. canelé de Bordeaux
+774. kouign-amann de Bretagne
+775. tarte tatin de Sologne
+776. madeleine de Commercy
+777. macaron de Nancy
+778. bergamote de Nancy
+779. bêtise de Cambrai
+780. violette de Toulouse
+781. anis de Flavigny
+782. praline de Lyon
+783. papillote de Lyon
+784. sucre d'orge des Vosges
+785. berlingot de Carpentras
+786. croquant de Cordes
+787. gimblette d'Albi
+788. navette de Marseille
+789. canistrelli de Corse
+790. pastis landais des Landes
+
+## Artisanat traditionnel par région
+791. dentelle de Calais
+792. dentelle de Chantilly
+793. dentelle du Puy
+794. dentelle d'Alençon
+795. dentelle de Bruges
+796. tapisserie d'Aubusson
+797. tapisserie des Gobelins
+798. passementerie de Lyon
+799. soierie de Lyon
+800. broderie de Lunéville
+801. broderie de Lyon
+802. broderie de Cilaos
+803. batik d'Indonésie
+804. ikat d'Asie centrale
+805. sari d'Inde
+806. kimono du Japon
+807. poncho du Pérou
+808. serape du Mexique
+809. kente du Ghana
+810. bogolan du Mali
+
+## Instruments traditionnels par région
+811. didgeridoo d'Australie
+812. djembé d'Afrique de l'Ouest
+813. tabla d'Inde
+814. sitar d'Inde
+815. erhu de Chine
+816. guqin de Chine
+817. shamisen du Japon
+818. koto du Japon
+819. balalaïka de Russie
+820. bandura d'Ukraine
+821. bouzouki de Grèce
+822. oud du Moyen-Orient
+823. qanun du Moyen-Orient
+824. ney du Moyen-Orient
+825. zurna de Turquie
+826. duduk d'Arménie
+827. tin whistle d'Irlande
+828. bodhrán d'Irlande
+829. gaïda de Bulgarie
+830. kaval des Balkans
+
+## Races de chevaux par origine
+831. pur-sang anglais d'Angleterre
+832. arabe d'Arabie
+833. barbe du Maghreb
+834. frison des Pays-Bas
+835. percheron de France
+836. boulonnais de France
+837. breton de Bretagne
+838. comtois de Franche-Comté
+839. ardennais des Ardennes
+840. clydesdale d'Écosse
+841. shire d'Angleterre
+842. fjord de Norvège
+843. islandais d'Islande
+844. lipizzan d'Autriche
+845. andalou d'Espagne
+846. lusitanien du Portugal
+847. mustang d'Amérique
+848. quarter horse d'Amérique
+849. appaloosa d'Amérique
+850. paint horse d'Amérique
+
+## Poissons d'eau douce par région
+851. truite de montagne
+852. truite des Pyrénées
+853. saumon de Loire
+854. sandre de Savoie
+855. brochet du Nord
+856. perche des lacs
+857. carpe de Dombes
+858. tanche de Sologne
+859. gardon de rivière
+860. chevesne de France
+861. barbeau du Rhône
+862. ombre de Savoie
+863. cristivomer du Canada
+864. omble chevalier des Alpes
+865. corégone du Léman
+866. féra du Léman
+867. lavaret du Bourget
+868. écrevisse de Bourgogne
+869. écrevisse d'Auvergne
+870. grenouille de Dombes
+
+## Plantes aromatiques par région
+871. basilic de Ligurie
+872. basilic thaï de Thaïlande
+873. coriandre du Maroc
+874. persil de Hambourg
+875. ciboulette de France
+876. estragon de France
+877. aneth de Scandinavie
+878. fenouil de Provence
+879. sauge de Provence
+880. sarriette de Provence
+881. origan de Grèce
+882. marjolaine de Grèce
+883. menthe du Maroc
+884. menthe de Provence
+885. mélisse de France
+886. verveine du Velay
+887. camomille d'Allemagne
+888. tilleul de France
+889. sureau de France
+890. aubépine de France
+
+## Champignons par région
+891. truffe du Périgord
+892. truffe de Provence
+893. cèpe de Bordeaux
+894. morille de Franche-Comté
+895. chanterelle des Vosges
+896. girolles de France
+897. pleurote d'Allemagne
+898. shiitaké du Japon
+899. matsutake du Japon
+900. enoki du Japon
+901. porcini d'Italie
+902. bolet de France
+903. lactaire de France
+904. russule de France
+905. amanite de France
+906. coprin de France
+907. vesse-de-loup de France
+908. hydne de France
+909. polypore de France
+910. tramète de France
+
+## Miels par région et fleur
+911. miel d'acacia de France
+912. miel de châtaignier d'Ardèche
+913. miel de lavande de Provence
+914. miel de romarin de Provence
+915. miel de thym de Provence
+916. miel de sarrasin de Bretagne
+917. miel de bruyère de Sologne
+918. miel de tilleul de France
+919. miel de tournesol de France
+920. miel de colza de France
+921. miel de luzerne de France
+922. miel de sainfoin de France
+923. miel de ronce de France
+924. miel de pissenlit de France
+925. miel de lierre de France
+926. miel de callune d'Écosse
+927. miel d'eucalyptus d'Australie
+928. miel de manuka de Nouvelle-Zélande
+929. miel de tupelo d'Amérique
+930. miel de trèfle du Canada
+
+## Eaux minérales par source
+931. Évian de France
+932. Volvic de France
+933. Vittel de France
+934. Contrex de France
+935. Badoit de France
+936. Perrier de France
+937. San Pellegrino d'Italie
+938. Acqua Panna d'Italie
+939. Gerolsteiner d'Allemagne
+940. Spa de Belgique
+941. Fiji des îles Fidji
+942. Iceland d'Islande
+943. Voss de Norvège
+944. Hildon d'Angleterre
+945. Ty Nant du pays de Galles
+946. Antipodes de Nouvelle-Zélande
+947. Berg d'Afrique du Sud
+948. Tasmanian Rain de Tasmanie
+949. Isklar de Norvège
+950. Lauretana d'Italie
+
+## Sels par origine
+951. sel de Guérande
+952. sel de Camargue
+953. sel de l'île de Ré
+954. sel de Noirmoutier
+955. fleur de sel de Guérande
+956. gros sel de Guérande
+957. sel rose de l'Himalaya
+958. sel noir d'Hawaï
+959. sel rouge d'Alaea
+960. sel de Maldon d'Angleterre
+961. sel de Murray River d'Australie
+962. sel d'Atacama du Chili
+963. sel d'Uyuni de Bolivie
+964. sel de Kala Namak d'Inde
+965. sel fumé du Danemark
+966. sel aux algues de Bretagne
+967. sel au goémon de Bretagne
+968. sel à la truffe d'Italie
+969. sel aux herbes de Provence
+970. sel de céleri d'Amérique
+
+## Poivres par origine
+971. poivre noir de Malabar
+972. poivre blanc de Penja
+973. poivre rouge de Cambodge
+974. poivre vert de Madagascar
+975. poivre de Sarawak
+976. poivre de Tellicherry
+977. poivre de Lampong
+978. poivre du Kérala
+979. poivre de Muntok
+980. poivre de Singapour
+981. poivre long d'Inde
+982. poivre cubèbe d'Indonésie
+983. poivre de Sichuan de Chine
+984. poivre rose du Pérou
+985. poivre de Tasmanie
+986. poivre des dunes d'Australie
+987. poivre de Guinée d'Afrique
+988. poivre de Selim d'Afrique
+989. baies roses de La Réunion
+990. poivre Voatsiperifery de Madagascar
+
+## Dernières spécialités régionales
+991. olives de Kalamata de Grèce
+992. olives de Nyons de France
+993. olives de Lucques de France
+994. olives Taggiasca d'Italie
+995. olives Arbequina d'Espagne
+996. olives Picual d'Espagne
+997. anchois de Collioure
+998. poutargue de Martigues
+999. bottarga de Sardaigne
+1000. caviar d'Aquitaine

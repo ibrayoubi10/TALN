@@ -1,0 +1,1099 @@
+# 1000 exemples - Relation Matière/Composition (M)
+
+## Métaux
+1. bague d'or
+2. épée de fer
+3. tuyau de cuivre
+4. casque d'acier
+5. bracelet d'argent
+6. clé de bronze
+7. pièce de platine
+8. fil d'aluminium
+9. sculpture de laiton
+10. chaîne de titane
+11. médaille d'or
+12. ressort d'acier
+13. boîte de fer-blanc
+14. gobelet d'étain
+15. bouton de cuivre
+16. pendentif d'argent
+17. grillage de fer
+18. plaque d'aluminium
+19. statue de bronze
+20. montre d'or
+21. poignée de laiton
+22. casserole d'inox
+23. fourchette d'argent
+24. couteau d'acier
+25. boucle de fer
+
+## Bois
+26. table de chêne
+27. coffre de pin
+28. porte d'acajou
+29. plancher de hêtre
+30. armoire de sapin
+31. chaise d'ébène
+32. banc de tilleul
+33. parquet de bambou
+34. étagère de merisier
+35. bureau de noyer
+36. lit de frêne
+37. volet de châtaignier
+38. poutre de cèdre
+39. cloison de contreplaqué
+40. escalier de teck
+41. tonneau de chêne
+42. violon d'épicéa
+43. guitare de palissandre
+44. flûte de bambou
+45. piano d'ébène
+46. tambour de bouleau
+47. manche de frêne
+48. crosse de noyer
+49. canne de bambou
+50. cadre de pin
+
+## Pierre et minéraux
+51. mur de granit
+52. statue de marbre
+53. bijou de diamant
+54. vase d'onyx
+55. collier de perles
+56. bague de rubis
+57. pendentif d'émeraude
+58. bracelet de jade
+59. sculpture d'albâtre
+60. fontaine de travertin
+61. escalier d'ardoise
+62. cheminée de grès
+63. sol de basalte
+64. colonne de calcaire
+65. pavé de porphyre
+66. dalle de schiste
+67. ornement d'obsidienne
+68. vase de porcelaine
+69. bol de faïence
+70. assiette de grès
+71. tasse de céramique
+72. pot d'argile
+73. tuile de terre cuite
+74. brique d'argile
+75. carreau de carrelage
+
+## Tissus et fibres
+76. robe de soie
+77. manteau de laine
+78. chemise de coton
+79. pantalon de lin
+80. pull de cachemire
+81. écharpe de velours
+82. rideau de satin
+83. nappe de dentelle
+84. coussin de cuir
+85. tapis de chanvre
+86. voile de mousseline
+87. cape de feutre
+88. gant de daim
+89. chaussette de laine
+90. mouchoir de soie
+91. drap de percale
+92. serviette d'éponge
+93. bandage de gaze
+94. corde de chanvre
+95. filet de nylon
+96. sac de jute
+97. bâche de plastique
+98. parasol de toile
+99. hamac de coton
+100. voile de lin
+
+## Verre et cristal
+101. verre de cristal
+102. miroir de verre
+103. vitre de plexiglas
+104. bouteille de verre
+105. flacon de cristal
+106. carafe de verre
+107. vase de cristal
+108. lampe de verre
+109. lustre de cristal
+110. fenêtre de verre
+111. aquarium de verre
+112. microscope de verre
+113. lunettes de verre
+114. prisme de cristal
+115. boule de cristal
+116. figurine de verre
+117. perle de verre
+118. tube de verre
+119. ampoule de verre
+120. globe de cristal
+
+## Plastique et matières synthétiques
+121. jouet de plastique
+122. sac de polyéthylène
+123. chaise de polypropylène
+124. bouteille de PET
+125. tuyau de PVC
+126. récipient de polystyrène
+127. film de cellophane
+128. corde de nylon
+129. brosse de nylon
+130. peigne de plastique
+131. règle de plastique
+132. boîte de polycarbonate
+133. planche de plexiglas
+134. gant de latex
+135. pneu de caoutchouc
+136. semelle de caoutchouc
+137. joint d'étanchéité de silicone
+138. matelas de mousse
+139. isolant de polystyrène
+140. revêtement de vinyle
+
+## Papier et carton
+141. livre de papier
+142. boîte de carton
+143. carte de bristol
+144. affiche de papier
+145. emballage de carton
+146. enveloppe de papier
+147. cahier de papier
+148. journal de papier
+149. sac de papier
+150. filtre de papier
+151. mouchoir de papier
+152. serviette de papier
+153. nappe de papier
+154. gobelet de carton
+155. assiette de carton
+156. masque de papier
+157. décoration de papier
+158. fleur de papier
+159. origami de papier
+160. éventail de papier
+
+## Aliments et substances organiques
+161. miel d'abeille
+162. lait de vache
+163. fromage de lait
+164. beurre de crème
+165. huile d'olive
+166. vinaigre de vin
+167. sucre de canne
+168. farine de blé
+169. pain de seigle
+170. biscuit d'avoine
+171. chocolat de cacao
+172. confiture de fruits
+173. gelée de pomme
+174. sirop d'érable
+175. sauce de tomate
+176. pâte de sésame
+177. crème de lait
+178. yaourt de lait
+179. glace de crème
+180. sorbet de fruit
+
+## Matériaux de construction
+181. mur de béton
+182. toit d'ardoise
+183. fondation de béton
+184. charpente de bois
+185. isolation de laine
+186. cloison de placo
+187. revêtement de crépi
+188. gouttière de zinc
+189. tuile d'argile
+190. bardage de bois
+191. terrasse de composite
+192. escalier de béton
+193. rambarde de fer
+194. portail d'acier
+195. clôture de grillage
+196. allée de gravier
+197. piscine de béton
+198. pergola de bois
+199. abri de métal
+200. serre de verre
+
+## Métaux précieux et bijouterie
+201. couronne d'or
+202. sceptre d'argent
+203. tiare de platine
+204. collier de perles
+205. bague de saphir
+206. broche de diamant
+207. manchette d'or
+208. épingle d'argent
+209. chaîne de platine
+210. médaillon d'or
+211. alliance d'or
+212. gourmette d'argent
+213. jonc de platine
+214. créoles d'or
+215. dormeuses d'argent
+216. rivière de diamants
+217. parure d'émeraudes
+218. sertissure d'or
+219. fermoir d'argent
+220. chaînette de platine
+
+## Cuir et peaux
+221. sac de cuir
+222. chaussure de cuir
+223. ceinture de cuir
+224. veste de cuir
+225. gant de cuir
+226. portefeuille de cuir
+227. reliure de cuir
+228. fauteuil de cuir
+229. canapé de cuir
+230. sellerie de cuir
+231. harnais de cuir
+232. fouet de cuir
+233. étui de cuir
+234. holster de cuir
+235. manchon de fourrure
+236. manteau de fourrure
+237. chapeau de feutre
+238. botte de cuir
+239. sandale de cuir
+240. mocassin de daim
+
+## Matières textiles spécialisées
+241. voile de coton
+242. bâche de toile
+243. tente de nylon
+244. sac de couchage de duvet
+245. matelas de laine
+246. couverture de laine
+247. plaid de cachemire
+248. châle de mohair
+249. poncho de laine
+250. gilet de laine
+251. cardigan de coton
+252. polo de coton
+253. jean de denim
+254. short de lin
+255. bermuda de coton
+256. maillot de lycra
+257. combinaison de néoprène
+258. parka de polyester
+259. doudoune de duvet
+260. imperméable de Gore-Tex
+
+## Matériaux composites et modernes
+261. planche de contreplaqué
+262. panneau d'aggloméré
+263. cloison de placoplâtre
+264. isolation de polystyrène
+265. membrane d'étanchéité
+266. géotextile de polyester
+267. composite de carbone
+268. fibre de verre
+269. résine époxy
+270. mousse polyuréthane
+271. film plastique
+272. adhésif acrylique
+273. peinture acrylique
+274. vernis polyuréthane
+275. colle époxy
+276. mastic silicone
+277. joint polyuréthane
+278. étanchéité bitume
+279. protection téflon
+280. revêtement céramique
+
+## Instruments et outils
+281. marteau d'acier
+282. scie de métal
+283. clou de fer
+284. vis d'acier
+285. boulon d'acier
+286. écrou de laiton
+287. rondelle d'acier
+288. lime d'acier
+289. râpe d'acier
+290. burin d'acier
+291. ciseau d'acier
+292. tournevis d'acier
+293. pince d'acier
+294. tenaille d'acier
+295. clé d'acier
+296. niveau d'aluminium
+297. règle d'acier
+298. équerre d'acier
+299. compas d'acier
+300. étau d'acier
+
+## Ustensiles de cuisine
+301. couteau d'acier
+302. fourchette d'inox
+303. cuillère d'argent
+304. louche d'inox
+305. spatule de bois
+306. planche de bois
+307. saladier de verre
+308. bol de porcelaine
+309. assiette de faïence
+310. plat de grès
+311. casserole d'aluminium
+312. poêle de fer
+313. faitout d'acier
+314. marmite de fonte
+315. cocotte de fonte
+316. wok d'acier
+317. passoire d'inox
+318. chinois d'inox
+319. fouet d'inox
+320. rouleau de bois
+
+## Mobilier et ameublement
+321. chaise de rotin
+322. fauteuil de cuir
+323. canapé de tissu
+324. table de marbre
+325. bureau d'acajou
+326. armoire de pin
+327. commode de merisier
+328. lit de fer
+329. matelas de ressorts
+330. oreiller de plume
+331. coussin de mousse
+332. rideau de lin
+333. store de bambou
+334. tapis de laine
+335. moquette de nylon
+336. parquet de chêne
+337. carrelage de grès
+338. papier peint
+339. peinture acrylique
+340. lambris de bois
+
+## Véhicules et transport
+341. carrosserie d'acier
+342. châssis d'aluminium
+343. moteur de fonte
+344. pneu de caoutchouc
+345. jante d'aluminium
+346. pare-brise de verre
+347. siège de cuir
+348. volant de cuir
+349. pédale d'acier
+350. frein de fonte
+351. amortisseur d'acier
+352. ressort d'acier
+353. cardan d'acier
+354. transmission d'acier
+355. échappement d'inox
+356. réservoir d'acier
+357. radiateur d'aluminium
+358. batterie de plomb
+359. phare de verre
+360. calandre de chrome
+
+## Électronique et technologie
+361. circuit de silicium
+362. puce de silicium
+363. processeur de silicium
+364. mémoire de silicium
+365. écran de verre
+366. clavier de plastique
+367. souris de plastique
+368. câble de cuivre
+369. connecteur de plastique
+370. boîtier de métal
+371. carte de fibre
+372. antenne de métal
+373. haut-parleur de papier
+374. micro de métal
+375. capteur de silicium
+376. LED de silicium
+377. transistor de silicium
+378. résistance de carbone
+379. condensateur de céramique
+380. bobine de cuivre
+
+## Art et décoration
+381. sculpture de bronze
+382. peinture d'huile
+383. toile de lin
+384. cadre de bois
+385. pastel de craie
+386. aquarelle de gomme
+387. fusain de carbone
+388. crayon de graphite
+389. pinceau de soie
+390. palette de bois
+391. chevalet de bois
+392. vase de céramique
+393. figurine de porcelaine
+394. masque de plâtre
+395. moulage de bronze
+396. gravure de cuivre
+397. lithographie de pierre
+398. sérigraphie d'encre
+399. collage de papier
+400. mobile de métal
+
+## Textiles d'ameublement
+401. housse de coton
+402. taie d'oreiller de soie
+403. drap de lin
+404. couette de duvet
+405. couverture de mohair
+406. plaid de cachemire
+407. jeté de laine
+408. nappe de dentelle
+409. set de table de lin
+410. serviette de coton
+411. torchon de lin
+412. gant de toilette d'éponge
+413. peignoir d'éponge
+414. serviette de bain d'éponge
+415. tapis de bain de coton
+416. rideau de douche de plastique
+417. store de bambou
+418. voilage de voile
+419. embrasse de soie
+420. galon de soie
+
+## Matériaux naturels divers
+421. vannerie d'osier
+422. panier de rotin
+423. natte de paille
+424. chapeau de paille
+425. éventail de bambou
+426. parasol de bambou
+427. canne de bambou
+428. flûte de bambou
+429. baguette de bambou
+430. tamis de bambou
+431. balai de brindilles
+432. brosse de soies
+433. pinceau de poils
+434. plume d'oie
+435. duvet de canard
+436. crin de cheval
+437. laine de mouton
+438. mohair de chèvre
+439. cachemire de chèvre
+440. alpaga de lama
+
+## Matériaux de conditionnement
+441. boîte de carton
+442. sac de papier
+443. sachet de plastique
+444. film de polyéthylène
+445. bulles de plastique
+446. mousse de calage
+447. carton de protection
+448. emballage de polystyrène
+449. palette de bois
+450. caisse de bois
+451. fût de métal
+452. bidon de plastique
+453. jerrycan de plastique
+454. bouteille de verre
+455. flacon de plastique
+456. tube de plastique
+457. pot de verre
+458. bocal de verre
+459. conserve de métal
+460. barquette d'aluminium
+
+## Produits de beauté et hygiène
+461. savon de glycérine
+462. shampoing de kératine
+463. crème de lanoline
+464. lotion d'aloès
+465. parfum d'alcool
+466. rouge de carmine
+467. mascara de cire
+468. poudre de talc
+469. fond de teint de silicone
+470. vernis de résine
+471. lime de carton
+472. brosse de soies
+473. peigne de corne
+474. miroir de verre
+475. rasoir d'acier
+476. lame d'acier
+477. mousse de savon
+478. gel d'aloès
+479. huile d'argan
+480. baume de karité
+
+## Équipement sportif
+481. raquette de graphite
+482. balle de caoutchouc
+483. ballon de cuir
+484. filet de nylon
+485. corde de chanvre
+486. haltère de fonte
+487. barre d'acier
+488. tapis de mousse
+489. gant de cuir
+490. casque de plastique
+491. protège-tibia de plastique
+492. chaussure de cuir
+493. crampons de métal
+494. ski de fibre
+495. bâton d'aluminium
+496. planche de bois
+497. combinaison de néoprène
+498. masque de silicone
+499. palmes de caoutchouc
+500. tuba de plastique
+
+## Jardinage et agriculture
+501. bêche d'acier
+502. pioche d'acier
+503. houe d'acier
+504. râteau d'acier
+505. sécateur d'acier
+506. arrosoir de métal
+507. tuyau de plastique
+508. pot de terre cuite
+509. jardinière de bois
+510. treillage de bois
+511. tuteur de bambou
+512. ficelle de chanvre
+513. paillis de bois
+514. compost de végétaux
+515. engrais d'algues
+516. insecticide de pyrèthre
+517. fongicide de cuivre
+518. herbicide de glyphosate
+519. semence de tournesol
+520. graine de lin
+
+## Matériel médical
+521. stéthoscope de métal
+522. seringue de plastique
+523. aiguille d'acier
+524. bandage de coton
+525. compresse de gaze
+526. sparadrap de tissu
+527. plâtre de gypse
+528. attelle de plastique
+529. béquille d'aluminium
+530. fauteuil d'acier
+531. thermomètre de verre
+532. tensiomètre de caoutchouc
+533. masque de papier
+534. gant de latex
+535. blouse de coton
+536. charlotte de papier
+537. lunettes de plastique
+538. scalpel d'acier
+539. pince d'acier
+540. ciseaux d'acier
+
+## Énergie et combustibles
+541. charbon de bois
+542. bûche de chêne
+543. pellet de bois
+544. briquette de tourbe
+545. essence de pétrole
+546. gazole de pétrole
+547. fioul de pétrole
+548. gaz de méthane
+549. propane de butane
+550. électricité de cuivre
+551. pile de lithium
+552. batterie de plomb
+553. panneau de silicium
+554. éolienne d'acier
+555. barrage de béton
+556. turbine d'acier
+557. alternateur de cuivre
+558. transformateur de fer
+559. câble d'aluminium
+560. isolateur de porcelaine
+
+## Optique et photographie
+561. lentille de verre
+562. objectif de verre
+563. miroir d'argent
+564. prisme de verre
+565. fibre de verre
+566. pellicule d'argent
+567. capteur de silicium
+568. écran LCD de cristal
+569. LED de gallium
+570. laser de rubis
+571. microscope de verre
+572. télescope de verre
+573. jumelles de verre
+574. loupe de verre
+575. lunettes de verre
+576. monture de titane
+577. étui de cuir
+578. sangle de nylon
+579. trépied d'aluminium
+580. rotule d'acier
+
+## Chimie et laboratoire
+581. éprouvette de verre
+582. bécher de verre
+583. pipette de verre
+584. burette de verre
+585. ballon de verre
+586. erlenmeyer de verre
+587. cristallisoir de verre
+588. entonnoir de verre
+589. thermomètre de verre
+590. densimètre de verre
+591. balance d'acier
+592. spatule d'acier
+593. pince d'acier
+594. support de fer
+595. agitateur de verre
+596. barreau de téflon
+597. plaque de céramique
+598. four de céramique
+599. centrifugeuse d'acier
+600. microscope de métal
+
+## Alimentation et boissons
+601. bouteille de verre
+602. bouchon de liège
+603. étiquette de papier
+604. capsule de métal
+605. canette d'aluminium
+606. brick de carton
+607. sachet de plastique
+608. pot de verre
+609. boîte de conserve
+610. barquette d'aluminium
+611. film de protection
+612. couvercle de métal
+613. paille de plastique
+614. gobelet de carton
+615. assiette de carton
+616. couvert de plastique
+617. serviette de papier
+618. nappe de papier
+619. set de table de carton
+620. plateau de carton
+
+## Construction navale
+621. coque d'acier
+622. pont de teck
+623. mât d'aluminium
+624. voile de dacron
+625. cordage de nylon
+626. chaîne d'acier
+627. ancre de fer
+628. hélice de bronze
+629. gouvernail de bois
+630. cabestan de bronze
+631. winch d'acier
+632. poulie de bronze
+633. taquet de bronze
+634. bitte d'amarrage de fer
+635. pare-battage de caoutchouc
+636. bouée de liège
+637. gilet de sauvetage de kapok
+638. radeau de caoutchouc
+639. fusée de détresse
+640. compas de laiton
+
+## Aéronautique
+641. fuselage d'aluminium
+642. aile de carbone
+643. moteur de titane
+644. hélice de carbone
+645. train d'atterrissage d'acier
+646. pneu de caoutchouc
+647. verrière de plexiglas
+648. siège de cuir
+649. parachute de nylon
+650. combinaison de nomex
+651. casque de carbone
+652. masque à oxygène
+653. gilet de sauvetage
+654. réservoir d'aluminium
+655. tuyauterie de titane
+656. câblage de cuivre
+657. isolant de fibre
+658. peinture de polyuréthane
+659. joint de caoutchouc
+660. rivet d'aluminium
+
+## Horlogerie et bijouterie
+661. boîtier d'or
+662. bracelet d'acier
+663. cadran de nacre
+664. aiguille d'acier
+665. ressort d'acier
+666. rubis de synthèse
+667. verre de saphir
+668. couronne d'or
+669. remontoir d'acier
+670. balancier de laiton
+671. spiral d'acier
+672. échappement d'acier
+673. rouage de laiton
+674. barillet d'acier
+675. platine de laiton
+676. pont d'acier
+677. vis d'acier
+678. pierre de rubis
+679. huile de synthèse
+680. boîte de montre
+
+## Matériel informatique
+681. processeur de silicium
+682. mémoire de silicium
+683. disque de métal
+684. écran de cristal
+685. clavier de plastique
+686. souris de plastique
+687. câble de cuivre
+688. connecteur de plastique
+689. carte de fibre
+690. ventilateur de plastique
+691. alimentation de fer
+692. boîtier d'acier
+693. vis d'acier
+694. radiateur d'aluminium
+695. pâte de silicone
+696. nappe de cuivre
+697. condensateur de céramique
+698. résistance de carbone
+699. transistor de silicium
+700. diode de silicium
+
+## Matériel de bureau
+701. stylo de plastique
+702. crayon de bois
+703. gomme de caoutchouc
+704. règle de plastique
+705. équerre de plastique
+706. compas de métal
+707. rapporteur de plastique
+708. taille-crayon de métal
+709. agrafeuse de métal
+710. perforatrice de métal
+711. classeur de carton
+712. chemise de carton
+713. pochette de plastique
+714. intercalaire de carton
+715. étiquette de papier
+716. timbre de papier
+717. enveloppe de papier
+718. papier de cellulose
+719. encre de carbone
+720. toner de carbone
+
+## Plomberie et chauffage
+721. tuyau de cuivre
+722. raccord de laiton
+723. robinet de bronze
+724. joint de caoutchouc
+725. soupape de laiton
+726. clapet de caoutchouc
+727. flotteur de plastique
+728. chasse d'eau de plastique
+729. cuvette de porcelaine
+730. lavabo de porcelaine
+731. baignoire d'acrylique
+732. douche de céramique
+733. mitigeur de chrome
+734. pommeau de plastique
+735. flexible de métal
+736. radiateur de fonte
+737. chaudière d'acier
+738. brûleur de fonte
+739. conduit d'acier
+740. ventouse d'inox
+
+## Électricité
+741. câble de cuivre
+742. gaine de plastique
+743. prise de plastique
+744. interrupteur de plastique
+745. ampoule de verre
+746. filament de tungstène
+747. ballast de fer
+748. starter de plastique
+749. néon de verre
+750. LED de silicium
+751. transformateur de fer
+752. condensateur de plastique
+753. résistance de carbone
+754. fusible de plomb
+755. disjoncteur de plastique
+756. compteur de plastique
+757. tableau d'acier
+758. rail de cuivre
+759. borne de laiton
+760. domino de plastique
+
+## Maroquinerie
+761. sac de cuir
+762. valise de cuir
+763. mallette de cuir
+764. serviette de cuir
+765. portefeuille de cuir
+766. porte-monnaie de cuir
+767. ceinture de cuir
+768. bracelet de cuir
+769. collier de cuir
+770. laisse de cuir
+771. selle de cuir
+772. harnais de cuir
+773. bride de cuir
+774. rênes de cuir
+775. fouet de cuir
+776. étrier de fer
+777. mors d'acier
+778. boucle de laiton
+779. rivet de laiton
+780. couture de fil
+
+## Jouets et loisirs
+781. poupée de plastique
+782. peluche de tissu
+783. balle de caoutchouc
+784. ballon de plastique
+785. puzzle de carton
+786. domino de bois
+787. jeu d'échecs de bois
+788. dés d'os
+789. carte de carton
+790. bille de verre
+791. toupie de bois
+792. yo-yo de plastique
+793. cerf-volant de papier
+794. frisbee de plastique
+795. raquette de bois
+796. volant de plume
+797. corde de chanvre
+798. élastique de caoutchouc
+799. ressort d'acier
+800. aimant de fer
+
+## Cosmétiques et parfumerie
+801. rouge à lèvres de cire
+802. fond de teint de silicone
+803. poudre de talc
+804. fard de mica
+805. mascara de cire
+806. eye-liner de carbone
+807. vernis de résine
+808. parfum d'alcool
+809. eau de toilette d'alcool
+810. crème de lanoline
+811. lait de coco
+812. huile d'argan
+813. baume de karité
+814. gommage de sel
+815. masque d'argile
+816. lotion d'aloès
+817. sérum d'acide
+818. démaquillant d'huile
+819. coton de cellulose
+820. lingette de viscose
+
+## Équipement de protection
+821. casque de plastique
+822. visière de plastique
+823. masque de caoutchouc
+824. lunettes de plastique
+825. gant de latex
+826. combinaison de tyvek
+827. chaussure de cuir
+828. botte de caoutchouc
+829. gilet de kevlar
+830. genouillère de néoprène
+831. coudière de néoprène
+832. protège-tibia de plastique
+833. coquille de plastique
+834. harnais de nylon
+835. corde de nylon
+836. mousqueton d'acier
+837. descendeur d'aluminium
+838. huit de fer
+839. bloqueur d'aluminium
+840. poulie d'aluminium
+
+## Instruments de musique
+841. piano de bois
+842. violon d'épicéa
+843. guitare de palissandre
+844. flûte d'argent
+845. clarinette d'ébène
+846. saxophone de laiton
+847. trompette de cuivre
+848. trombone de laiton
+849. tuba de cuivre
+850. cor de laiton
+851. tambour de bois
+852. cymbale de bronze
+853. triangle d'acier
+854. xylophone de bois
+855. marimba de bois
+856. vibraphone de métal
+857. harpe de bois
+858. cithare de bois
+859. banjo de bois
+860. mandoline de bois
+
+## Matériel de pêche
+861. canne de bambou
+862. moulinet d'aluminium
+863. ligne de nylon
+864. hameçon d'acier
+865. plomb de plomb
+866. flotteur de liège
+867. épuisette de nylon
+868. bourriche de nylon
+869. panier d'osier
+870. siège de toile
+871. parasol de toile
+872. glacière de plastique
+873. thermos d'acier
+874. appât de ver
+875. leurre de plastique
+876. cuillère de métal
+877. poisson-nageur de bois
+878. mouche de plume
+879. bas de ligne de fluorocarbone
+880. émerillon d'acier
+
+## Équipement de camping
+881. tente de nylon
+882. tapis de sol de mousse
+883. sac de couchage de duvet
+884. matelas de mousse
+885. oreiller de plume
+886. lanterne de plastique
+887. lampe de poche d'aluminium
+888. pile de lithium
+889. réchaud d'acier
+890. casserole d'aluminium
+891. gourde d'aluminium
+892. thermos d'inox
+893. couteau de carbone
+894. corde de nylon
+895. bâche de polyéthylène
+896. sardine d'acier
+897. marteau de caoutchouc
+898. boussole de laiton
+899. sifflet de plastique
+900. trousse de toile
+
+## Matériel agricole
+901. charrue d'acier
+902. herse d'acier
+903. semoir d'acier
+904. moissonneuse d'acier
+905. faux d'acier
+906. faucille d'acier
+907. fourche d'acier
+908. râteau de bois
+909. pelle d'acier
+910. pioche d'acier
+911. houe d'acier
+912. bêche d'acier
+913. binette d'acier
+914. serfouette d'acier
+915. sécateur d'acier
+916. ébrancheur d'acier
+917. tronçonneuse d'acier
+918. débroussailleuse d'acier
+919. tondeuse d'acier
+920. pulvérisateur de plastique
+
+## Équipement de laboratoire
+921. microscope de métal
+922. lentille de verre
+923. oculaire de verre
+924. objectif de verre
+925. lame de verre
+926. lamelle de verre
+927. boîte de Petri de verre
+928. tube à essai de verre
+929. bécher de verre
+930. erlenmeyer de verre
+931. pipette de verre
+932. burette de verre
+933. éprouvette de verre
+934. ballon de verre
+935. réfrigérant de verre
+936. entonnoir de verre
+937. cristallisoir de verre
+938. dessicateur de verre
+939. balance d'acier
+940. centrifugeuse d'acier
+
+## Matériel de couture
+941. aiguille d'acier
+942. épingle d'acier
+943. dé de métal
+944. ciseaux d'acier
+945. découseur d'acier
+946. machine de fer
+947. canette de plastique
+948. bobine de plastique
+949. fil de coton
+950. fil de soie
+951. fil de nylon
+952. élastique de caoutchouc
+953. fermeture de plastique
+954. bouton de nacre
+955. bouton de bois
+956. bouton de plastique
+957. passementerie de soie
+958. galon de soie
+959. dentelle de coton
+960. ruban de satin
+
+## Emballages alimentaires
+961. boîte de conserve d'acier
+962. canette d'aluminium
+963. bouteille de verre
+964. bouchon de liège
+965. capsule de métal
+966. étiquette de papier
+967. film de plastique
+968. barquette d'aluminium
+969. pot de verre
+970. couvercle de métal
+971. sachet de plastique
+972. emballage de carton
+973. brick de carton
+974. paille de plastique
+975. gobelet de carton
+976. assiette de carton
+977. couvert de bois
+978. serviette de papier
+979. nappe de papier
+980. set de plastique
+
+## Matériaux d'isolation
+981. laine de verre
+982. laine de roche
+983. polystyrène expansé
+984. polyuréthane projeté
+985. ouate de cellulose
+986. fibre de bois
+987. liège expansé
+988. chanvre en vrac
+989. lin en rouleaux
+990. mouton de laine
+991. plume de canard
+992. vermiculite expansée
+993. perlite expansée
+994. argile expansée
+995. verre cellulaire
+996. aérogel de silice
+997. membrane d'étanchéité
+998. pare-vapeur de plastique
+999. frein-vapeur de papier
+1000. écran de sous-toiture
