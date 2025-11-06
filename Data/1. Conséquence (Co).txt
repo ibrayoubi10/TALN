@@ -1,8 +1,3 @@
-# 1000 exemples de relation sémantique Conséquence (Co)
-
-*Structure : N1 de N2 où N1 est la conséquence/résultat de N2*
-
-## Catastrophes naturelles et météo (1-50)
 1. dégâts de la tempête
 2. ravages du cyclone
 3. destructions de l'ouragan
@@ -53,8 +48,6 @@
 48. changements de saison
 49. variations de température
 50. fluctuations du climat
-
-## Accidents et incidents (51-100)
 51. blessures de l'accident
 52. fractures de la chute
 53. brûlures de l'explosion
@@ -105,8 +98,6 @@
 98. accoutumances du produit
 99. tolerances de l'usage
 100. sevrages de l'arrêt
-
-## Activités humaines et travail (101-200)
 101. fatigue du travail
 102. courbatures de l'exercice
 103. sueurs de l'effort
@@ -207,8 +198,6 @@
 198. expositions du musée
 199. collections du collectionneur
 200. accumulations du temps
-
-## Émotions et relations sociales (201-300)
 201. joie de la victoire
 202. tristesse de l'échec
 203. colère de l'injustice
@@ -309,8 +298,6 @@
 298. irritations du produit
 299. inflammations de l'infection
 300. gonflements du traumatisme
-
-## Processus naturels et transformations (301-400)
 301. rouille de l'humidité
 302. moisissures de l'humidité
 303. pourriture de l'eau
@@ -411,8 +398,6 @@
 398. silences de la concentration
 399. recueillements de la prière
 400. contemplations de la beauté
-
-## Conséquences économiques et commerciales (401-500)
 401. inflation de la demande
 402. déflation de la récession
 403. dévaluations de la crise
@@ -513,8 +498,6 @@
 498. notifications de l'huissier
 499. significations de l'avocat
 500. jugements du tribunal
-
-## Conséquences sociales et culturelles (501-600)
 501. traditions de l'histoire
 502. coutumes du peuple
 503. habitudes de la culture
@@ -615,8 +598,6 @@
 598. remords du crime
 599. contritions du péché
 600. pénitences de la confession
-
-## Sciences et technologies (601-700)
 601. découvertes de la recherche
 602. inventions de la science
 603. innovations de la technologie
@@ -717,8 +698,6 @@
 698. marques de l'transformation
 699. stigmates de l'épreuve
 700. cicatrices de l'expérience
-
-## Phénomènes biologiques et physiologiques (701-800)
 701. mutations de l'évolution
 702. adaptations de l'environnement
 703. sélections de la nature
@@ -819,8 +798,6 @@
 798. résurrections de l'espoir
 799. réveils de la conscience
 800. éveils de l'intelligence
-
-## Phénomènes psychologiques et mentaux (801-900)
 801. compréhensions de l'explication
 802. éclaircissements de l'analyse
 803. élucidations de l'enquête
@@ -921,8 +898,6 @@
 898. observatoires de l'astronomie
 899. bibliothèques du savoir
 900. musées de l'art
-
-## Phénomènes linguistiques et communicationnels (901-1000)
 901. expressions de la pensée
 902. formulations de l'idée
 903. articulations du concept
