@@ -1,0 +1,992 @@
+# 1000 exemples de relation sémantique Holonymie (H)
+
+
+*Structure : N1 de N2 où N1 est une partie (composant/portion/élément) de N2*
+
+## Anatomie humaine (1-50)
+1. main de corps humain
+2. bras de squelette
+3. jambe de visage
+4. genou de main gauche
+5. coudes de main droite
+6. doigt de bras droit
+7. pouce de bras gauche
+8. index de jambe droite
+9. poignet de jambe gauche
+10. cheville de torse
+11. épaule de corps humain
+12. hanche de squelette
+13. omoplate de visage
+14. clavicule de main gauche
+15. dos de main droite
+16. torse de bras droit
+17. buste de bras gauche
+18. cou de jambe droite
+19. front de jambe gauche
+20. menton de torse
+21. oreille de corps humain
+22. narine de squelette
+23. œil de visage
+24. paupière de main gauche
+25. iris de main droite
+26. pupille de bras droit
+27. joue de bras gauche
+28. langue de jambe droite
+29. dent de jambe gauche
+30. molaire de torse
+31. incisive de corps humain
+32. canine de squelette
+33. colonne vertébrale de visage
+34. vertèbre de main gauche
+35. côte de main droite
+36. sternum de bras droit
+37. cœur de bras gauche
+38. poumon de jambe droite
+39. foie de jambe gauche
+40. rein de torse
+41. main de corps humain
+42. bras de squelette
+43. jambe de visage
+44. genou de main gauche
+45. coudes de main droite
+46. doigt de bras droit
+47. pouce de bras gauche
+48. index de jambe droite
+49. poignet de jambe gauche
+50. cheville de torse
+
+## Anatomie animale (51-100)
+51. aile d’oiseau
+52. patte de poisson
+53. queue de requin
+54. nageoire de baleine
+55. aileron d’aigle
+56. museau de canard
+57. bec de papillon
+58. plume d’abeille
+59. écaille de cheval
+60. carapace de lion
+61. antennes d’oiseau
+62. dard de poisson
+63. ailes antérieures de requin
+64. ailes postérieures de baleine
+65. sabot d’aigle
+66. crinière de canard
+67. mors de papillon
+68. barbillon d’abeille
+69. branchie de cheval
+70. lumignon de lion
+71. aile d’oiseau
+72. patte de poisson
+73. queue de requin
+74. nageoire de baleine
+75. aileron d’aigle
+76. museau de canard
+77. bec de papillon
+78. plume d’abeille
+79. écaille de cheval
+80. carapace de lion
+81. antennes d’oiseau
+82. dard de poisson
+83. ailes antérieures de requin
+84. ailes postérieures de baleine
+85. sabot d’aigle
+86. crinière de canard
+87. mors de papillon
+88. barbillon d’abeille
+89. branchie de cheval
+90. lumignon de lion
+91. aile d’oiseau
+92. patte de poisson
+93. queue de requin
+94. nageoire de baleine
+95. aileron d’aigle
+96. museau de canard
+97. bec de papillon
+98. plume d’abeille
+99. écaille de cheval
+100. carapace de lion
+
+## Arbre et plante (101-150)
+101. racine d’arbre
+102. tronc de chêne
+103. branche de pin
+104. rameau de érable
+105. bourgeon de tilleul
+106. feuille de platane
+107. pétiole de rosier
+108. tige de tournesol
+109. fleur de pommier
+110. pollen de vigne
+111. fruit d’arbre
+112. graine de chêne
+113. écorce de pin
+114. nœud de érable
+115. sève de tilleul
+116. épine de platane
+117. stigmate de rosier
+118. pistil de tournesol
+119. étamine de pommier
+120. capitule de vigne
+121. racine d’arbre
+122. tronc de chêne
+123. branche de pin
+124. rameau de érable
+125. bourgeon de tilleul
+126. feuille de platane
+127. pétiole de rosier
+128. tige de tournesol
+129. fleur de pommier
+130. pollen de vigne
+131. fruit d’arbre
+132. graine de chêne
+133. écorce de pin
+134. nœud de érable
+135. sève de tilleul
+136. épine de platane
+137. stigmate de rosier
+138. pistil de tournesol
+139. étamine de pommier
+140. capitule de vigne
+141. racine d’arbre
+142. tronc de chêne
+143. branche de pin
+144. rameau de érable
+145. bourgeon de tilleul
+146. feuille de platane
+147. pétiole de rosier
+148. tige de tournesol
+149. fleur de pommier
+150. pollen de vigne
+
+## Maison et bâtiment (151-200)
+151. toit de maison
+152. charpente d’immeuble
+153. tuile de bâtiment
+154. chevron de pavillon
+155. poutre de villa
+156. mur de chalet
+157. façade de hangar
+158. fenêtre d’entrepôt
+159. volet de école
+160. porte de hôpital
+161. serrure de maison
+162. clé d’immeuble
+163. poignée de bâtiment
+164. plancher de pavillon
+165. dalle de villa
+166. poutrelle de chalet
+167. escalier de hangar
+168. marche d’entrepôt
+169. rampe de école
+170. balcon de hôpital
+171. terrasse de maison
+172. grenier d’immeuble
+173. cave de bâtiment
+174. chaudière de pavillon
+175. radiateur de villa
+176. prise de chalet
+177. interrupteur de hangar
+178. compteur d’entrepôt
+179. mètre carré de école
+180. pièce de hôpital
+181. toit de maison
+182. charpente d’immeuble
+183. tuile de bâtiment
+184. chevron de pavillon
+185. poutre de villa
+186. mur de chalet
+187. façade de hangar
+188. fenêtre d’entrepôt
+189. volet de école
+190. porte de hôpital
+191. serrure de maison
+192. clé d’immeuble
+193. poignée de bâtiment
+194. plancher de pavillon
+195. dalle de villa
+196. poutrelle de chalet
+197. escalier de hangar
+198. marche d’entrepôt
+199. rampe de école
+200. balcon de hôpital
+
+## Pièces d’un véhicule (201-250)
+201. roue de voiture
+202. jante de camion
+203. pneu de bus
+204. essieu de moto
+205. frein de vélo
+206. disque de train
+207. tambour de tramway
+208. amortisseur d’avion
+209. pare-chocs de bateau
+210. capot de fusée
+211. rétroviseur de voiture
+212. pare-brise de camion
+213. essuie-glace de bus
+214. volant de moto
+215. siège de vélo
+216. pédale de train
+217. embrayage de tramway
+218. boîte de vitesses d’avion
+219. moteur de bateau
+220. bougie de fusée
+221. échappement de voiture
+222. silencieux de camion
+223. radiateur de bus
+224. batterie de moto
+225. alternateur de vélo
+226. réservoir de train
+227. phare de tramway
+228. clignotant d’avion
+229. portière de bateau
+230. coffre de fusée
+231. roue de voiture
+232. jante de camion
+233. pneu de bus
+234. essieu de moto
+235. frein de vélo
+236. disque de train
+237. tambour de tramway
+238. amortisseur d’avion
+239. pare-chocs de bateau
+240. capot de fusée
+241. rétroviseur de voiture
+242. pare-brise de camion
+243. essuie-glace de bus
+244. volant de moto
+245. siège de vélo
+246. pédale de train
+247. embrayage de tramway
+248. boîte de vitesses d’avion
+249. moteur de bateau
+250. bougie de fusée
+
+## Appareil électronique (251-300)
+251. écran d’ordinateur portable
+252. châssis d’ordinateur de bureau
+253. carte mère de smartphone
+254. processeur de tablette
+255. puce de console de jeux
+256. mémoire de routeur
+257. barrette de téléviseur
+258. SSD de moniteur
+259. disque dur d’imprimante
+260. carte graphique d’appareil photo
+261. ventilateur d’ordinateur portable
+262. radiateur d’ordinateur de bureau
+263. boîtier de smartphone
+264. connecteur de tablette
+265. port USB de console de jeux
+266. nappe de routeur
+267. batterie de téléviseur
+268. capteur de moniteur
+269. microphone d’imprimante
+270. haut-parleur d’appareil photo
+271. antenne d’ordinateur portable
+272. caméra d’ordinateur de bureau
+273. objectif de smartphone
+274. flash de tablette
+275. touches de console de jeux
+276. clavier de routeur
+277. pavé tactile de téléviseur
+278. bouton d’alimentation de moniteur
+279. charnière d’imprimante
+280. dalle d’appareil photo
+281. écran d’ordinateur portable
+282. châssis d’ordinateur de bureau
+283. carte mère de smartphone
+284. processeur de tablette
+285. puce de console de jeux
+286. mémoire de routeur
+287. barrette de téléviseur
+288. SSD de moniteur
+289. disque dur d’imprimante
+290. carte graphique d’appareil photo
+291. ventilateur d’ordinateur portable
+292. radiateur d’ordinateur de bureau
+293. boîtier de smartphone
+294. connecteur de tablette
+295. port USB de console de jeux
+296. nappe de routeur
+297. batterie de téléviseur
+298. capteur de moniteur
+299. microphone d’imprimante
+300. haut-parleur d’appareil photo
+
+## Mobilier (301-350)
+301. pied de table
+302. plateau de chaise
+303. tiroir de fauteuil
+304. poignée de canapé
+305. dossier de bureau
+306. accoudoir d’armoire
+307. rangement de commode
+308. charnière de étagère
+309. étagère de lit
+310. tablette de meuble TV
+311. panneau de table
+312. lattes de chaise
+313. support de fauteuil
+314. montant de canapé
+315. patin de bureau
+316. roulette d’armoire
+317. vernis de commode
+318. vis de étagère
+319. cheville de lit
+320. bouton de meuble TV
+321. pied de table
+322. plateau de chaise
+323. tiroir de fauteuil
+324. poignée de canapé
+325. dossier de bureau
+326. accoudoir d’armoire
+327. rangement de commode
+328. charnière de étagère
+329. étagère de lit
+330. tablette de meuble TV
+331. panneau de table
+332. lattes de chaise
+333. support de fauteuil
+334. montant de canapé
+335. patin de bureau
+336. roulette d’armoire
+337. vernis de commode
+338. vis de étagère
+339. cheville de lit
+340. bouton de meuble TV
+341. pied de table
+342. plateau de chaise
+343. tiroir de fauteuil
+344. poignée de canapé
+345. dossier de bureau
+346. accoudoir d’armoire
+347. rangement de commode
+348. charnière de étagère
+349. étagère de lit
+350. tablette de meuble TV
+
+## Vêtement et accessoire (351-400)
+351. manche de chemise
+352. col de veste
+353. poignet de manteau
+354. bouton de pull
+355. boutonnière de pantalon
+356. fermeture de jupe
+357. zip de robe
+358. poche de chaussure
+359. doublure de sac
+360. ceinture de chapeau
+361. boucle de chemise
+362. ourlet de veste
+363. capuche de manteau
+364. cordon de pull
+365. semelle de pantalon
+366. lacet de jupe
+367. œillet de robe
+368. braguette de chaussure
+369. étiquette de sac
+370. empiècement de chapeau
+371. manche de chemise
+372. col de veste
+373. poignet de manteau
+374. bouton de pull
+375. boutonnière de pantalon
+376. fermeture de jupe
+377. zip de robe
+378. poche de chaussure
+379. doublure de sac
+380. ceinture de chapeau
+381. boucle de chemise
+382. ourlet de veste
+383. capuche de manteau
+384. cordon de pull
+385. semelle de pantalon
+386. lacet de jupe
+387. œillet de robe
+388. braguette de chaussure
+389. étiquette de sac
+390. empiècement de chapeau
+391. manche de chemise
+392. col de veste
+393. poignet de manteau
+394. bouton de pull
+395. boutonnière de pantalon
+396. fermeture de jupe
+397. zip de robe
+398. poche de chaussure
+399. doublure de sac
+400. ceinture de chapeau
+
+## Cuisine et ustensiles (401-450)
+401. lame de couteau
+402. manche de casserole
+403. denture de poêle
+404. rebord de verre
+405. fond de tasse
+406. couvercle de théière
+407. poignée de carafe
+408. anse de mixeur
+409. bec verseur de robot
+410. filtre de four
+411. panier de couteau
+412. grille de casserole
+413. bol de poêle
+414. cuve de verre
+415. pied de tasse
+416. balance de théière
+417. thermomètre de carafe
+418. moulin de mixeur
+419. mèche de robot
+420. pince de four
+421. lame de couteau
+422. manche de casserole
+423. denture de poêle
+424. rebord de verre
+425. fond de tasse
+426. couvercle de théière
+427. poignée de carafe
+428. anse de mixeur
+429. bec verseur de robot
+430. filtre de four
+431. panier de couteau
+432. grille de casserole
+433. bol de poêle
+434. cuve de verre
+435. pied de tasse
+436. balance de théière
+437. thermomètre de carafe
+438. moulin de mixeur
+439. mèche de robot
+440. pince de four
+441. lame de couteau
+442. manche de casserole
+443. denture de poêle
+444. rebord de verre
+445. fond de tasse
+446. couvercle de théière
+447. poignée de carafe
+448. anse de mixeur
+449. bec verseur de robot
+450. filtre de four
+
+## Instrument de musique (451-500)
+451. corde de guitare
+452. chevalet de violon
+453. touche de piano
+454. clé de flûte
+455. clé d’accord de clarinette
+456. anche de trompette
+457. pistons de saxophone
+458. embouchure de batterie
+459. sourdine de harpe
+460. archet d’accordéon
+461. table d’harmonie de guitare
+462. éclisse de violon
+463. ouïe de piano
+464. tête de flûte
+465. mécanique de clarinette
+466. peau de trompette
+467. cymbale de saxophone
+468. marteau de batterie
+469. bobine de harpe
+470. micro d’accordéon
+471. corde de guitare
+472. chevalet de violon
+473. touche de piano
+474. clé de flûte
+475. clé d’accord de clarinette
+476. anche de trompette
+477. pistons de saxophone
+478. embouchure de batterie
+479. sourdine de harpe
+480. archet d’accordéon
+481. table d’harmonie de guitare
+482. éclisse de violon
+483. ouïe de piano
+484. tête de flûte
+485. mécanique de clarinette
+486. peau de trompette
+487. cymbale de saxophone
+488. marteau de batterie
+489. bobine de harpe
+490. micro d’accordéon
+491. corde de guitare
+492. chevalet de violon
+493. touche de piano
+494. clé de flûte
+495. clé d’accord de clarinette
+496. anche de trompette
+497. pistons de saxophone
+498. embouchure de batterie
+499. sourdine de harpe
+500. archet d’accordéon
+
+## Livre et document (501-550)
+501. page de livre
+502. feuillet de roman
+503. chapitre de manuel
+504. titre de rapport
+505. sous-titre de thèse
+506. paragraphe d’article
+507. ligne de brochure
+508. marge de catalogue
+509. index de magazine
+510. bibliographie de journal
+511. table des matières de livre
+512. préface de roman
+513. postface de manuel
+514. annexe de rapport
+515. glossaire de thèse
+516. note d’article
+517. citation de brochure
+518. figure de catalogue
+519. tableau de magazine
+520. graphique de journal
+521. page de livre
+522. feuillet de roman
+523. chapitre de manuel
+524. titre de rapport
+525. sous-titre de thèse
+526. paragraphe d’article
+527. ligne de brochure
+528. marge de catalogue
+529. index de magazine
+530. bibliographie de journal
+531. table des matières de livre
+532. préface de roman
+533. postface de manuel
+534. annexe de rapport
+535. glossaire de thèse
+536. note d’article
+537. citation de brochure
+538. figure de catalogue
+539. tableau de magazine
+540. graphique de journal
+541. page de livre
+542. feuillet de roman
+543. chapitre de manuel
+544. titre de rapport
+545. sous-titre de thèse
+546. paragraphe d’article
+547. ligne de brochure
+548. marge de catalogue
+549. index de magazine
+550. bibliographie de journal
+
+## Ville et réseau urbain (551-600)
+551. rue de ville
+552. avenue d’agglomération
+553. boulevard de métropole
+554. place de commune
+555. impasse de capitale
+556. pont de centre-ville
+557. tunnel de banlieue
+558. carrefour de réseau routier
+559. feu tricolore de réseau ferré
+560. trottoir de réseau de bus
+561. quartier de ville
+562. arrondissement d’agglomération
+563. parc de métropole
+564. square de commune
+565. jardin de capitale
+566. station de centre-ville
+567. arrêt de banlieue
+568. gare de réseau routier
+569. port de réseau ferré
+570. aéroport de réseau de bus
+571. rue de ville
+572. avenue d’agglomération
+573. boulevard de métropole
+574. place de commune
+575. impasse de capitale
+576. pont de centre-ville
+577. tunnel de banlieue
+578. carrefour de réseau routier
+579. feu tricolore de réseau ferré
+580. trottoir de réseau de bus
+581. quartier de ville
+582. arrondissement d’agglomération
+583. parc de métropole
+584. square de commune
+585. jardin de capitale
+586. station de centre-ville
+587. arrêt de banlieue
+588. gare de réseau routier
+589. port de réseau ferré
+590. aéroport de réseau de bus
+591. rue de ville
+592. avenue d’agglomération
+593. boulevard de métropole
+594. place de commune
+595. impasse de capitale
+596. pont de centre-ville
+597. tunnel de banlieue
+598. carrefour de réseau routier
+599. feu tricolore de réseau ferré
+600. trottoir de réseau de bus
+
+## Géographie (601-650)
+601. rivage de côte atlantique
+602. plage de mer Méditerranée
+603. falaise de fleuve
+604. dune de rivière
+605. berge de lac
+606. delta d’océan
+607. embouchure de désert
+608. source de montagne
+609. affluent de massif
+610. confluent d’archipel
+611. crête de côte atlantique
+612. versant de mer Méditerranée
+613. cirque de fleuve
+614. col de rivière
+615. vallon de lac
+616. gorge d’océan
+617. canyon de désert
+618. plaine de montagne
+619. plateau de massif
+620. chaîne d’archipel
+621. rivage de côte atlantique
+622. plage de mer Méditerranée
+623. falaise de fleuve
+624. dune de rivière
+625. berge de lac
+626. delta d’océan
+627. embouchure de désert
+628. source de montagne
+629. affluent de massif
+630. confluent d’archipel
+631. crête de côte atlantique
+632. versant de mer Méditerranée
+633. cirque de fleuve
+634. col de rivière
+635. vallon de lac
+636. gorge d’océan
+637. canyon de désert
+638. plaine de montagne
+639. plateau de massif
+640. chaîne d’archipel
+641. rivage de côte atlantique
+642. plage de mer Méditerranée
+643. falaise de fleuve
+644. dune de rivière
+645. berge de lac
+646. delta d’océan
+647. embouchure de désert
+648. source de montagne
+649. affluent de massif
+650. confluent d’archipel
+
+## Alimentation (651-700)
+651. croûte de pain
+652. mie de fromage
+653. pépin d’orange
+654. noyau de citron
+655. zeste de pomme
+656. chair d’abricot
+657. coquille de noix
+658. écorce de œuf
+659. graisse de chocolat
+660. morceau de gâteau
+661. tranche de pain
+662. quartier de fromage
+663. lamelle d’orange
+664. grain de citron
+665. boule de pomme
+666. pâte d’abricot
+667. glaçage de noix
+668. coulis de œuf
+669. farce de chocolat
+670. nervure de gâteau
+671. croûte de pain
+672. mie de fromage
+673. pépin d’orange
+674. noyau de citron
+675. zeste de pomme
+676. chair d’abricot
+677. coquille de noix
+678. écorce de œuf
+679. graisse de chocolat
+680. morceau de gâteau
+681. tranche de pain
+682. quartier de fromage
+683. lamelle d’orange
+684. grain de citron
+685. boule de pomme
+686. pâte d’abricot
+687. glaçage de noix
+688. coulis de œuf
+689. farce de chocolat
+690. nervure de gâteau
+691. croûte de pain
+692. mie de fromage
+693. pépin d’orange
+694. noyau de citron
+695. zeste de pomme
+696. chair d’abricot
+697. coquille de noix
+698. écorce de œuf
+699. graisse de chocolat
+700. morceau de gâteau
+
+## Chimie et matériaux (701-750)
+701. atome de matière
+702. molécule d’alliage
+703. liaison d’acier
+704. grain d’aluminium
+705. cristal de béton
+706. fibres de composite
+707. maille de céramique
+708. feuillet de verre
+709. plaquette de bois
+710. lamelle de plastique
+711. particule de matière
+712. pore d’alliage
+713. film d’acier
+714. couche d’aluminium
+715. stratification de béton
+716. inclusion de composite
+717. impureté de céramique
+718. dopant de verre
+719. additif de bois
+720. polymère de plastique
+721. atome de matière
+722. molécule d’alliage
+723. liaison d’acier
+724. grain d’aluminium
+725. cristal de béton
+726. fibres de composite
+727. maille de céramique
+728. feuillet de verre
+729. plaquette de bois
+730. lamelle de plastique
+731. particule de matière
+732. pore d’alliage
+733. film d’acier
+734. couche d’aluminium
+735. stratification de béton
+736. inclusion de composite
+737. impureté de céramique
+738. dopant de verre
+739. additif de bois
+740. polymère de plastique
+741. atome de matière
+742. molécule d’alliage
+743. liaison d’acier
+744. grain d’aluminium
+745. cristal de béton
+746. fibres de composite
+747. maille de céramique
+748. feuillet de verre
+749. plaquette de bois
+750. lamelle de plastique
+
+## Logiciel et données (751-800)
+751. module de programme
+752. fonction d’application
+753. classe de système
+754. méthode de plateforme
+755. package de site web
+756. bibliothèque de API
+757. dépendance de base de données
+758. service d’entrepôt de données
+759. microservice de pipeline
+760. composant de tableau de bord
+761. champ de programme
+762. clé d’application
+763. index de système
+764. vue de plateforme
+765. table de site web
+766. tuple de API
+767. enregistrement de base de données
+768. colonne d’entrepôt de données
+769. ligne de pipeline
+770. schéma de tableau de bord
+771. module de programme
+772. fonction d’application
+773. classe de système
+774. méthode de plateforme
+775. package de site web
+776. bibliothèque de API
+777. dépendance de base de données
+778. service d’entrepôt de données
+779. microservice de pipeline
+780. composant de tableau de bord
+781. champ de programme
+782. clé d’application
+783. index de système
+784. vue de plateforme
+785. table de site web
+786. tuple de API
+787. enregistrement de base de données
+788. colonne d’entrepôt de données
+789. ligne de pipeline
+790. schéma de tableau de bord
+791. module de programme
+792. fonction d’application
+793. classe de système
+794. méthode de plateforme
+795. package de site web
+796. bibliothèque de API
+797. dépendance de base de données
+798. service d’entrepôt de données
+799. microservice de pipeline
+800. composant de tableau de bord
+
+## Organisation et entreprise (801-850)
+801. département d’organisation
+802. équipe d’entreprise
+803. pôle de groupe
+804. service d’institution
+805. cellule d’administration
+806. comité d’association
+807. bureau de ONG
+808. direction d’université
+809. filiale de hôpital
+810. succursale de musée
+811. poste d’organisation
+812. rôle d’entreprise
+813. mission de groupe
+814. projet d’institution
+815. processus d’administration
+816. procédure d’association
+817. politique de ONG
+818. règlement d’université
+819. budget de hôpital
+820. portefeuille de musée
+821. département d’organisation
+822. équipe d’entreprise
+823. pôle de groupe
+824. service d’institution
+825. cellule d’administration
+826. comité d’association
+827. bureau de ONG
+828. direction d’université
+829. filiale de hôpital
+830. succursale de musée
+831. poste d’organisation
+832. rôle d’entreprise
+833. mission de groupe
+834. projet d’institution
+835. processus d’administration
+836. procédure d’association
+837. politique de ONG
+838. règlement d’université
+839. budget de hôpital
+840. portefeuille de musée
+841. département d’organisation
+842. équipe d’entreprise
+843. pôle de groupe
+844. service d’institution
+845. cellule d’administration
+846. comité d’association
+847. bureau de ONG
+848. direction d’université
+849. filiale de hôpital
+850. succursale de musée
+
+## Événement (851-900)
+851. session de événement
+852. séance de festival
+853. atelier de colloque
+854. conférence de congrès
+855. table ronde de salon
+856. pause de séminaire
+857. plénière de réunion
+858. keynote d’atelier professionnel
+859. clôture de compétition
+860. ouverture de tournoi
+861. inscription de événement
+862. accueil de festival
+863. cocktail de colloque
+864. déjeuner de congrès
+865. dîner de salon
+866. remise de séminaire
+867. vote de réunion
+868. tour d’atelier professionnel
+869. finale de compétition
+870. cérémonie de tournoi
+871. session de événement
+872. séance de festival
+873. atelier de colloque
+874. conférence de congrès
+875. table ronde de salon
+876. pause de séminaire
+877. plénière de réunion
+878. keynote d’atelier professionnel
+879. clôture de compétition
+880. ouverture de tournoi
+881. inscription de événement
+882. accueil de festival
+883. cocktail de colloque
+884. déjeuner de congrès
+885. dîner de salon
+886. remise de séminaire
+887. vote de réunion
+888. tour d’atelier professionnel
+889. finale de compétition
+890. cérémonie de tournoi
+891. session de événement
+892. séance de festival
+893. atelier de colloque
+894. conférence de congrès
+895. table ronde de salon
+896. pause de séminaire
+897. plénière de réunion
+898. keynote d’atelier professionnel
+899. clôture de compétition
+900. ouverture de tournoi
+
+## Système naturel (901-950)
+901. nuage de tempête
+902. goutte de pluie
+903. flocon de neige
+904. rafale d’océan
+905. onde de mer
+906. vague de rivière
+907. courant de forêt
+908. tourbillon de désert
+909. grain de sable de prairie
+910. graine de volcan
+911. pétale de tempête
+912. feuille morte de pluie
+913. bourrasque de neige
+914. brise d’océan
+915. rayon de mer
+916. éclair de rivière
+917. tonnerre de forêt
+918. étincelle de désert
+919. braise de prairie
+920. cendre de volcan
+921. nuage de tempête
+922. goutte de pluie
+923. flocon de neige
+924. rafale d’océan
+925. onde de mer
+926. vague de rivière
+927. courant de forêt
+928. tourbillon de désert
+929. grain de sable de prairie
+930. graine de volcan
+931. pétale de tempête
+932. feuille morte de pluie
+933. bourrasque de neige
+934. brise d’océan
+935. rayon de mer
+936. éclair de rivière
+937. tonnerre de forêt
+938. étincelle de désert
+939. braise de prairie
+940. cendre de volcan
+941. nuage de tempête
+942. goutte de pluie
+943. flocon de neige
+944. rafale d’océan
+945. onde de mer
+946. vague de rivière
+947. courant de forêt
+948. tourbillon de désert
+949. grain de sable de prairie
+950. graine de volcan
