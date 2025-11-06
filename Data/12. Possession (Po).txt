@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Possession (Po)
+
+
+*Structure : N1 de N2 où N1 est possédé par N2*
+
+## Objets personnels (1-50)
+1. voiture d’homme
+2. vélo de femme
+3. montre de étudiant
+4. téléphone de professeur
+5. ordinateur de médecin
+6. sac de journaliste
+7. livre d’enfant
+8. stylo de policier
+9. veste de soldat
+10. lunettes de pilote
+11. voiture d’homme
+12. vélo de femme
+13. montre de étudiant
+14. téléphone de professeur
+15. ordinateur de médecin
+16. sac de journaliste
+17. livre d’enfant
+18. stylo de policier
+19. veste de soldat
+20. lunettes de pilote
+21. voiture d’homme
+22. vélo de femme
+23. montre de étudiant
+24. téléphone de professeur
+25. ordinateur de médecin
+26. sac de journaliste
+27. livre d’enfant
+28. stylo de policier
+29. veste de soldat
+30. lunettes de pilote
+31. voiture d’homme
+32. vélo de femme
+33. montre de étudiant
+34. téléphone de professeur
+35. ordinateur de médecin
+36. sac de journaliste
+37. livre d’enfant
+38. stylo de policier
+39. veste de soldat
+40. lunettes de pilote
+41. voiture d’homme
+42. vélo de femme
+43. montre de étudiant
+44. téléphone de professeur
+45. ordinateur de médecin
+46. sac de journaliste
+47. livre d’enfant
+48. stylo de policier
+49. veste de soldat
+50. lunettes de pilote
+
+## Animaux et propriétaires (51-100)
+51. chien d’agriculteur
+52. chat de famille
+53. cheval d’enfant
+54. oiseau de vieillard
+55. poisson de berger
+56. lapin de propriétaire
+57. tortue de voisin
+58. perroquet de fille
+59. hamster de garçon
+60. âne de chasseur
+61. chien d’agriculteur
+62. chat de famille
+63. cheval d’enfant
+64. oiseau de vieillard
+65. poisson de berger
+66. lapin de propriétaire
+67. tortue de voisin
+68. perroquet de fille
+69. hamster de garçon
+70. âne de chasseur
+71. chien d’agriculteur
+72. chat de famille
+73. cheval d’enfant
+74. oiseau de vieillard
+75. poisson de berger
+76. lapin de propriétaire
+77. tortue de voisin
+78. perroquet de fille
+79. hamster de garçon
+80. âne de chasseur
+81. chien d’agriculteur
+82. chat de famille
+83. cheval d’enfant
+84. oiseau de vieillard
+85. poisson de berger
+86. lapin de propriétaire
+87. tortue de voisin
+88. perroquet de fille
+89. hamster de garçon
+90. âne de chasseur
+91. chien d’agriculteur
+92. chat de famille
+93. cheval d’enfant
+94. oiseau de vieillard
+95. poisson de berger
+96. lapin de propriétaire
+97. tortue de voisin
+98. perroquet de fille
+99. hamster de garçon
+100. âne de chasseur
+
+## Maison et mobilier (101-150)
+101. table de locataire
+102. chaise de propriétaire
+103. armoire de famille
+104. lit de voisin
+105. lampe de collectionneur
+106. tableau d’antiquaire
+107. tapis d’architecte
+108. télévision d’artiste
+109. canapé d’habitant
+110. rideau de décorateur
+111. table de locataire
+112. chaise de propriétaire
+113. armoire de famille
+114. lit de voisin
+115. lampe de collectionneur
+116. tableau d’antiquaire
+117. tapis d’architecte
+118. télévision d’artiste
+119. canapé d’habitant
+120. rideau de décorateur
+121. table de locataire
+122. chaise de propriétaire
+123. armoire de famille
+124. lit de voisin
+125. lampe de collectionneur
+126. tableau d’antiquaire
+127. tapis d’architecte
+128. télévision d’artiste
+129. canapé d’habitant
+130. rideau de décorateur
+131. table de locataire
+132. chaise de propriétaire
+133. armoire de famille
+134. lit de voisin
+135. lampe de collectionneur
+136. tableau d’antiquaire
+137. tapis d’architecte
+138. télévision d’artiste
+139. canapé d’habitant
+140. rideau de décorateur
+141. table de locataire
+142. chaise de propriétaire
+143. armoire de famille
+144. lit de voisin
+145. lampe de collectionneur
+146. tableau d’antiquaire
+147. tapis d’architecte
+148. télévision d’artiste
+149. canapé d’habitant
+150. rideau de décorateur
+
+## Outils et travail (151-200)
+151. marteau d’ouvrier
+152. clé de mécanicien
+153. tournevis d’artisan
+154. pelle de plombier
+155. pince de menuisier
+156. ordinateur de électricien
+157. brouette de technicien
+158. chariot de jardinier
+159. machine de forgeron
+160. outil d’ingénieur
+161. marteau d’ouvrier
+162. clé de mécanicien
+163. tournevis d’artisan
+164. pelle de plombier
+165. pince de menuisier
+166. ordinateur de électricien
+167. brouette de technicien
+168. chariot de jardinier
+169. machine de forgeron
+170. outil d’ingénieur
+171. marteau d’ouvrier
+172. clé de mécanicien
+173. tournevis d’artisan
+174. pelle de plombier
+175. pince de menuisier
+176. ordinateur de électricien
+177. brouette de technicien
+178. chariot de jardinier
+179. machine de forgeron
+180. outil d’ingénieur
+181. marteau d’ouvrier
+182. clé de mécanicien
+183. tournevis d’artisan
+184. pelle de plombier
+185. pince de menuisier
+186. ordinateur de électricien
+187. brouette de technicien
+188. chariot de jardinier
+189. machine de forgeron
+190. outil d’ingénieur
+191. marteau d’ouvrier
+192. clé de mécanicien
+193. tournevis d’artisan
+194. pelle de plombier
+195. pince de menuisier
+196. ordinateur de électricien
+197. brouette de technicien
+198. chariot de jardinier
+199. machine de forgeron
+200. outil d’ingénieur
+
+## Armes et militaires (201-250)
+201. fusil de soldat
+202. pistolet d’officier
+203. épée de capitaine
+204. sabre de colonel
+205. casque de général
+206. bouclier de militaire
+207. tenue de policier
+208. camion de gardien
+209. avion de sergent
+210. char de commandant
+211. fusil de soldat
+212. pistolet d’officier
+213. épée de capitaine
+214. sabre de colonel
+215. casque de général
+216. bouclier de militaire
+217. tenue de policier
+218. camion de gardien
+219. avion de sergent
+220. char de commandant
+221. fusil de soldat
+222. pistolet d’officier
+223. épée de capitaine
+224. sabre de colonel
+225. casque de général
+226. bouclier de militaire
+227. tenue de policier
+228. camion de gardien
+229. avion de sergent
+230. char de commandant
+231. fusil de soldat
+232. pistolet d’officier
+233. épée de capitaine
+234. sabre de colonel
+235. casque de général
+236. bouclier de militaire
+237. tenue de policier
+238. camion de gardien
+239. avion de sergent
+240. char de commandant
+241. fusil de soldat
+242. pistolet d’officier
+243. épée de capitaine
+244. sabre de colonel
+245. casque de général
+246. bouclier de militaire
+247. tenue de policier
+248. camion de gardien
+249. avion de sergent
+250. char de commandant
+
+## Musique et instruments (251-300)
+251. guitare de musicien
+252. piano d’artiste
+253. violon de chef d’orchestre
+254. flûte de compositeur
+255. trompette de professeur
+256. batterie de élève
+257. clarinette de chanteur
+258. harpe d’interprète
+259. saxophone d’organiste
+260. tambour de chef de fanfare
+261. guitare de musicien
+262. piano d’artiste
+263. violon de chef d’orchestre
+264. flûte de compositeur
+265. trompette de professeur
+266. batterie de élève
+267. clarinette de chanteur
+268. harpe d’interprète
+269. saxophone d’organiste
+270. tambour de chef de fanfare
+271. guitare de musicien
+272. piano d’artiste
+273. violon de chef d’orchestre
+274. flûte de compositeur
+275. trompette de professeur
+276. batterie de élève
+277. clarinette de chanteur
+278. harpe d’interprète
+279. saxophone d’organiste
+280. tambour de chef de fanfare
+281. guitare de musicien
+282. piano d’artiste
+283. violon de chef d’orchestre
+284. flûte de compositeur
+285. trompette de professeur
+286. batterie de élève
+287. clarinette de chanteur
+288. harpe d’interprète
+289. saxophone d’organiste
+290. tambour de chef de fanfare
+291. guitare de musicien
+292. piano d’artiste
+293. violon de chef d’orchestre
+294. flûte de compositeur
+295. trompette de professeur
+296. batterie de élève
+297. clarinette de chanteur
+298. harpe d’interprète
+299. saxophone d’organiste
+300. tambour de chef de fanfare
+
+## Livres et auteurs (301-350)
+301. roman de écrivain
+302. essai d’auteur
+303. poème de professeur
+304. nouvelle de philosophe
+305. biographie de poète
+306. ouvrage d’historien
+307. livre de scientifique
+308. traité de journaliste
+309. manuel de romancier
+310. discours de chercheur
+311. roman de écrivain
+312. essai d’auteur
+313. poème de professeur
+314. nouvelle de philosophe
+315. biographie de poète
+316. ouvrage d’historien
+317. livre de scientifique
+318. traité de journaliste
+319. manuel de romancier
+320. discours de chercheur
+321. roman de écrivain
+322. essai d’auteur
+323. poème de professeur
+324. nouvelle de philosophe
+325. biographie de poète
+326. ouvrage d’historien
+327. livre de scientifique
+328. traité de journaliste
+329. manuel de romancier
+330. discours de chercheur
+331. roman de écrivain
+332. essai d’auteur
+333. poème de professeur
+334. nouvelle de philosophe
+335. biographie de poète
+336. ouvrage d’historien
+337. livre de scientifique
+338. traité de journaliste
+339. manuel de romancier
+340. discours de chercheur
+341. roman de écrivain
+342. essai d’auteur
+343. poème de professeur
+344. nouvelle de philosophe
+345. biographie de poète
+346. ouvrage d’historien
+347. livre de scientifique
+348. traité de journaliste
+349. manuel de romancier
+350. discours de chercheur
+
+## Vêtements et personnes (351-400)
+351. robe d’homme
+352. chemise de femme
+353. manteau d’enfant
+354. veste de élève
+355. jupe d’ouvrier
+356. pantalon de policier
+357. chaussure de médecin
+358. chapeau de juge
+359. cravate de soldat
+360. uniforme d’acteur
+361. robe d’homme
+362. chemise de femme
+363. manteau d’enfant
+364. veste de élève
+365. jupe d’ouvrier
+366. pantalon de policier
+367. chaussure de médecin
+368. chapeau de juge
+369. cravate de soldat
+370. uniforme d’acteur
+371. robe d’homme
+372. chemise de femme
+373. manteau d’enfant
+374. veste de élève
+375. jupe d’ouvrier
+376. pantalon de policier
+377. chaussure de médecin
+378. chapeau de juge
+379. cravate de soldat
+380. uniforme d’acteur
+381. robe d’homme
+382. chemise de femme
+383. manteau d’enfant
+384. veste de élève
+385. jupe d’ouvrier
+386. pantalon de policier
+387. chaussure de médecin
+388. chapeau de juge
+389. cravate de soldat
+390. uniforme d’acteur
+391. robe d’homme
+392. chemise de femme
+393. manteau d’enfant
+394. veste de élève
+395. jupe d’ouvrier
+396. pantalon de policier
+397. chaussure de médecin
+398. chapeau de juge
+399. cravate de soldat
+400. uniforme d’acteur
+
+## Animaux et maîtres (401-450)
+401. chien de femme
+402. chat d’homme
+403. perroquet d’enfant
+404. cheval de berger
+405. poisson de chasseur
+406. pigeon de paysan
+407. chien de garde de éleveur
+408. chaton de voisin
+409. poule de gardien
+410. âne de propriétaire
+411. chien de femme
+412. chat d’homme
+413. perroquet d’enfant
+414. cheval de berger
+415. poisson de chasseur
+416. pigeon de paysan
+417. chien de garde de éleveur
+418. chaton de voisin
+419. poule de gardien
+420. âne de propriétaire
+421. chien de femme
+422. chat d’homme
+423. perroquet d’enfant
+424. cheval de berger
+425. poisson de chasseur
+426. pigeon de paysan
+427. chien de garde de éleveur
+428. chaton de voisin
+429. poule de gardien
+430. âne de propriétaire
+431. chien de femme
+432. chat d’homme
+433. perroquet d’enfant
+434. cheval de berger
+435. poisson de chasseur
+436. pigeon de paysan
+437. chien de garde de éleveur
+438. chaton de voisin
+439. poule de gardien
+440. âne de propriétaire
+441. chien de femme
+442. chat d’homme
+443. perroquet d’enfant
+444. cheval de berger
+445. poisson de chasseur
+446. pigeon de paysan
+447. chien de garde de éleveur
+448. chaton de voisin
+449. poule de gardien
+450. âne de propriétaire
+
+## Oeuvres et artistes (451-500)
+451. tableau de peintre
+452. sculpture d’artiste
+453. photo de sculpteur
+454. film de réalisateur
+455. dessin de photographe
+456. peinture d’architecte
+457. roman de dessinateur
+458. affiche d’illustrateur
+459. plan de étudiant
+460. maquette de collectionneur
+461. tableau de peintre
+462. sculpture d’artiste
+463. photo de sculpteur
+464. film de réalisateur
+465. dessin de photographe
+466. peinture d’architecte
+467. roman de dessinateur
+468. affiche d’illustrateur
+469. plan de étudiant
+470. maquette de collectionneur
+471. tableau de peintre
+472. sculpture d’artiste
+473. photo de sculpteur
+474. film de réalisateur
+475. dessin de photographe
+476. peinture d’architecte
+477. roman de dessinateur
+478. affiche d’illustrateur
+479. plan de étudiant
+480. maquette de collectionneur
+481. tableau de peintre
+482. sculpture d’artiste
+483. photo de sculpteur
+484. film de réalisateur
+485. dessin de photographe
+486. peinture d’architecte
+487. roman de dessinateur
+488. affiche d’illustrateur
+489. plan de étudiant
+490. maquette de collectionneur
+491. tableau de peintre
+492. sculpture d’artiste
+493. photo de sculpteur
+494. film de réalisateur
+495. dessin de photographe
+496. peinture d’architecte
+497. roman de dessinateur
+498. affiche d’illustrateur
+499. plan de étudiant
+500. maquette de collectionneur
+
+## Bijoux et accessoires (501-550)
+501. collier de femme
+502. bracelet d’homme
+503. bague de reine
+504. boucle d’oreille de roi
+505. montre d’enfant
+506. broche de marié
+507. pendentif de épouse
+508. couronne de marchand
+509. pierre de bijoutier
+510. anneau d’artiste
+511. collier de femme
+512. bracelet d’homme
+513. bague de reine
+514. boucle d’oreille de roi
+515. montre d’enfant
+516. broche de marié
+517. pendentif de épouse
+518. couronne de marchand
+519. pierre de bijoutier
+520. anneau d’artiste
+521. collier de femme
+522. bracelet d’homme
+523. bague de reine
+524. boucle d’oreille de roi
+525. montre d’enfant
+526. broche de marié
+527. pendentif de épouse
+528. couronne de marchand
+529. pierre de bijoutier
+530. anneau d’artiste
+531. collier de femme
+532. bracelet d’homme
+533. bague de reine
+534. boucle d’oreille de roi
+535. montre d’enfant
+536. broche de marié
+537. pendentif de épouse
+538. couronne de marchand
+539. pierre de bijoutier
+540. anneau d’artiste
+541. collier de femme
+542. bracelet d’homme
+543. bague de reine
+544. boucle d’oreille de roi
+545. montre d’enfant
+546. broche de marié
+547. pendentif de épouse
+548. couronne de marchand
+549. pierre de bijoutier
+550. anneau d’artiste
+
+## Véhicules et conducteurs (551-600)
+551. voiture de chauffeur
+552. camion de conducteur
+553. bus de pilote
+554. moto de capitaine
+555. vélo de mécanicien
+556. train de voyageur
+557. bateau de propriétaire
+558. avion de paysan
+559. taxi de touriste
+560. caravane de étudiant
+561. voiture de chauffeur
+562. camion de conducteur
+563. bus de pilote
+564. moto de capitaine
+565. vélo de mécanicien
+566. train de voyageur
+567. bateau de propriétaire
+568. avion de paysan
+569. taxi de touriste
+570. caravane de étudiant
+571. voiture de chauffeur
+572. camion de conducteur
+573. bus de pilote
+574. moto de capitaine
+575. vélo de mécanicien
+576. train de voyageur
+577. bateau de propriétaire
+578. avion de paysan
+579. taxi de touriste
+580. caravane de étudiant
+581. voiture de chauffeur
+582. camion de conducteur
+583. bus de pilote
+584. moto de capitaine
+585. vélo de mécanicien
+586. train de voyageur
+587. bateau de propriétaire
+588. avion de paysan
+589. taxi de touriste
+590. caravane de étudiant
+591. voiture de chauffeur
+592. camion de conducteur
+593. bus de pilote
+594. moto de capitaine
+595. vélo de mécanicien
+596. train de voyageur
+597. bateau de propriétaire
+598. avion de paysan
+599. taxi de touriste
+600. caravane de étudiant
+
+## Maisons et habitants (601-650)
+601. appartement de famille
+602. maison de couple
+603. villa d’homme
+604. pavillon de femme
+605. chalet de locataire
+606. studio de propriétaire
+607. immeuble de étudiant
+608. bâtiment d’artiste
+609. ferme d’ouvrier
+610. manoir d’architecte
+611. appartement de famille
+612. maison de couple
+613. villa d’homme
+614. pavillon de femme
+615. chalet de locataire
+616. studio de propriétaire
+617. immeuble de étudiant
+618. bâtiment d’artiste
+619. ferme d’ouvrier
+620. manoir d’architecte
+621. appartement de famille
+622. maison de couple
+623. villa d’homme
+624. pavillon de femme
+625. chalet de locataire
+626. studio de propriétaire
+627. immeuble de étudiant
+628. bâtiment d’artiste
+629. ferme d’ouvrier
+630. manoir d’architecte
+631. appartement de famille
+632. maison de couple
+633. villa d’homme
+634. pavillon de femme
+635. chalet de locataire
+636. studio de propriétaire
+637. immeuble de étudiant
+638. bâtiment d’artiste
+639. ferme d’ouvrier
+640. manoir d’architecte
+641. appartement de famille
+642. maison de couple
+643. villa d’homme
+644. pavillon de femme
+645. chalet de locataire
+646. studio de propriétaire
+647. immeuble de étudiant
+648. bâtiment d’artiste
+649. ferme d’ouvrier
+650. manoir d’architecte
+
+## Objets religieux et fidèles (651-700)
+651. bible de prêtre
+652. croix de moine
+653. rosaire de fidèle
+654. coran d’imam
+655. statue de évêque
+656. icône de pèlerin
+657. tapis de religieuse
+658. autel d’abbé
+659. chapelet de diacre
+660. livre de prières de prophète
+661. bible de prêtre
+662. croix de moine
+663. rosaire de fidèle
+664. coran d’imam
+665. statue de évêque
+666. icône de pèlerin
+667. tapis de religieuse
+668. autel d’abbé
+669. chapelet de diacre
+670. livre de prières de prophète
+671. bible de prêtre
+672. croix de moine
+673. rosaire de fidèle
+674. coran d’imam
+675. statue de évêque
+676. icône de pèlerin
+677. tapis de religieuse
+678. autel d’abbé
+679. chapelet de diacre
+680. livre de prières de prophète
+681. bible de prêtre
+682. croix de moine
+683. rosaire de fidèle
+684. coran d’imam
+685. statue de évêque
+686. icône de pèlerin
+687. tapis de religieuse
+688. autel d’abbé
+689. chapelet de diacre
+690. livre de prières de prophète
+691. bible de prêtre
+692. croix de moine
+693. rosaire de fidèle
+694. coran d’imam
+695. statue de évêque
+696. icône de pèlerin
+697. tapis de religieuse
+698. autel d’abbé
+699. chapelet de diacre
+700. livre de prières de prophète
+
+## Outils numériques (701-750)
+701. ordinateur de étudiant
+702. tablette de programmeur
+703. téléphone de chercheur
+704. serveur de graphiste
+705. clavier de journaliste
+706. souris d’ingénieur
+707. imprimante de technicien
+708. disque dur de professeur
+709. appareil photo d’utilisateur
+710. micro de secrétaire
+711. ordinateur de étudiant
+712. tablette de programmeur
+713. téléphone de chercheur
+714. serveur de graphiste
+715. clavier de journaliste
+716. souris d’ingénieur
+717. imprimante de technicien
+718. disque dur de professeur
+719. appareil photo d’utilisateur
+720. micro de secrétaire
+721. ordinateur de étudiant
+722. tablette de programmeur
+723. téléphone de chercheur
+724. serveur de graphiste
+725. clavier de journaliste
+726. souris d’ingénieur
+727. imprimante de technicien
+728. disque dur de professeur
+729. appareil photo d’utilisateur
+730. micro de secrétaire
+731. ordinateur de étudiant
+732. tablette de programmeur
+733. téléphone de chercheur
+734. serveur de graphiste
+735. clavier de journaliste
+736. souris d’ingénieur
+737. imprimante de technicien
+738. disque dur de professeur
+739. appareil photo d’utilisateur
+740. micro de secrétaire
+741. ordinateur de étudiant
+742. tablette de programmeur
+743. téléphone de chercheur
+744. serveur de graphiste
+745. clavier de journaliste
+746. souris d’ingénieur
+747. imprimante de technicien
+748. disque dur de professeur
+749. appareil photo d’utilisateur
+750. micro de secrétaire
+
+## Objets d’art (751-800)
+751. statue d’artiste
+752. peinture de peintre
+753. sculpture de musée
+754. vase de collectionneur
+755. tapisserie d’architecte
+756. dessin de galeriste
+757. maquette de marchand
+758. vitrail de créateur
+759. fresque de curateur
+760. gravure de restaurateur
+761. statue d’artiste
+762. peinture de peintre
+763. sculpture de musée
+764. vase de collectionneur
+765. tapisserie d’architecte
+766. dessin de galeriste
+767. maquette de marchand
+768. vitrail de créateur
+769. fresque de curateur
+770. gravure de restaurateur
+771. statue d’artiste
+772. peinture de peintre
+773. sculpture de musée
+774. vase de collectionneur
+775. tapisserie d’architecte
+776. dessin de galeriste
+777. maquette de marchand
+778. vitrail de créateur
+779. fresque de curateur
+780. gravure de restaurateur
+781. statue d’artiste
+782. peinture de peintre
+783. sculpture de musée
+784. vase de collectionneur
+785. tapisserie d’architecte
+786. dessin de galeriste
+787. maquette de marchand
+788. vitrail de créateur
+789. fresque de curateur
+790. gravure de restaurateur
+791. statue d’artiste
+792. peinture de peintre
+793. sculpture de musée
+794. vase de collectionneur
+795. tapisserie d’architecte
+796. dessin de galeriste
+797. maquette de marchand
+798. vitrail de créateur
+799. fresque de curateur
+800. gravure de restaurateur
+
+## Documents et bureaux (801-850)
+801. dossier de secrétaire
+802. contrat d’employé
+803. rapport de directeur
+804. lettre d’avocat
+805. fiche de comptable
+806. document de responsable
+807. projet de étudiant
+808. note de client
+809. facture de gestionnaire
+810. formulaire de fonctionnaire
+811. dossier de secrétaire
+812. contrat d’employé
+813. rapport de directeur
+814. lettre d’avocat
+815. fiche de comptable
+816. document de responsable
+817. projet de étudiant
+818. note de client
+819. facture de gestionnaire
+820. formulaire de fonctionnaire
+821. dossier de secrétaire
+822. contrat d’employé
+823. rapport de directeur
+824. lettre d’avocat
+825. fiche de comptable
+826. document de responsable
+827. projet de étudiant
+828. note de client
+829. facture de gestionnaire
+830. formulaire de fonctionnaire
+831. dossier de secrétaire
+832. contrat d’employé
+833. rapport de directeur
+834. lettre d’avocat
+835. fiche de comptable
+836. document de responsable
+837. projet de étudiant
+838. note de client
+839. facture de gestionnaire
+840. formulaire de fonctionnaire
+841. dossier de secrétaire
+842. contrat d’employé
+843. rapport de directeur
+844. lettre d’avocat
+845. fiche de comptable
+846. document de responsable
+847. projet de étudiant
+848. note de client
+849. facture de gestionnaire
+850. formulaire de fonctionnaire
+
+## Instruments et musiciens (851-900)
+851. violon de musicien
+852. piano de chef d’orchestre
+853. flûte de compositeur
+854. clarinette de élève
+855. guitare de professeur
+856. trompette d’instrumentiste
+857. batterie de chanteur
+858. harpe d’organiste
+859. tambour d’interprète
+860. saxophone de soliste
+861. violon de musicien
+862. piano de chef d’orchestre
+863. flûte de compositeur
+864. clarinette de élève
+865. guitare de professeur
+866. trompette d’instrumentiste
+867. batterie de chanteur
+868. harpe d’organiste
+869. tambour d’interprète
+870. saxophone de soliste
+871. violon de musicien
+872. piano de chef d’orchestre
+873. flûte de compositeur
+874. clarinette de élève
+875. guitare de professeur
+876. trompette d’instrumentiste
+877. batterie de chanteur
+878. harpe d’organiste
+879. tambour d’interprète
+880. saxophone de soliste
+881. violon de musicien
+882. piano de chef d’orchestre
+883. flûte de compositeur
+884. clarinette de élève
+885. guitare de professeur
+886. trompette d’instrumentiste
+887. batterie de chanteur
+888. harpe d’organiste
+889. tambour d’interprète
+890. saxophone de soliste
+891. violon de musicien
+892. piano de chef d’orchestre
+893. flûte de compositeur
+894. clarinette de élève
+895. guitare de professeur
+896. trompette d’instrumentiste
+897. batterie de chanteur
+898. harpe d’organiste
+899. tambour d’interprète
+900. saxophone de soliste
+
+## Armes et forces (901-950)
+901. pistolet de soldat
+902. arme de guerrier
+903. lance de chasseur
+904. bouclier de militaire
+905. arc de policier
+906. épée d’officier
+907. couteau d’assassin
+908. gourdin d’héros
+909. massue de criminel
+910. fusil de gardien
+911. pistolet de soldat
+912. arme de guerrier
+913. lance de chasseur
+914. bouclier de militaire
+915. arc de policier
+916. épée d’officier
+917. couteau d’assassin
+918. gourdin d’héros
+919. massue de criminel
+920. fusil de gardien
+921. pistolet de soldat
+922. arme de guerrier
+923. lance de chasseur
+924. bouclier de militaire
+925. arc de policier
+926. épée d’officier
+927. couteau d’assassin
+928. gourdin d’héros
+929. massue de criminel
+930. fusil de gardien
+931. pistolet de soldat
+932. arme de guerrier
+933. lance de chasseur
+934. bouclier de militaire
+935. arc de policier
+936. épée d’officier
+937. couteau d’assassin
+938. gourdin d’héros
+939. massue de criminel
+940. fusil de gardien
+941. pistolet de soldat
+942. arme de guerrier
+943. lance de chasseur
+944. bouclier de militaire
+945. arc de policier
+946. épée d’officier
+947. couteau d’assassin
+948. gourdin d’héros
+949. massue de criminel
+950. fusil de gardien
+
+## Objets quotidiens (951-1000)
+951. clé d’homme
+952. téléphone de femme
+953. montre de étudiant
+954. stylo de professeur
+955. agenda d’agent
+956. sac d’employé
+957. ordinateur de touriste
+958. carnet de voyageur
+959. portefeuille de pilote
+960. carte de médecin
+961. clé d’homme
+962. téléphone de femme
+963. montre de étudiant
+964. stylo de professeur
+965. agenda d’agent
+966. sac d’employé
+967. ordinateur de touriste
+968. carnet de voyageur
+969. portefeuille de pilote
+970. carte de médecin
+971. clé d’homme
+972. téléphone de femme
+973. montre de étudiant
+974. stylo de professeur
+975. agenda d’agent
+976. sac d’employé
+977. ordinateur de touriste
+978. carnet de voyageur
+979. portefeuille de pilote
+980. carte de médecin
+981. clé d’homme
+982. téléphone de femme
+983. montre de étudiant
+984. stylo de professeur
+985. agenda d’agent
+986. sac d’employé
+987. ordinateur de touriste
+988. carnet de voyageur
+989. portefeuille de pilote
+990. carte de médecin
+991. clé d’homme
+992. téléphone de femme
+993. montre de étudiant
+994. stylo de professeur
+995. agenda d’agent
+996. sac d’employé
+997. ordinateur de touriste
+998. carnet de voyageur
+999. portefeuille de pilote
+1000. carte de médecin

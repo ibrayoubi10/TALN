@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Dépiction (D)
+
+
+*Structure : N1 de N2 où N1 est une représentation de N2*
+
+## Art classique (1-50)
+1. peinture de roi
+2. dessin de reine
+3. portrait de soldat
+4. croquis de famille
+5. gravure de paysage
+6. fresque de bataille
+7. tableau de village
+8. aquarelle de saint
+9. illustration d’animal
+10. esquisse de paysan
+11. peinture de roi
+12. dessin de reine
+13. portrait de soldat
+14. croquis de famille
+15. gravure de paysage
+16. fresque de bataille
+17. tableau de village
+18. aquarelle de saint
+19. illustration d’animal
+20. esquisse de paysan
+21. peinture de roi
+22. dessin de reine
+23. portrait de soldat
+24. croquis de famille
+25. gravure de paysage
+26. fresque de bataille
+27. tableau de village
+28. aquarelle de saint
+29. illustration d’animal
+30. esquisse de paysan
+31. peinture de roi
+32. dessin de reine
+33. portrait de soldat
+34. croquis de famille
+35. gravure de paysage
+36. fresque de bataille
+37. tableau de village
+38. aquarelle de saint
+39. illustration d’animal
+40. esquisse de paysan
+41. peinture de roi
+42. dessin de reine
+43. portrait de soldat
+44. croquis de famille
+45. gravure de paysage
+46. fresque de bataille
+47. tableau de village
+48. aquarelle de saint
+49. illustration d’animal
+50. esquisse de paysan
+
+## Photographie et image (51-100)
+51. photo d’enfant
+52. photographie de famille
+53. portrait de mariage
+54. cliché de fête
+55. image de paysage
+56. instantané de ville
+57. capture d’animal
+58. série de personne
+59. album de bâtiment
+60. reportage de événement
+61. photo d’enfant
+62. photographie de famille
+63. portrait de mariage
+64. cliché de fête
+65. image de paysage
+66. instantané de ville
+67. capture d’animal
+68. série de personne
+69. album de bâtiment
+70. reportage de événement
+71. photo d’enfant
+72. photographie de famille
+73. portrait de mariage
+74. cliché de fête
+75. image de paysage
+76. instantané de ville
+77. capture d’animal
+78. série de personne
+79. album de bâtiment
+80. reportage de événement
+81. photo d’enfant
+82. photographie de famille
+83. portrait de mariage
+84. cliché de fête
+85. image de paysage
+86. instantané de ville
+87. capture d’animal
+88. série de personne
+89. album de bâtiment
+90. reportage de événement
+91. photo d’enfant
+92. photographie de famille
+93. portrait de mariage
+94. cliché de fête
+95. image de paysage
+96. instantané de ville
+97. capture d’animal
+98. série de personne
+99. album de bâtiment
+100. reportage de événement
+
+## Sculpture et objet d’art (101-150)
+101. statue de roi
+102. buste de dieu
+103. relief de personnage
+104. statuette d’athlète
+105. modèle d’héros
+106. figure de cheval
+107. maquette d’animal
+108. reproduction de corps
+109. moulage d’homme
+110. installation de femme
+111. statue de roi
+112. buste de dieu
+113. relief de personnage
+114. statuette d’athlète
+115. modèle d’héros
+116. figure de cheval
+117. maquette d’animal
+118. reproduction de corps
+119. moulage d’homme
+120. installation de femme
+121. statue de roi
+122. buste de dieu
+123. relief de personnage
+124. statuette d’athlète
+125. modèle d’héros
+126. figure de cheval
+127. maquette d’animal
+128. reproduction de corps
+129. moulage d’homme
+130. installation de femme
+131. statue de roi
+132. buste de dieu
+133. relief de personnage
+134. statuette d’athlète
+135. modèle d’héros
+136. figure de cheval
+137. maquette d’animal
+138. reproduction de corps
+139. moulage d’homme
+140. installation de femme
+141. statue de roi
+142. buste de dieu
+143. relief de personnage
+144. statuette d’athlète
+145. modèle d’héros
+146. figure de cheval
+147. maquette d’animal
+148. reproduction de corps
+149. moulage d’homme
+150. installation de femme
+
+## Cinéma et télévision (151-200)
+151. film de guerre
+152. scène d’histoire
+153. court-métrage de ville
+154. fiction de famille
+155. documentaire d’artiste
+156. vidéo de roi
+157. série d’aventurier
+158. épisode d’animal
+159. animation d’univers
+160. production de paysage
+161. film de guerre
+162. scène d’histoire
+163. court-métrage de ville
+164. fiction de famille
+165. documentaire d’artiste
+166. vidéo de roi
+167. série d’aventurier
+168. épisode d’animal
+169. animation d’univers
+170. production de paysage
+171. film de guerre
+172. scène d’histoire
+173. court-métrage de ville
+174. fiction de famille
+175. documentaire d’artiste
+176. vidéo de roi
+177. série d’aventurier
+178. épisode d’animal
+179. animation d’univers
+180. production de paysage
+181. film de guerre
+182. scène d’histoire
+183. court-métrage de ville
+184. fiction de famille
+185. documentaire d’artiste
+186. vidéo de roi
+187. série d’aventurier
+188. épisode d’animal
+189. animation d’univers
+190. production de paysage
+191. film de guerre
+192. scène d’histoire
+193. court-métrage de ville
+194. fiction de famille
+195. documentaire d’artiste
+196. vidéo de roi
+197. série d’aventurier
+198. épisode d’animal
+199. animation d’univers
+200. production de paysage
+
+## Illustration numérique (201-250)
+201. illustration de personnage
+202. dessin de robot
+203. concept art d’animal
+204. croquis de paysage
+205. image générée de créature
+206. modèle 3D de ville
+207. rendu de voiture
+208. texture de bâtiment
+209. graphisme de vaisseau
+210. avatar de scène
+211. illustration de personnage
+212. dessin de robot
+213. concept art d’animal
+214. croquis de paysage
+215. image générée de créature
+216. modèle 3D de ville
+217. rendu de voiture
+218. texture de bâtiment
+219. graphisme de vaisseau
+220. avatar de scène
+221. illustration de personnage
+222. dessin de robot
+223. concept art d’animal
+224. croquis de paysage
+225. image générée de créature
+226. modèle 3D de ville
+227. rendu de voiture
+228. texture de bâtiment
+229. graphisme de vaisseau
+230. avatar de scène
+231. illustration de personnage
+232. dessin de robot
+233. concept art d’animal
+234. croquis de paysage
+235. image générée de créature
+236. modèle 3D de ville
+237. rendu de voiture
+238. texture de bâtiment
+239. graphisme de vaisseau
+240. avatar de scène
+241. illustration de personnage
+242. dessin de robot
+243. concept art d’animal
+244. croquis de paysage
+245. image générée de créature
+246. modèle 3D de ville
+247. rendu de voiture
+248. texture de bâtiment
+249. graphisme de vaisseau
+250. avatar de scène
+
+## Presse et médias (251-300)
+251. photo de président
+252. illustration de politicien
+253. caricature d’acteur
+254. couverture de sportif
+255. image de citoyen
+256. affiche de ville
+257. dessin de événement
+258. portrait de manifestation
+259. reportage de concert
+260. graphique de groupe
+261. photo de président
+262. illustration de politicien
+263. caricature d’acteur
+264. couverture de sportif
+265. image de citoyen
+266. affiche de ville
+267. dessin de événement
+268. portrait de manifestation
+269. reportage de concert
+270. graphique de groupe
+271. photo de président
+272. illustration de politicien
+273. caricature d’acteur
+274. couverture de sportif
+275. image de citoyen
+276. affiche de ville
+277. dessin de événement
+278. portrait de manifestation
+279. reportage de concert
+280. graphique de groupe
+281. photo de président
+282. illustration de politicien
+283. caricature d’acteur
+284. couverture de sportif
+285. image de citoyen
+286. affiche de ville
+287. dessin de événement
+288. portrait de manifestation
+289. reportage de concert
+290. graphique de groupe
+291. photo de président
+292. illustration de politicien
+293. caricature d’acteur
+294. couverture de sportif
+295. image de citoyen
+296. affiche de ville
+297. dessin de événement
+298. portrait de manifestation
+299. reportage de concert
+300. graphique de groupe
+
+## Musées et expositions (301-350)
+301. tableau d’artiste
+302. photo de paysage
+303. sculpture de ville
+304. affiche de bataille
+305. gravure de roi
+306. installation de reine
+307. exposition de scène
+308. reproduction d’animal
+309. maquette de famille
+310. fresque de personnage
+311. tableau d’artiste
+312. photo de paysage
+313. sculpture de ville
+314. affiche de bataille
+315. gravure de roi
+316. installation de reine
+317. exposition de scène
+318. reproduction d’animal
+319. maquette de famille
+320. fresque de personnage
+321. tableau d’artiste
+322. photo de paysage
+323. sculpture de ville
+324. affiche de bataille
+325. gravure de roi
+326. installation de reine
+327. exposition de scène
+328. reproduction d’animal
+329. maquette de famille
+330. fresque de personnage
+331. tableau d’artiste
+332. photo de paysage
+333. sculpture de ville
+334. affiche de bataille
+335. gravure de roi
+336. installation de reine
+337. exposition de scène
+338. reproduction d’animal
+339. maquette de famille
+340. fresque de personnage
+341. tableau d’artiste
+342. photo de paysage
+343. sculpture de ville
+344. affiche de bataille
+345. gravure de roi
+346. installation de reine
+347. exposition de scène
+348. reproduction d’animal
+349. maquette de famille
+350. fresque de personnage
+
+## Histoire et religion (351-400)
+351. icône de saint
+352. peinture de dieu
+353. fresque d’ange
+354. vitrail d’apôtre
+355. manuscrit de vierge
+356. reliure de martyr
+357. gravure de prophète
+358. illustration de roi
+359. mosaïque de pape
+360. statue de disciple
+361. icône de saint
+362. peinture de dieu
+363. fresque d’ange
+364. vitrail d’apôtre
+365. manuscrit de vierge
+366. reliure de martyr
+367. gravure de prophète
+368. illustration de roi
+369. mosaïque de pape
+370. statue de disciple
+371. icône de saint
+372. peinture de dieu
+373. fresque d’ange
+374. vitrail d’apôtre
+375. manuscrit de vierge
+376. reliure de martyr
+377. gravure de prophète
+378. illustration de roi
+379. mosaïque de pape
+380. statue de disciple
+381. icône de saint
+382. peinture de dieu
+383. fresque d’ange
+384. vitrail d’apôtre
+385. manuscrit de vierge
+386. reliure de martyr
+387. gravure de prophète
+388. illustration de roi
+389. mosaïque de pape
+390. statue de disciple
+391. icône de saint
+392. peinture de dieu
+393. fresque d’ange
+394. vitrail d’apôtre
+395. manuscrit de vierge
+396. reliure de martyr
+397. gravure de prophète
+398. illustration de roi
+399. mosaïque de pape
+400. statue de disciple
+
+## Publicité et affichage (401-450)
+401. affiche de produit
+402. panneau de voiture
+403. illustration de marque
+404. photo de restaurant
+405. campagne de film
+406. visuel de événement
+407. bannière de service
+408. logo de magasin
+409. flyer d’entreprise
+410. affichette de festival
+411. affiche de produit
+412. panneau de voiture
+413. illustration de marque
+414. photo de restaurant
+415. campagne de film
+416. visuel de événement
+417. bannière de service
+418. logo de magasin
+419. flyer d’entreprise
+420. affichette de festival
+421. affiche de produit
+422. panneau de voiture
+423. illustration de marque
+424. photo de restaurant
+425. campagne de film
+426. visuel de événement
+427. bannière de service
+428. logo de magasin
+429. flyer d’entreprise
+430. affichette de festival
+431. affiche de produit
+432. panneau de voiture
+433. illustration de marque
+434. photo de restaurant
+435. campagne de film
+436. visuel de événement
+437. bannière de service
+438. logo de magasin
+439. flyer d’entreprise
+440. affichette de festival
+441. affiche de produit
+442. panneau de voiture
+443. illustration de marque
+444. photo de restaurant
+445. campagne de film
+446. visuel de événement
+447. bannière de service
+448. logo de magasin
+449. flyer d’entreprise
+450. affichette de festival
+
+## Bande dessinée et animation (451-500)
+451. case d’héros
+452. planche de méchant
+453. dessin d’animal
+454. illustration d’enfant
+455. scène de robot
+456. personnage de super-héros
+457. croquis de monstre
+458. histoire de fée
+459. image de chevalier
+460. animation de pirate
+461. case d’héros
+462. planche de méchant
+463. dessin d’animal
+464. illustration d’enfant
+465. scène de robot
+466. personnage de super-héros
+467. croquis de monstre
+468. histoire de fée
+469. image de chevalier
+470. animation de pirate
+471. case d’héros
+472. planche de méchant
+473. dessin d’animal
+474. illustration d’enfant
+475. scène de robot
+476. personnage de super-héros
+477. croquis de monstre
+478. histoire de fée
+479. image de chevalier
+480. animation de pirate
+481. case d’héros
+482. planche de méchant
+483. dessin d’animal
+484. illustration d’enfant
+485. scène de robot
+486. personnage de super-héros
+487. croquis de monstre
+488. histoire de fée
+489. image de chevalier
+490. animation de pirate
+491. case d’héros
+492. planche de méchant
+493. dessin d’animal
+494. illustration d’enfant
+495. scène de robot
+496. personnage de super-héros
+497. croquis de monstre
+498. histoire de fée
+499. image de chevalier
+500. animation de pirate
+
+## Jeux vidéo et univers virtuels (501-550)
+501. avatar d’héros
+502. personnage de joueur
+503. modèle 3D de monstre
+504. sprite de créature
+505. cinématique de vaisseau
+506. capture de ville
+507. rendu de royaume
+508. affiche de forêt
+509. image générée de champ de bataille
+510. écran d’univers
+511. avatar d’héros
+512. personnage de joueur
+513. modèle 3D de monstre
+514. sprite de créature
+515. cinématique de vaisseau
+516. capture de ville
+517. rendu de royaume
+518. affiche de forêt
+519. image générée de champ de bataille
+520. écran d’univers
+521. avatar d’héros
+522. personnage de joueur
+523. modèle 3D de monstre
+524. sprite de créature
+525. cinématique de vaisseau
+526. capture de ville
+527. rendu de royaume
+528. affiche de forêt
+529. image générée de champ de bataille
+530. écran d’univers
+531. avatar d’héros
+532. personnage de joueur
+533. modèle 3D de monstre
+534. sprite de créature
+535. cinématique de vaisseau
+536. capture de ville
+537. rendu de royaume
+538. affiche de forêt
+539. image générée de champ de bataille
+540. écran d’univers
+541. avatar d’héros
+542. personnage de joueur
+543. modèle 3D de monstre
+544. sprite de créature
+545. cinématique de vaisseau
+546. capture de ville
+547. rendu de royaume
+548. affiche de forêt
+549. image générée de champ de bataille
+550. écran d’univers
+
+## Science et éducation (551-600)
+551. schéma d’atome
+552. diagramme de molécule
+553. plan de système solaire
+554. illustration de corps humain
+555. carte d’animal
+556. modèle de plante
+557. projection de cellule
+558. graphique de montagne
+559. simulation de machine
+560. maquette de réseau
+561. schéma d’atome
+562. diagramme de molécule
+563. plan de système solaire
+564. illustration de corps humain
+565. carte d’animal
+566. modèle de plante
+567. projection de cellule
+568. graphique de montagne
+569. simulation de machine
+570. maquette de réseau
+571. schéma d’atome
+572. diagramme de molécule
+573. plan de système solaire
+574. illustration de corps humain
+575. carte d’animal
+576. modèle de plante
+577. projection de cellule
+578. graphique de montagne
+579. simulation de machine
+580. maquette de réseau
+581. schéma d’atome
+582. diagramme de molécule
+583. plan de système solaire
+584. illustration de corps humain
+585. carte d’animal
+586. modèle de plante
+587. projection de cellule
+588. graphique de montagne
+589. simulation de machine
+590. maquette de réseau
+591. schéma d’atome
+592. diagramme de molécule
+593. plan de système solaire
+594. illustration de corps humain
+595. carte d’animal
+596. modèle de plante
+597. projection de cellule
+598. graphique de montagne
+599. simulation de machine
+600. maquette de réseau
+
+## Culture et patrimoine (601-650)
+601. photo de monument
+602. film de musée
+603. reconstitution de village
+604. illustration de ville
+605. maquette de temple
+606. modèle de château
+607. exposition de bataille
+608. reportage de tradition
+609. documentaire de paysage
+610. affiche d’artisan
+611. photo de monument
+612. film de musée
+613. reconstitution de village
+614. illustration de ville
+615. maquette de temple
+616. modèle de château
+617. exposition de bataille
+618. reportage de tradition
+619. documentaire de paysage
+620. affiche d’artisan
+621. photo de monument
+622. film de musée
+623. reconstitution de village
+624. illustration de ville
+625. maquette de temple
+626. modèle de château
+627. exposition de bataille
+628. reportage de tradition
+629. documentaire de paysage
+630. affiche d’artisan
+631. photo de monument
+632. film de musée
+633. reconstitution de village
+634. illustration de ville
+635. maquette de temple
+636. modèle de château
+637. exposition de bataille
+638. reportage de tradition
+639. documentaire de paysage
+640. affiche d’artisan
+641. photo de monument
+642. film de musée
+643. reconstitution de village
+644. illustration de ville
+645. maquette de temple
+646. modèle de château
+647. exposition de bataille
+648. reportage de tradition
+649. documentaire de paysage
+650. affiche d’artisan
+
+## Mode et publicité (651-700)
+651. photo de mannequin
+652. portrait de vêtement
+653. affiche de bijou
+654. publicité de chaussure
+655. campagne de marque
+656. visuel de créateur
+657. shooting de collection
+658. affichette de robe
+659. image de produit
+660. spot de modèle
+661. photo de mannequin
+662. portrait de vêtement
+663. affiche de bijou
+664. publicité de chaussure
+665. campagne de marque
+666. visuel de créateur
+667. shooting de collection
+668. affichette de robe
+669. image de produit
+670. spot de modèle
+671. photo de mannequin
+672. portrait de vêtement
+673. affiche de bijou
+674. publicité de chaussure
+675. campagne de marque
+676. visuel de créateur
+677. shooting de collection
+678. affichette de robe
+679. image de produit
+680. spot de modèle
+681. photo de mannequin
+682. portrait de vêtement
+683. affiche de bijou
+684. publicité de chaussure
+685. campagne de marque
+686. visuel de créateur
+687. shooting de collection
+688. affichette de robe
+689. image de produit
+690. spot de modèle
+691. photo de mannequin
+692. portrait de vêtement
+693. affiche de bijou
+694. publicité de chaussure
+695. campagne de marque
+696. visuel de créateur
+697. shooting de collection
+698. affichette de robe
+699. image de produit
+700. spot de modèle
+
+## Nature et environnement (701-750)
+701. photo de forêt
+702. dessin de rivière
+703. peinture de montagne
+704. image de désert
+705. tableau d’océan
+706. carte d’animal
+707. schéma d’oiseau
+708. illustration de plante
+709. vidéo de paysage
+710. documentaire de fleur
+711. photo de forêt
+712. dessin de rivière
+713. peinture de montagne
+714. image de désert
+715. tableau d’océan
+716. carte d’animal
+717. schéma d’oiseau
+718. illustration de plante
+719. vidéo de paysage
+720. documentaire de fleur
+721. photo de forêt
+722. dessin de rivière
+723. peinture de montagne
+724. image de désert
+725. tableau d’océan
+726. carte d’animal
+727. schéma d’oiseau
+728. illustration de plante
+729. vidéo de paysage
+730. documentaire de fleur
+731. photo de forêt
+732. dessin de rivière
+733. peinture de montagne
+734. image de désert
+735. tableau d’océan
+736. carte d’animal
+737. schéma d’oiseau
+738. illustration de plante
+739. vidéo de paysage
+740. documentaire de fleur
+741. photo de forêt
+742. dessin de rivière
+743. peinture de montagne
+744. image de désert
+745. tableau d’océan
+746. carte d’animal
+747. schéma d’oiseau
+748. illustration de plante
+749. vidéo de paysage
+750. documentaire de fleur
+
+## Architecture et urbanisme (751-800)
+751. maquette d’immeuble
+752. plan de ville
+753. dessin de bâtiment
+754. photo de maison
+755. rendu de pont
+756. croquis de quartier
+757. modélisation de rue
+758. projection de parc
+759. vue de monument
+760. simulation de musée
+761. maquette d’immeuble
+762. plan de ville
+763. dessin de bâtiment
+764. photo de maison
+765. rendu de pont
+766. croquis de quartier
+767. modélisation de rue
+768. projection de parc
+769. vue de monument
+770. simulation de musée
+771. maquette d’immeuble
+772. plan de ville
+773. dessin de bâtiment
+774. photo de maison
+775. rendu de pont
+776. croquis de quartier
+777. modélisation de rue
+778. projection de parc
+779. vue de monument
+780. simulation de musée
+781. maquette d’immeuble
+782. plan de ville
+783. dessin de bâtiment
+784. photo de maison
+785. rendu de pont
+786. croquis de quartier
+787. modélisation de rue
+788. projection de parc
+789. vue de monument
+790. simulation de musée
+791. maquette d’immeuble
+792. plan de ville
+793. dessin de bâtiment
+794. photo de maison
+795. rendu de pont
+796. croquis de quartier
+797. modélisation de rue
+798. projection de parc
+799. vue de monument
+800. simulation de musée
+
+## Science-fiction et fantastique (801-850)
+801. affiche de vaisseau
+802. illustration de planète
+803. affiche de film de créature
+804. dessin de robot
+805. image générée d’héros
+806. modèle 3D d’univers
+807. affiche promotionnelle de bataille
+808. concept art de royaume
+809. animation de monstre
+810. visuel de galaxie
+811. affiche de vaisseau
+812. illustration de planète
+813. affiche de film de créature
+814. dessin de robot
+815. image générée d’héros
+816. modèle 3D d’univers
+817. affiche promotionnelle de bataille
+818. concept art de royaume
+819. animation de monstre
+820. visuel de galaxie
+821. affiche de vaisseau
+822. illustration de planète
+823. affiche de film de créature
+824. dessin de robot
+825. image générée d’héros
+826. modèle 3D d’univers
+827. affiche promotionnelle de bataille
+828. concept art de royaume
+829. animation de monstre
+830. visuel de galaxie
+831. affiche de vaisseau
+832. illustration de planète
+833. affiche de film de créature
+834. dessin de robot
+835. image générée d’héros
+836. modèle 3D d’univers
+837. affiche promotionnelle de bataille
+838. concept art de royaume
+839. animation de monstre
+840. visuel de galaxie
+841. affiche de vaisseau
+842. illustration de planète
+843. affiche de film de créature
+844. dessin de robot
+845. image générée d’héros
+846. modèle 3D d’univers
+847. affiche promotionnelle de bataille
+848. concept art de royaume
+849. animation de monstre
+850. visuel de galaxie
+
+## Presse et reportage (851-900)
+851. photo de manifestation
+852. image de guerre
+853. reportage de ville
+854. illustration de catastrophe
+855. documentaire de sportif
+856. série d’enfant
+857. album de foule
+858. couverture de président
+859. portrait de musicien
+860. capture d’acteur
+861. photo de manifestation
+862. image de guerre
+863. reportage de ville
+864. illustration de catastrophe
+865. documentaire de sportif
+866. série d’enfant
+867. album de foule
+868. couverture de président
+869. portrait de musicien
+870. capture d’acteur
+871. photo de manifestation
+872. image de guerre
+873. reportage de ville
+874. illustration de catastrophe
+875. documentaire de sportif
+876. série d’enfant
+877. album de foule
+878. couverture de président
+879. portrait de musicien
+880. capture d’acteur
+881. photo de manifestation
+882. image de guerre
+883. reportage de ville
+884. illustration de catastrophe
+885. documentaire de sportif
+886. série d’enfant
+887. album de foule
+888. couverture de président
+889. portrait de musicien
+890. capture d’acteur
+891. photo de manifestation
+892. image de guerre
+893. reportage de ville
+894. illustration de catastrophe
+895. documentaire de sportif
+896. série d’enfant
+897. album de foule
+898. couverture de président
+899. portrait de musicien
+900. capture d’acteur
+
+## Outils numériques et IA (901-950)
+901. image générée de personne
+902. portrait numérique d’animal
+903. avatar de paysage
+904. représentation virtuelle de maison
+905. rendu 3D de voiture
+906. illustration IA de robot
+907. photo synthétique de personnage
+908. simulation visuelle d’objet
+909. modèle virtuel de bâtiment
+910. capture d’écran de fleur
+911. image générée de personne
+912. portrait numérique d’animal
+913. avatar de paysage
+914. représentation virtuelle de maison
+915. rendu 3D de voiture
+916. illustration IA de robot
+917. photo synthétique de personnage
+918. simulation visuelle d’objet
+919. modèle virtuel de bâtiment
+920. capture d’écran de fleur
+921. image générée de personne
+922. portrait numérique d’animal
+923. avatar de paysage
+924. représentation virtuelle de maison
+925. rendu 3D de voiture
+926. illustration IA de robot
+927. photo synthétique de personnage
+928. simulation visuelle d’objet
+929. modèle virtuel de bâtiment
+930. capture d’écran de fleur
+931. image générée de personne
+932. portrait numérique d’animal
+933. avatar de paysage
+934. représentation virtuelle de maison
+935. rendu 3D de voiture
+936. illustration IA de robot
+937. photo synthétique de personnage
+938. simulation visuelle d’objet
+939. modèle virtuel de bâtiment
+940. capture d’écran de fleur
+941. image générée de personne
+942. portrait numérique d’animal
+943. avatar de paysage
+944. représentation virtuelle de maison
+945. rendu 3D de voiture
+946. illustration IA de robot
+947. photo synthétique de personnage
+948. simulation visuelle d’objet
+949. modèle virtuel de bâtiment
+950. capture d’écran de fleur
+
+## Culture populaire et médias modernes (951-1000)
+951. affiche de film
+952. mème de jeu
+953. image générée de série
+954. capture d’écran d’influenceur
+955. illustration d’acteur
+956. dessin de personnage
+957. photo de streamer
+958. animation de groupe
+959. sticker de publicité
+960. vidéo de événement
+961. affiche de film
+962. mème de jeu
+963. image générée de série
+964. capture d’écran d’influenceur
+965. illustration d’acteur
+966. dessin de personnage
+967. photo de streamer
+968. animation de groupe
+969. sticker de publicité
+970. vidéo de événement
+971. affiche de film
+972. mème de jeu
+973. image générée de série
+974. capture d’écran d’influenceur
+975. illustration d’acteur
+976. dessin de personnage
+977. photo de streamer
+978. animation de groupe
+979. sticker de publicité
+980. vidéo de événement
+981. affiche de film
+982. mème de jeu
+983. image générée de série
+984. capture d’écran d’influenceur
+985. illustration d’acteur
+986. dessin de personnage
+987. photo de streamer
+988. animation de groupe
+989. sticker de publicité
+990. vidéo de événement
+991. affiche de film
+992. mème de jeu
+993. image générée de série
+994. capture d’écran d’influenceur
+995. illustration d’acteur
+996. dessin de personnage
+997. photo de streamer
+998. animation de groupe
+999. sticker de publicité
+1000. vidéo de événement

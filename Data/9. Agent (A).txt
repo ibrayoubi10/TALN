@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Agent (A)
+
+
+*Structure : N1 de N2 où N1 est la nominalisation d’une action dont l’acteur est N2*
+
+## Travail et production (1-50)
+1. construction d’ouvrier
+2. réalisation d’artisan
+3. création d’ingénieur
+4. fabrication d’architecte
+5. peinture de peintre
+6. dessin de dessinateur
+7. écriture de écrivain
+8. composition de musicien
+9. invention d’inventeur
+10. production de producteur
+11. construction d’ouvrier
+12. réalisation d’artisan
+13. création d’ingénieur
+14. fabrication d’architecte
+15. peinture de peintre
+16. dessin de dessinateur
+17. écriture de écrivain
+18. composition de musicien
+19. invention d’inventeur
+20. production de producteur
+21. construction d’ouvrier
+22. réalisation d’artisan
+23. création d’ingénieur
+24. fabrication d’architecte
+25. peinture de peintre
+26. dessin de dessinateur
+27. écriture de écrivain
+28. composition de musicien
+29. invention d’inventeur
+30. production de producteur
+31. construction d’ouvrier
+32. réalisation d’artisan
+33. création d’ingénieur
+34. fabrication d’architecte
+35. peinture de peintre
+36. dessin de dessinateur
+37. écriture de écrivain
+38. composition de musicien
+39. invention d’inventeur
+40. production de producteur
+41. construction d’ouvrier
+42. réalisation d’artisan
+43. création d’ingénieur
+44. fabrication d’architecte
+45. peinture de peintre
+46. dessin de dessinateur
+47. écriture de écrivain
+48. composition de musicien
+49. invention d’inventeur
+50. production de producteur
+
+## Enseignement et apprentissage (51-100)
+51. cours de professeur
+52. leçon d’enseignant
+53. explication de formateur
+54. correction d’instructeur
+55. enseignement de maître
+56. présentation de conférencier
+57. conférence de tuteur
+58. démonstration d’intervenant
+59. formation d’animateur
+60. exposé de coach
+61. cours de professeur
+62. leçon d’enseignant
+63. explication de formateur
+64. correction d’instructeur
+65. enseignement de maître
+66. présentation de conférencier
+67. conférence de tuteur
+68. démonstration d’intervenant
+69. formation d’animateur
+70. exposé de coach
+71. cours de professeur
+72. leçon d’enseignant
+73. explication de formateur
+74. correction d’instructeur
+75. enseignement de maître
+76. présentation de conférencier
+77. conférence de tuteur
+78. démonstration d’intervenant
+79. formation d’animateur
+80. exposé de coach
+81. cours de professeur
+82. leçon d’enseignant
+83. explication de formateur
+84. correction d’instructeur
+85. enseignement de maître
+86. présentation de conférencier
+87. conférence de tuteur
+88. démonstration d’intervenant
+89. formation d’animateur
+90. exposé de coach
+91. cours de professeur
+92. leçon d’enseignant
+93. explication de formateur
+94. correction d’instructeur
+95. enseignement de maître
+96. présentation de conférencier
+97. conférence de tuteur
+98. démonstration d’intervenant
+99. formation d’animateur
+100. exposé de coach
+
+## Science et recherche (101-150)
+101. découverte de chercheur
+102. analyse de scientifique
+103. expérience de biologiste
+104. observation de physicien
+105. étude de chimiste
+106. publication d’anthropologue
+107. théorie d’astronome
+108. modélisation de historien
+109. recherche de linguiste
+110. expérimentation de mathématicien
+111. découverte de chercheur
+112. analyse de scientifique
+113. expérience de biologiste
+114. observation de physicien
+115. étude de chimiste
+116. publication d’anthropologue
+117. théorie d’astronome
+118. modélisation de historien
+119. recherche de linguiste
+120. expérimentation de mathématicien
+121. découverte de chercheur
+122. analyse de scientifique
+123. expérience de biologiste
+124. observation de physicien
+125. étude de chimiste
+126. publication d’anthropologue
+127. théorie d’astronome
+128. modélisation de historien
+129. recherche de linguiste
+130. expérimentation de mathématicien
+131. découverte de chercheur
+132. analyse de scientifique
+133. expérience de biologiste
+134. observation de physicien
+135. étude de chimiste
+136. publication d’anthropologue
+137. théorie d’astronome
+138. modélisation de historien
+139. recherche de linguiste
+140. expérimentation de mathématicien
+141. découverte de chercheur
+142. analyse de scientifique
+143. expérience de biologiste
+144. observation de physicien
+145. étude de chimiste
+146. publication d’anthropologue
+147. théorie d’astronome
+148. modélisation de historien
+149. recherche de linguiste
+150. expérimentation de mathématicien
+
+## Arts et culture (151-200)
+151. peinture d’artiste
+152. sculpture de sculpteur
+153. photographie de photographe
+154. film de réalisateur
+155. spectacle d’acteur
+156. exposition de metteur en scène
+157. roman de écrivain
+158. poème de poète
+159. chanson de chanteur
+160. dessin de dessinateur
+161. peinture d’artiste
+162. sculpture de sculpteur
+163. photographie de photographe
+164. film de réalisateur
+165. spectacle d’acteur
+166. exposition de metteur en scène
+167. roman de écrivain
+168. poème de poète
+169. chanson de chanteur
+170. dessin de dessinateur
+171. peinture d’artiste
+172. sculpture de sculpteur
+173. photographie de photographe
+174. film de réalisateur
+175. spectacle d’acteur
+176. exposition de metteur en scène
+177. roman de écrivain
+178. poème de poète
+179. chanson de chanteur
+180. dessin de dessinateur
+181. peinture d’artiste
+182. sculpture de sculpteur
+183. photographie de photographe
+184. film de réalisateur
+185. spectacle d’acteur
+186. exposition de metteur en scène
+187. roman de écrivain
+188. poème de poète
+189. chanson de chanteur
+190. dessin de dessinateur
+191. peinture d’artiste
+192. sculpture de sculpteur
+193. photographie de photographe
+194. film de réalisateur
+195. spectacle d’acteur
+196. exposition de metteur en scène
+197. roman de écrivain
+198. poème de poète
+199. chanson de chanteur
+200. dessin de dessinateur
+
+## Communication et médias (201-250)
+201. interview de journaliste
+202. article de présentateur
+203. reportage d’animateur
+204. émission de rédacteur
+205. publication d’orateur
+206. discours de politicien
+207. déclaration de porte-parole
+208. annonce d’auteur
+209. conférence de éditeur
+210. communiqué de blogueur
+211. interview de journaliste
+212. article de présentateur
+213. reportage d’animateur
+214. émission de rédacteur
+215. publication d’orateur
+216. discours de politicien
+217. déclaration de porte-parole
+218. annonce d’auteur
+219. conférence de éditeur
+220. communiqué de blogueur
+221. interview de journaliste
+222. article de présentateur
+223. reportage d’animateur
+224. émission de rédacteur
+225. publication d’orateur
+226. discours de politicien
+227. déclaration de porte-parole
+228. annonce d’auteur
+229. conférence de éditeur
+230. communiqué de blogueur
+231. interview de journaliste
+232. article de présentateur
+233. reportage d’animateur
+234. émission de rédacteur
+235. publication d’orateur
+236. discours de politicien
+237. déclaration de porte-parole
+238. annonce d’auteur
+239. conférence de éditeur
+240. communiqué de blogueur
+241. interview de journaliste
+242. article de présentateur
+243. reportage d’animateur
+244. émission de rédacteur
+245. publication d’orateur
+246. discours de politicien
+247. déclaration de porte-parole
+248. annonce d’auteur
+249. conférence de éditeur
+250. communiqué de blogueur
+
+## Politique et administration (251-300)
+251. décision de président
+252. projet de ministre
+253. réforme de député
+254. vote de sénateur
+255. loi de maire
+256. décret de gouverneur
+257. discours de directeur
+258. négociation de responsable
+259. accord de fonctionnaire
+260. planification d’ambassadeur
+261. décision de président
+262. projet de ministre
+263. réforme de député
+264. vote de sénateur
+265. loi de maire
+266. décret de gouverneur
+267. discours de directeur
+268. négociation de responsable
+269. accord de fonctionnaire
+270. planification d’ambassadeur
+271. décision de président
+272. projet de ministre
+273. réforme de député
+274. vote de sénateur
+275. loi de maire
+276. décret de gouverneur
+277. discours de directeur
+278. négociation de responsable
+279. accord de fonctionnaire
+280. planification d’ambassadeur
+281. décision de président
+282. projet de ministre
+283. réforme de député
+284. vote de sénateur
+285. loi de maire
+286. décret de gouverneur
+287. discours de directeur
+288. négociation de responsable
+289. accord de fonctionnaire
+290. planification d’ambassadeur
+291. décision de président
+292. projet de ministre
+293. réforme de député
+294. vote de sénateur
+295. loi de maire
+296. décret de gouverneur
+297. discours de directeur
+298. négociation de responsable
+299. accord de fonctionnaire
+300. planification d’ambassadeur
+
+## Justice et droit (301-350)
+301. jugement de juge
+302. condamnation d’avocat
+303. procès de procureur
+304. plaidoyer de policier
+305. défense d’inspecteur
+306. arrestation de commissaire
+307. interrogatoire de magistrat
+308. enquête de notaire
+309. plainte de gardien
+310. sanction d’agent de sécurité
+311. jugement de juge
+312. condamnation d’avocat
+313. procès de procureur
+314. plaidoyer de policier
+315. défense d’inspecteur
+316. arrestation de commissaire
+317. interrogatoire de magistrat
+318. enquête de notaire
+319. plainte de gardien
+320. sanction d’agent de sécurité
+321. jugement de juge
+322. condamnation d’avocat
+323. procès de procureur
+324. plaidoyer de policier
+325. défense d’inspecteur
+326. arrestation de commissaire
+327. interrogatoire de magistrat
+328. enquête de notaire
+329. plainte de gardien
+330. sanction d’agent de sécurité
+331. jugement de juge
+332. condamnation d’avocat
+333. procès de procureur
+334. plaidoyer de policier
+335. défense d’inspecteur
+336. arrestation de commissaire
+337. interrogatoire de magistrat
+338. enquête de notaire
+339. plainte de gardien
+340. sanction d’agent de sécurité
+341. jugement de juge
+342. condamnation d’avocat
+343. procès de procureur
+344. plaidoyer de policier
+345. défense d’inspecteur
+346. arrestation de commissaire
+347. interrogatoire de magistrat
+348. enquête de notaire
+349. plainte de gardien
+350. sanction d’agent de sécurité
+
+## Médecine et santé (351-400)
+351. opération de médecin
+352. consultation de chirurgien
+353. diagnostic d’infirmier
+354. prescription de dentiste
+355. traitement de pharmacien
+356. vaccination de psychiatre
+357. intervention de radiologue
+358. soin de neurologue
+359. analyse d’anesthésiste
+360. examen de kinésithérapeute
+361. opération de médecin
+362. consultation de chirurgien
+363. diagnostic d’infirmier
+364. prescription de dentiste
+365. traitement de pharmacien
+366. vaccination de psychiatre
+367. intervention de radiologue
+368. soin de neurologue
+369. analyse d’anesthésiste
+370. examen de kinésithérapeute
+371. opération de médecin
+372. consultation de chirurgien
+373. diagnostic d’infirmier
+374. prescription de dentiste
+375. traitement de pharmacien
+376. vaccination de psychiatre
+377. intervention de radiologue
+378. soin de neurologue
+379. analyse d’anesthésiste
+380. examen de kinésithérapeute
+381. opération de médecin
+382. consultation de chirurgien
+383. diagnostic d’infirmier
+384. prescription de dentiste
+385. traitement de pharmacien
+386. vaccination de psychiatre
+387. intervention de radiologue
+388. soin de neurologue
+389. analyse d’anesthésiste
+390. examen de kinésithérapeute
+391. opération de médecin
+392. consultation de chirurgien
+393. diagnostic d’infirmier
+394. prescription de dentiste
+395. traitement de pharmacien
+396. vaccination de psychiatre
+397. intervention de radiologue
+398. soin de neurologue
+399. analyse d’anesthésiste
+400. examen de kinésithérapeute
+
+## Sports et compétition (401-450)
+401. match de joueur
+402. course d’athlète
+403. victoire de coureur
+404. défaite de nageur
+405. entrainement de boxeur
+406. performance de footballeur
+407. exercice de tennisman
+408. saut de gymnaste
+409. tir de cycliste
+410. lancer d’archer
+411. match de joueur
+412. course d’athlète
+413. victoire de coureur
+414. défaite de nageur
+415. entrainement de boxeur
+416. performance de footballeur
+417. exercice de tennisman
+418. saut de gymnaste
+419. tir de cycliste
+420. lancer d’archer
+421. match de joueur
+422. course d’athlète
+423. victoire de coureur
+424. défaite de nageur
+425. entrainement de boxeur
+426. performance de footballeur
+427. exercice de tennisman
+428. saut de gymnaste
+429. tir de cycliste
+430. lancer d’archer
+431. match de joueur
+432. course d’athlète
+433. victoire de coureur
+434. défaite de nageur
+435. entrainement de boxeur
+436. performance de footballeur
+437. exercice de tennisman
+438. saut de gymnaste
+439. tir de cycliste
+440. lancer d’archer
+441. match de joueur
+442. course d’athlète
+443. victoire de coureur
+444. défaite de nageur
+445. entrainement de boxeur
+446. performance de footballeur
+447. exercice de tennisman
+448. saut de gymnaste
+449. tir de cycliste
+450. lancer d’archer
+
+## Éducation et évaluation (451-500)
+451. correction de professeur
+452. notation d’enseignant
+453. évaluation d’examinateur
+454. sélection de jury
+455. examen de formateur
+456. encadrement d’instituteur
+457. accompagnement de évaluateur
+458. lecture de tuteur
+459. annotation de maître
+460. questionnaire de correcteur
+461. correction de professeur
+462. notation d’enseignant
+463. évaluation d’examinateur
+464. sélection de jury
+465. examen de formateur
+466. encadrement d’instituteur
+467. accompagnement de évaluateur
+468. lecture de tuteur
+469. annotation de maître
+470. questionnaire de correcteur
+471. correction de professeur
+472. notation d’enseignant
+473. évaluation d’examinateur
+474. sélection de jury
+475. examen de formateur
+476. encadrement d’instituteur
+477. accompagnement de évaluateur
+478. lecture de tuteur
+479. annotation de maître
+480. questionnaire de correcteur
+481. correction de professeur
+482. notation d’enseignant
+483. évaluation d’examinateur
+484. sélection de jury
+485. examen de formateur
+486. encadrement d’instituteur
+487. accompagnement de évaluateur
+488. lecture de tuteur
+489. annotation de maître
+490. questionnaire de correcteur
+491. correction de professeur
+492. notation d’enseignant
+493. évaluation d’examinateur
+494. sélection de jury
+495. examen de formateur
+496. encadrement d’instituteur
+497. accompagnement de évaluateur
+498. lecture de tuteur
+499. annotation de maître
+500. questionnaire de correcteur
+
+## Cuisine et alimentation (501-550)
+501. préparation de cuisinier
+502. cuisson de chef
+503. décoration de pâtissier
+504. élaboration de boulanger
+505. recette de traiteur
+506. assaisonnement de serveur
+507. présentation de sommelier
+508. service d’apprenti
+509. création de restaurateur
+510. dégustation de commis
+511. préparation de cuisinier
+512. cuisson de chef
+513. décoration de pâtissier
+514. élaboration de boulanger
+515. recette de traiteur
+516. assaisonnement de serveur
+517. présentation de sommelier
+518. service d’apprenti
+519. création de restaurateur
+520. dégustation de commis
+521. préparation de cuisinier
+522. cuisson de chef
+523. décoration de pâtissier
+524. élaboration de boulanger
+525. recette de traiteur
+526. assaisonnement de serveur
+527. présentation de sommelier
+528. service d’apprenti
+529. création de restaurateur
+530. dégustation de commis
+531. préparation de cuisinier
+532. cuisson de chef
+533. décoration de pâtissier
+534. élaboration de boulanger
+535. recette de traiteur
+536. assaisonnement de serveur
+537. présentation de sommelier
+538. service d’apprenti
+539. création de restaurateur
+540. dégustation de commis
+541. préparation de cuisinier
+542. cuisson de chef
+543. décoration de pâtissier
+544. élaboration de boulanger
+545. recette de traiteur
+546. assaisonnement de serveur
+547. présentation de sommelier
+548. service d’apprenti
+549. création de restaurateur
+550. dégustation de commis
+
+## Informatique et technologie (551-600)
+551. programmation de programmeur
+552. développement d’informaticien
+553. conception d’ingénieur
+554. configuration de technicien
+555. maintenance de développeur
+556. mise à jour d’analyste
+557. optimisation d’opérateur
+558. test d’administrateur
+559. installation d’architecte logiciel
+560. intégration de data scientist
+561. programmation de programmeur
+562. développement d’informaticien
+563. conception d’ingénieur
+564. configuration de technicien
+565. maintenance de développeur
+566. mise à jour d’analyste
+567. optimisation d’opérateur
+568. test d’administrateur
+569. installation d’architecte logiciel
+570. intégration de data scientist
+571. programmation de programmeur
+572. développement d’informaticien
+573. conception d’ingénieur
+574. configuration de technicien
+575. maintenance de développeur
+576. mise à jour d’analyste
+577. optimisation d’opérateur
+578. test d’administrateur
+579. installation d’architecte logiciel
+580. intégration de data scientist
+581. programmation de programmeur
+582. développement d’informaticien
+583. conception d’ingénieur
+584. configuration de technicien
+585. maintenance de développeur
+586. mise à jour d’analyste
+587. optimisation d’opérateur
+588. test d’administrateur
+589. installation d’architecte logiciel
+590. intégration de data scientist
+591. programmation de programmeur
+592. développement d’informaticien
+593. conception d’ingénieur
+594. configuration de technicien
+595. maintenance de développeur
+596. mise à jour d’analyste
+597. optimisation d’opérateur
+598. test d’administrateur
+599. installation d’architecte logiciel
+600. intégration de data scientist
+
+## Musique et spectacle (601-650)
+601. composition de musicien
+602. interprétation de chef d’orchestre
+603. concert de chanteur
+604. improvisation d’acteur
+605. direction de danseur
+606. enregistrement de metteur en scène
+607. représentation de réalisateur
+608. chorégraphie de producteur
+609. performance de chef de chœur
+610. mise en scène de comédien
+611. composition de musicien
+612. interprétation de chef d’orchestre
+613. concert de chanteur
+614. improvisation d’acteur
+615. direction de danseur
+616. enregistrement de metteur en scène
+617. représentation de réalisateur
+618. chorégraphie de producteur
+619. performance de chef de chœur
+620. mise en scène de comédien
+621. composition de musicien
+622. interprétation de chef d’orchestre
+623. concert de chanteur
+624. improvisation d’acteur
+625. direction de danseur
+626. enregistrement de metteur en scène
+627. représentation de réalisateur
+628. chorégraphie de producteur
+629. performance de chef de chœur
+630. mise en scène de comédien
+631. composition de musicien
+632. interprétation de chef d’orchestre
+633. concert de chanteur
+634. improvisation d’acteur
+635. direction de danseur
+636. enregistrement de metteur en scène
+637. représentation de réalisateur
+638. chorégraphie de producteur
+639. performance de chef de chœur
+640. mise en scène de comédien
+641. composition de musicien
+642. interprétation de chef d’orchestre
+643. concert de chanteur
+644. improvisation d’acteur
+645. direction de danseur
+646. enregistrement de metteur en scène
+647. représentation de réalisateur
+648. chorégraphie de producteur
+649. performance de chef de chœur
+650. mise en scène de comédien
+
+## Artisanat et fabrication (651-700)
+651. construction de menuisier
+652. réparation de plombier
+653. fabrication de électricien
+654. assemblage de mécanicien
+655. peinture de maçon
+656. décoration de charpentier
+657. création de peintre
+658. montage de ébéniste
+659. entretien d’orfèvre
+660. rénovation de forgeron
+661. construction de menuisier
+662. réparation de plombier
+663. fabrication de électricien
+664. assemblage de mécanicien
+665. peinture de maçon
+666. décoration de charpentier
+667. création de peintre
+668. montage de ébéniste
+669. entretien d’orfèvre
+670. rénovation de forgeron
+671. construction de menuisier
+672. réparation de plombier
+673. fabrication de électricien
+674. assemblage de mécanicien
+675. peinture de maçon
+676. décoration de charpentier
+677. création de peintre
+678. montage de ébéniste
+679. entretien d’orfèvre
+680. rénovation de forgeron
+681. construction de menuisier
+682. réparation de plombier
+683. fabrication de électricien
+684. assemblage de mécanicien
+685. peinture de maçon
+686. décoration de charpentier
+687. création de peintre
+688. montage de ébéniste
+689. entretien d’orfèvre
+690. rénovation de forgeron
+691. construction de menuisier
+692. réparation de plombier
+693. fabrication de électricien
+694. assemblage de mécanicien
+695. peinture de maçon
+696. décoration de charpentier
+697. création de peintre
+698. montage de ébéniste
+699. entretien d’orfèvre
+700. rénovation de forgeron
+
+## Économie et finance (701-750)
+701. investissement de banquier
+702. transaction de courtier
+703. négociation de commerçant
+704. échange d’entrepreneur
+705. vente de gestionnaire
+706. achat d’investisseur
+707. production d’analyste financier
+708. importation de économiste
+709. exportation de trader
+710. gestion de comptable
+711. investissement de banquier
+712. transaction de courtier
+713. négociation de commerçant
+714. échange d’entrepreneur
+715. vente de gestionnaire
+716. achat d’investisseur
+717. production d’analyste financier
+718. importation de économiste
+719. exportation de trader
+720. gestion de comptable
+721. investissement de banquier
+722. transaction de courtier
+723. négociation de commerçant
+724. échange d’entrepreneur
+725. vente de gestionnaire
+726. achat d’investisseur
+727. production d’analyste financier
+728. importation de économiste
+729. exportation de trader
+730. gestion de comptable
+731. investissement de banquier
+732. transaction de courtier
+733. négociation de commerçant
+734. échange d’entrepreneur
+735. vente de gestionnaire
+736. achat d’investisseur
+737. production d’analyste financier
+738. importation de économiste
+739. exportation de trader
+740. gestion de comptable
+741. investissement de banquier
+742. transaction de courtier
+743. négociation de commerçant
+744. échange d’entrepreneur
+745. vente de gestionnaire
+746. achat d’investisseur
+747. production d’analyste financier
+748. importation de économiste
+749. exportation de trader
+750. gestion de comptable
+
+## Transport et logistique (751-800)
+751. conduite de chauffeur
+752. livraison de conducteur
+753. transport de livreur
+754. acheminement de pilote
+755. navigation de capitaine
+756. pilotage de marin
+757. chargement de mécanicien
+758. déchargement d’aiguilleur
+759. manœuvre de conducteur de train
+760. expédition de transporteur
+761. conduite de chauffeur
+762. livraison de conducteur
+763. transport de livreur
+764. acheminement de pilote
+765. navigation de capitaine
+766. pilotage de marin
+767. chargement de mécanicien
+768. déchargement d’aiguilleur
+769. manœuvre de conducteur de train
+770. expédition de transporteur
+771. conduite de chauffeur
+772. livraison de conducteur
+773. transport de livreur
+774. acheminement de pilote
+775. navigation de capitaine
+776. pilotage de marin
+777. chargement de mécanicien
+778. déchargement d’aiguilleur
+779. manœuvre de conducteur de train
+780. expédition de transporteur
+781. conduite de chauffeur
+782. livraison de conducteur
+783. transport de livreur
+784. acheminement de pilote
+785. navigation de capitaine
+786. pilotage de marin
+787. chargement de mécanicien
+788. déchargement d’aiguilleur
+789. manœuvre de conducteur de train
+790. expédition de transporteur
+791. conduite de chauffeur
+792. livraison de conducteur
+793. transport de livreur
+794. acheminement de pilote
+795. navigation de capitaine
+796. pilotage de marin
+797. chargement de mécanicien
+798. déchargement d’aiguilleur
+799. manœuvre de conducteur de train
+800. expédition de transporteur
+
+## Agriculture et nature (801-850)
+801. récolte d’agriculteur
+802. plantation de jardinier
+803. culture de vigneron
+804. taille de éleveur
+805. élagage de horticulteur
+806. labour de paysan
+807. arrosage d’apiculteur
+808. semis de pépiniériste
+809. moisson de forestier
+810. entretien de cueilleur
+811. récolte d’agriculteur
+812. plantation de jardinier
+813. culture de vigneron
+814. taille de éleveur
+815. élagage de horticulteur
+816. labour de paysan
+817. arrosage d’apiculteur
+818. semis de pépiniériste
+819. moisson de forestier
+820. entretien de cueilleur
+821. récolte d’agriculteur
+822. plantation de jardinier
+823. culture de vigneron
+824. taille de éleveur
+825. élagage de horticulteur
+826. labour de paysan
+827. arrosage d’apiculteur
+828. semis de pépiniériste
+829. moisson de forestier
+830. entretien de cueilleur
+831. récolte d’agriculteur
+832. plantation de jardinier
+833. culture de vigneron
+834. taille de éleveur
+835. élagage de horticulteur
+836. labour de paysan
+837. arrosage d’apiculteur
+838. semis de pépiniériste
+839. moisson de forestier
+840. entretien de cueilleur
+841. récolte d’agriculteur
+842. plantation de jardinier
+843. culture de vigneron
+844. taille de éleveur
+845. élagage de horticulteur
+846. labour de paysan
+847. arrosage d’apiculteur
+848. semis de pépiniériste
+849. moisson de forestier
+850. entretien de cueilleur
+
+## Art et artisanat d’art (851-900)
+851. sculpture d’artiste
+852. gravure de sculpteur
+853. tissage de graveur
+854. peinture de tisserand
+855. céramique de peintre
+856. calligraphie de calligraphe
+857. broderie de brodeur
+858. décoration de mosaïste
+859. mosaïque d’orfèvre
+860. orfèvrerie d’artisan
+861. sculpture d’artiste
+862. gravure de sculpteur
+863. tissage de graveur
+864. peinture de tisserand
+865. céramique de peintre
+866. calligraphie de calligraphe
+867. broderie de brodeur
+868. décoration de mosaïste
+869. mosaïque d’orfèvre
+870. orfèvrerie d’artisan
+871. sculpture d’artiste
+872. gravure de sculpteur
+873. tissage de graveur
+874. peinture de tisserand
+875. céramique de peintre
+876. calligraphie de calligraphe
+877. broderie de brodeur
+878. décoration de mosaïste
+879. mosaïque d’orfèvre
+880. orfèvrerie d’artisan
+881. sculpture d’artiste
+882. gravure de sculpteur
+883. tissage de graveur
+884. peinture de tisserand
+885. céramique de peintre
+886. calligraphie de calligraphe
+887. broderie de brodeur
+888. décoration de mosaïste
+889. mosaïque d’orfèvre
+890. orfèvrerie d’artisan
+891. sculpture d’artiste
+892. gravure de sculpteur
+893. tissage de graveur
+894. peinture de tisserand
+895. céramique de peintre
+896. calligraphie de calligraphe
+897. broderie de brodeur
+898. décoration de mosaïste
+899. mosaïque d’orfèvre
+900. orfèvrerie d’artisan
+
+## Service et assistance (901-950)
+901. aide de technicien
+902. soutien de secouriste
+903. assistance d’assistant
+904. intervention d’agent
+905. dépannage d’intervenant
+906. nettoyage de volontaire
+907. maintenance de réparateur
+908. réparation de sauveteur
+909. sauvetage d’infirmier
+910. livraison de livreur
+911. aide de technicien
+912. soutien de secouriste
+913. assistance d’assistant
+914. intervention d’agent
+915. dépannage d’intervenant
+916. nettoyage de volontaire
+917. maintenance de réparateur
+918. réparation de sauveteur
+919. sauvetage d’infirmier
+920. livraison de livreur
+921. aide de technicien
+922. soutien de secouriste
+923. assistance d’assistant
+924. intervention d’agent
+925. dépannage d’intervenant
+926. nettoyage de volontaire
+927. maintenance de réparateur
+928. réparation de sauveteur
+929. sauvetage d’infirmier
+930. livraison de livreur
+931. aide de technicien
+932. soutien de secouriste
+933. assistance d’assistant
+934. intervention d’agent
+935. dépannage d’intervenant
+936. nettoyage de volontaire
+937. maintenance de réparateur
+938. réparation de sauveteur
+939. sauvetage d’infirmier
+940. livraison de livreur
+941. aide de technicien
+942. soutien de secouriste
+943. assistance d’assistant
+944. intervention d’agent
+945. dépannage d’intervenant
+946. nettoyage de volontaire
+947. maintenance de réparateur
+948. réparation de sauveteur
+949. sauvetage d’infirmier
+950. livraison de livreur
+
+## Administration et gestion (951-1000)
+951. direction de directeur
+952. organisation de chef
+953. gestion de responsable
+954. coordination de coordinateur
+955. animation de manager
+956. supervision de secrétaire
+957. contrôle de superviseur
+958. planification d’administrateur
+959. communication de gestionnaire
+960. rédaction de dirigeant
+961. direction de directeur
+962. organisation de chef
+963. gestion de responsable
+964. coordination de coordinateur
+965. animation de manager
+966. supervision de secrétaire
+967. contrôle de superviseur
+968. planification d’administrateur
+969. communication de gestionnaire
+970. rédaction de dirigeant
+971. direction de directeur
+972. organisation de chef
+973. gestion de responsable
+974. coordination de coordinateur
+975. animation de manager
+976. supervision de secrétaire
+977. contrôle de superviseur
+978. planification d’administrateur
+979. communication de gestionnaire
+980. rédaction de dirigeant
+981. direction de directeur
+982. organisation de chef
+983. gestion de responsable
+984. coordination de coordinateur
+985. animation de manager
+986. supervision de secrétaire
+987. contrôle de superviseur
+988. planification d’administrateur
+989. communication de gestionnaire
+990. rédaction de dirigeant
+991. direction de directeur
+992. organisation de chef
+993. gestion de responsable
+994. coordination de coordinateur
+995. animation de manager
+996. supervision de secrétaire
+997. contrôle de superviseur
+998. planification d’administrateur
+999. communication de gestionnaire
+1000. rédaction de dirigeant

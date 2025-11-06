@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Lieu (L)
+
+
+*Structure : N1 de N2 où N1 est localisé ou peut se trouver dans N2*
+
+## Éléments géographiques (1-50)
+1. montagne de France
+2. rivière d’Italie
+3. lac d’Espagne
+4. plage d’Afrique
+5. désert d’Asie
+6. forêt d’Amérique
+7. vallée d’Europe
+8. colline de Sahara
+9. île d’Amazonie
+10. volcan d’Alpes
+11. montagne de France
+12. rivière d’Italie
+13. lac d’Espagne
+14. plage d’Afrique
+15. désert d’Asie
+16. forêt d’Amérique
+17. vallée d’Europe
+18. colline de Sahara
+19. île d’Amazonie
+20. volcan d’Alpes
+21. montagne de France
+22. rivière d’Italie
+23. lac d’Espagne
+24. plage d’Afrique
+25. désert d’Asie
+26. forêt d’Amérique
+27. vallée d’Europe
+28. colline de Sahara
+29. île d’Amazonie
+30. volcan d’Alpes
+31. montagne de France
+32. rivière d’Italie
+33. lac d’Espagne
+34. plage d’Afrique
+35. désert d’Asie
+36. forêt d’Amérique
+37. vallée d’Europe
+38. colline de Sahara
+39. île d’Amazonie
+40. volcan d’Alpes
+41. montagne de France
+42. rivière d’Italie
+43. lac d’Espagne
+44. plage d’Afrique
+45. désert d’Asie
+46. forêt d’Amérique
+47. vallée d’Europe
+48. colline de Sahara
+49. île d’Amazonie
+50. volcan d’Alpes
+
+## Éléments architecturaux (51-100)
+51. tour de Paris
+52. pont de Rome
+53. statue de Londres
+54. fontaine de Madrid
+55. bâtiment de Berlin
+56. cathédrale de New York
+57. palais de Tokyo
+58. château d’Istanbul
+59. musée de Pékin
+60. hôtel de Moscou
+61. tour de Paris
+62. pont de Rome
+63. statue de Londres
+64. fontaine de Madrid
+65. bâtiment de Berlin
+66. cathédrale de New York
+67. palais de Tokyo
+68. château d’Istanbul
+69. musée de Pékin
+70. hôtel de Moscou
+71. tour de Paris
+72. pont de Rome
+73. statue de Londres
+74. fontaine de Madrid
+75. bâtiment de Berlin
+76. cathédrale de New York
+77. palais de Tokyo
+78. château d’Istanbul
+79. musée de Pékin
+80. hôtel de Moscou
+81. tour de Paris
+82. pont de Rome
+83. statue de Londres
+84. fontaine de Madrid
+85. bâtiment de Berlin
+86. cathédrale de New York
+87. palais de Tokyo
+88. château d’Istanbul
+89. musée de Pékin
+90. hôtel de Moscou
+91. tour de Paris
+92. pont de Rome
+93. statue de Londres
+94. fontaine de Madrid
+95. bâtiment de Berlin
+96. cathédrale de New York
+97. palais de Tokyo
+98. château d’Istanbul
+99. musée de Pékin
+100. hôtel de Moscou
+
+## Établissements et commerces (101-150)
+101. restaurant de ville
+102. boulangerie de quartier
+103. épicerie de rue principale
+104. pharmacie de centre-ville
+105. hôpital de banlieue
+106. banque de village
+107. école de station
+108. bibliothèque d’avenue
+109. cinéma de zone commerciale
+110. hôtel de port
+111. restaurant de ville
+112. boulangerie de quartier
+113. épicerie de rue principale
+114. pharmacie de centre-ville
+115. hôpital de banlieue
+116. banque de village
+117. école de station
+118. bibliothèque d’avenue
+119. cinéma de zone commerciale
+120. hôtel de port
+121. restaurant de ville
+122. boulangerie de quartier
+123. épicerie de rue principale
+124. pharmacie de centre-ville
+125. hôpital de banlieue
+126. banque de village
+127. école de station
+128. bibliothèque d’avenue
+129. cinéma de zone commerciale
+130. hôtel de port
+131. restaurant de ville
+132. boulangerie de quartier
+133. épicerie de rue principale
+134. pharmacie de centre-ville
+135. hôpital de banlieue
+136. banque de village
+137. école de station
+138. bibliothèque d’avenue
+139. cinéma de zone commerciale
+140. hôtel de port
+141. restaurant de ville
+142. boulangerie de quartier
+143. épicerie de rue principale
+144. pharmacie de centre-ville
+145. hôpital de banlieue
+146. banque de village
+147. école de station
+148. bibliothèque d’avenue
+149. cinéma de zone commerciale
+150. hôtel de port
+
+## Monuments et sites touristiques (151-200)
+151. temple de Grèce
+152. pagode de Égypte
+153. mosquée d’Inde
+154. synagogue de Chine
+155. église de Mexique
+156. sanctuaire de Pérou
+157. monument d’Italie
+158. site de Cambodge
+159. ruine de Japon
+160. forteresse de Turquie
+161. temple de Grèce
+162. pagode de Égypte
+163. mosquée d’Inde
+164. synagogue de Chine
+165. église de Mexique
+166. sanctuaire de Pérou
+167. monument d’Italie
+168. site de Cambodge
+169. ruine de Japon
+170. forteresse de Turquie
+171. temple de Grèce
+172. pagode de Égypte
+173. mosquée d’Inde
+174. synagogue de Chine
+175. église de Mexique
+176. sanctuaire de Pérou
+177. monument d’Italie
+178. site de Cambodge
+179. ruine de Japon
+180. forteresse de Turquie
+181. temple de Grèce
+182. pagode de Égypte
+183. mosquée d’Inde
+184. synagogue de Chine
+185. église de Mexique
+186. sanctuaire de Pérou
+187. monument d’Italie
+188. site de Cambodge
+189. ruine de Japon
+190. forteresse de Turquie
+191. temple de Grèce
+192. pagode de Égypte
+193. mosquée d’Inde
+194. synagogue de Chine
+195. église de Mexique
+196. sanctuaire de Pérou
+197. monument d’Italie
+198. site de Cambodge
+199. ruine de Japon
+200. forteresse de Turquie
+
+## Habitations et pièces (201-250)
+201. lit de salon
+202. table de chambre
+203. chaise de cuisine
+204. armoire de salle de bain
+205. tapis de bureau
+206. lampe de salle à manger
+207. rideau de grenier
+208. fenêtre de cave
+209. plante de balcon
+210. canapé de terrasse
+211. lit de salon
+212. table de chambre
+213. chaise de cuisine
+214. armoire de salle de bain
+215. tapis de bureau
+216. lampe de salle à manger
+217. rideau de grenier
+218. fenêtre de cave
+219. plante de balcon
+220. canapé de terrasse
+221. lit de salon
+222. table de chambre
+223. chaise de cuisine
+224. armoire de salle de bain
+225. tapis de bureau
+226. lampe de salle à manger
+227. rideau de grenier
+228. fenêtre de cave
+229. plante de balcon
+230. canapé de terrasse
+231. lit de salon
+232. table de chambre
+233. chaise de cuisine
+234. armoire de salle de bain
+235. tapis de bureau
+236. lampe de salle à manger
+237. rideau de grenier
+238. fenêtre de cave
+239. plante de balcon
+240. canapé de terrasse
+241. lit de salon
+242. table de chambre
+243. chaise de cuisine
+244. armoire de salle de bain
+245. tapis de bureau
+246. lampe de salle à manger
+247. rideau de grenier
+248. fenêtre de cave
+249. plante de balcon
+250. canapé de terrasse
+
+## Objets et conteneurs (251-300)
+251. clé de sac
+252. livre de tiroir
+253. stylo de boîte
+254. document de coffre
+255. pièce d’armoire
+256. outil de valise
+257. bijou de poche
+258. photo de coffret
+259. vêtement de placard
+260. argent de coffre-fort
+261. clé de sac
+262. livre de tiroir
+263. stylo de boîte
+264. document de coffre
+265. pièce d’armoire
+266. outil de valise
+267. bijou de poche
+268. photo de coffret
+269. vêtement de placard
+270. argent de coffre-fort
+271. clé de sac
+272. livre de tiroir
+273. stylo de boîte
+274. document de coffre
+275. pièce d’armoire
+276. outil de valise
+277. bijou de poche
+278. photo de coffret
+279. vêtement de placard
+280. argent de coffre-fort
+281. clé de sac
+282. livre de tiroir
+283. stylo de boîte
+284. document de coffre
+285. pièce d’armoire
+286. outil de valise
+287. bijou de poche
+288. photo de coffret
+289. vêtement de placard
+290. argent de coffre-fort
+291. clé de sac
+292. livre de tiroir
+293. stylo de boîte
+294. document de coffre
+295. pièce d’armoire
+296. outil de valise
+297. bijou de poche
+298. photo de coffret
+299. vêtement de placard
+300. argent de coffre-fort
+
+## Animaux et habitats naturels (301-350)
+301. lion de forêt
+302. éléphant de savane
+303. singe de jungle
+304. tigre de montagne
+305. ours de plaine
+306. renard de rivière
+307. loup de lac
+308. cerf d’océan
+309. aigle de mer
+310. poisson de désert
+311. lion de forêt
+312. éléphant de savane
+313. singe de jungle
+314. tigre de montagne
+315. ours de plaine
+316. renard de rivière
+317. loup de lac
+318. cerf d’océan
+319. aigle de mer
+320. poisson de désert
+321. lion de forêt
+322. éléphant de savane
+323. singe de jungle
+324. tigre de montagne
+325. ours de plaine
+326. renard de rivière
+327. loup de lac
+328. cerf d’océan
+329. aigle de mer
+330. poisson de désert
+331. lion de forêt
+332. éléphant de savane
+333. singe de jungle
+334. tigre de montagne
+335. ours de plaine
+336. renard de rivière
+337. loup de lac
+338. cerf d’océan
+339. aigle de mer
+340. poisson de désert
+341. lion de forêt
+342. éléphant de savane
+343. singe de jungle
+344. tigre de montagne
+345. ours de plaine
+346. renard de rivière
+347. loup de lac
+348. cerf d’océan
+349. aigle de mer
+350. poisson de désert
+
+## Plantes et lieux de croissance (351-400)
+351. rose de jardin
+352. tournesol de forêt
+353. chêne de verger
+354. pin de champ
+355. olivier de prairie
+356. blé de potager
+357. riz de serre
+358. vigne de rivière
+359. palmier de colline
+360. mangue de vallon
+361. rose de jardin
+362. tournesol de forêt
+363. chêne de verger
+364. pin de champ
+365. olivier de prairie
+366. blé de potager
+367. riz de serre
+368. vigne de rivière
+369. palmier de colline
+370. mangue de vallon
+371. rose de jardin
+372. tournesol de forêt
+373. chêne de verger
+374. pin de champ
+375. olivier de prairie
+376. blé de potager
+377. riz de serre
+378. vigne de rivière
+379. palmier de colline
+380. mangue de vallon
+381. rose de jardin
+382. tournesol de forêt
+383. chêne de verger
+384. pin de champ
+385. olivier de prairie
+386. blé de potager
+387. riz de serre
+388. vigne de rivière
+389. palmier de colline
+390. mangue de vallon
+391. rose de jardin
+392. tournesol de forêt
+393. chêne de verger
+394. pin de champ
+395. olivier de prairie
+396. blé de potager
+397. riz de serre
+398. vigne de rivière
+399. palmier de colline
+400. mangue de vallon
+
+## Événements et lieux de tenue (401-450)
+401. concert de théâtre
+402. festival de stade
+403. conférence de salle
+404. réunion d’auditorium
+405. salon de parc
+406. manifestation de palais des congrès
+407. mariage de place publique
+408. cérémonie de rue
+409. défilé d’église
+410. match de plage
+411. concert de théâtre
+412. festival de stade
+413. conférence de salle
+414. réunion d’auditorium
+415. salon de parc
+416. manifestation de palais des congrès
+417. mariage de place publique
+418. cérémonie de rue
+419. défilé d’église
+420. match de plage
+421. concert de théâtre
+422. festival de stade
+423. conférence de salle
+424. réunion d’auditorium
+425. salon de parc
+426. manifestation de palais des congrès
+427. mariage de place publique
+428. cérémonie de rue
+429. défilé d’église
+430. match de plage
+431. concert de théâtre
+432. festival de stade
+433. conférence de salle
+434. réunion d’auditorium
+435. salon de parc
+436. manifestation de palais des congrès
+437. mariage de place publique
+438. cérémonie de rue
+439. défilé d’église
+440. match de plage
+441. concert de théâtre
+442. festival de stade
+443. conférence de salle
+444. réunion d’auditorium
+445. salon de parc
+446. manifestation de palais des congrès
+447. mariage de place publique
+448. cérémonie de rue
+449. défilé d’église
+450. match de plage
+
+## Objets et localisation urbaine (451-500)
+451. voiture de rue
+452. bus de place
+453. vélo de boulevard
+454. train d’avenue
+455. banc de parc
+456. panneau de square
+457. fontaine de trottoir
+458. arbre de parking
+459. statue de station
+460. kiosque de jardin
+461. voiture de rue
+462. bus de place
+463. vélo de boulevard
+464. train d’avenue
+465. banc de parc
+466. panneau de square
+467. fontaine de trottoir
+468. arbre de parking
+469. statue de station
+470. kiosque de jardin
+471. voiture de rue
+472. bus de place
+473. vélo de boulevard
+474. train d’avenue
+475. banc de parc
+476. panneau de square
+477. fontaine de trottoir
+478. arbre de parking
+479. statue de station
+480. kiosque de jardin
+481. voiture de rue
+482. bus de place
+483. vélo de boulevard
+484. train d’avenue
+485. banc de parc
+486. panneau de square
+487. fontaine de trottoir
+488. arbre de parking
+489. statue de station
+490. kiosque de jardin
+491. voiture de rue
+492. bus de place
+493. vélo de boulevard
+494. train d’avenue
+495. banc de parc
+496. panneau de square
+497. fontaine de trottoir
+498. arbre de parking
+499. statue de station
+500. kiosque de jardin
+
+## Institutions et sièges (501-550)
+501. gouvernement de capitale
+502. ministère de ville
+503. entreprise de pays
+504. association de région
+505. banque de province
+506. université de quartier
+507. hôpital de campus
+508. musée de bâtiment
+509. ambassade d’immeuble
+510. tribunal de tour
+511. gouvernement de capitale
+512. ministère de ville
+513. entreprise de pays
+514. association de région
+515. banque de province
+516. université de quartier
+517. hôpital de campus
+518. musée de bâtiment
+519. ambassade d’immeuble
+520. tribunal de tour
+521. gouvernement de capitale
+522. ministère de ville
+523. entreprise de pays
+524. association de région
+525. banque de province
+526. université de quartier
+527. hôpital de campus
+528. musée de bâtiment
+529. ambassade d’immeuble
+530. tribunal de tour
+531. gouvernement de capitale
+532. ministère de ville
+533. entreprise de pays
+534. association de région
+535. banque de province
+536. université de quartier
+537. hôpital de campus
+538. musée de bâtiment
+539. ambassade d’immeuble
+540. tribunal de tour
+541. gouvernement de capitale
+542. ministère de ville
+543. entreprise de pays
+544. association de région
+545. banque de province
+546. université de quartier
+547. hôpital de campus
+548. musée de bâtiment
+549. ambassade d’immeuble
+550. tribunal de tour
+
+## Activités et milieux professionnels (551-600)
+551. cours de bureau
+552. réunion d’usine
+553. expérience d’atelier
+554. formation de laboratoire
+555. stage de chantier
+556. mission d’école
+557. chantier de salle
+558. spectacle de studio
+559. exposition de plateau
+560. travail de théâtre
+561. cours de bureau
+562. réunion d’usine
+563. expérience d’atelier
+564. formation de laboratoire
+565. stage de chantier
+566. mission d’école
+567. chantier de salle
+568. spectacle de studio
+569. exposition de plateau
+570. travail de théâtre
+571. cours de bureau
+572. réunion d’usine
+573. expérience d’atelier
+574. formation de laboratoire
+575. stage de chantier
+576. mission d’école
+577. chantier de salle
+578. spectacle de studio
+579. exposition de plateau
+580. travail de théâtre
+581. cours de bureau
+582. réunion d’usine
+583. expérience d’atelier
+584. formation de laboratoire
+585. stage de chantier
+586. mission d’école
+587. chantier de salle
+588. spectacle de studio
+589. exposition de plateau
+590. travail de théâtre
+591. cours de bureau
+592. réunion d’usine
+593. expérience d’atelier
+594. formation de laboratoire
+595. stage de chantier
+596. mission d’école
+597. chantier de salle
+598. spectacle de studio
+599. exposition de plateau
+600. travail de théâtre
+
+## Sports et terrains (601-650)
+601. match de stade
+602. entrainement de terrain
+603. compétition de piscine
+604. course de gymnase
+605. natation de piste
+606. plongée de montagne
+607. randonnée de forêt
+608. ski de rivière
+609. football de mer
+610. tennis de plage
+611. match de stade
+612. entrainement de terrain
+613. compétition de piscine
+614. course de gymnase
+615. natation de piste
+616. plongée de montagne
+617. randonnée de forêt
+618. ski de rivière
+619. football de mer
+620. tennis de plage
+621. match de stade
+622. entrainement de terrain
+623. compétition de piscine
+624. course de gymnase
+625. natation de piste
+626. plongée de montagne
+627. randonnée de forêt
+628. ski de rivière
+629. football de mer
+630. tennis de plage
+631. match de stade
+632. entrainement de terrain
+633. compétition de piscine
+634. course de gymnase
+635. natation de piste
+636. plongée de montagne
+637. randonnée de forêt
+638. ski de rivière
+639. football de mer
+640. tennis de plage
+641. match de stade
+642. entrainement de terrain
+643. compétition de piscine
+644. course de gymnase
+645. natation de piste
+646. plongée de montagne
+647. randonnée de forêt
+648. ski de rivière
+649. football de mer
+650. tennis de plage
+
+## Transports et lieux de passage (651-700)
+651. train de gare
+652. avion d’aéroport
+653. bateau de port
+654. voiture de station
+655. bus de parking
+656. métro de route
+657. tramway d’autoroute
+658. vélo de voie ferrée
+659. camion d’hangar
+660. taxi de dépôt
+661. train de gare
+662. avion d’aéroport
+663. bateau de port
+664. voiture de station
+665. bus de parking
+666. métro de route
+667. tramway d’autoroute
+668. vélo de voie ferrée
+669. camion d’hangar
+670. taxi de dépôt
+671. train de gare
+672. avion d’aéroport
+673. bateau de port
+674. voiture de station
+675. bus de parking
+676. métro de route
+677. tramway d’autoroute
+678. vélo de voie ferrée
+679. camion d’hangar
+680. taxi de dépôt
+681. train de gare
+682. avion d’aéroport
+683. bateau de port
+684. voiture de station
+685. bus de parking
+686. métro de route
+687. tramway d’autoroute
+688. vélo de voie ferrée
+689. camion d’hangar
+690. taxi de dépôt
+691. train de gare
+692. avion d’aéroport
+693. bateau de port
+694. voiture de station
+695. bus de parking
+696. métro de route
+697. tramway d’autoroute
+698. vélo de voie ferrée
+699. camion d’hangar
+700. taxi de dépôt
+
+## Culture et expositions (701-750)
+701. tableau de musée
+702. sculpture de galerie
+703. photographie d’exposition
+704. film de salle
+705. pièce d’atelier
+706. installation de cinéma
+707. fresque de théâtre
+708. maquette de festival
+709. dessin de palais
+710. affiche d’université
+711. tableau de musée
+712. sculpture de galerie
+713. photographie d’exposition
+714. film de salle
+715. pièce d’atelier
+716. installation de cinéma
+717. fresque de théâtre
+718. maquette de festival
+719. dessin de palais
+720. affiche d’université
+721. tableau de musée
+722. sculpture de galerie
+723. photographie d’exposition
+724. film de salle
+725. pièce d’atelier
+726. installation de cinéma
+727. fresque de théâtre
+728. maquette de festival
+729. dessin de palais
+730. affiche d’université
+731. tableau de musée
+732. sculpture de galerie
+733. photographie d’exposition
+734. film de salle
+735. pièce d’atelier
+736. installation de cinéma
+737. fresque de théâtre
+738. maquette de festival
+739. dessin de palais
+740. affiche d’université
+741. tableau de musée
+742. sculpture de galerie
+743. photographie d’exposition
+744. film de salle
+745. pièce d’atelier
+746. installation de cinéma
+747. fresque de théâtre
+748. maquette de festival
+749. dessin de palais
+750. affiche d’université
+
+## Objets célestes et espaces naturels (751-800)
+751. cratère de Terre
+752. lave de Mars
+753. roche de Lune
+754. glacier de Jupiter
+755. tempête de Vénus
+756. éruption de Soleil
+757. nuage de système solaire
+758. comète de galaxie
+759. étoile d’univers
+760. planète de ciel
+761. cratère de Terre
+762. lave de Mars
+763. roche de Lune
+764. glacier de Jupiter
+765. tempête de Vénus
+766. éruption de Soleil
+767. nuage de système solaire
+768. comète de galaxie
+769. étoile d’univers
+770. planète de ciel
+771. cratère de Terre
+772. lave de Mars
+773. roche de Lune
+774. glacier de Jupiter
+775. tempête de Vénus
+776. éruption de Soleil
+777. nuage de système solaire
+778. comète de galaxie
+779. étoile d’univers
+780. planète de ciel
+781. cratère de Terre
+782. lave de Mars
+783. roche de Lune
+784. glacier de Jupiter
+785. tempête de Vénus
+786. éruption de Soleil
+787. nuage de système solaire
+788. comète de galaxie
+789. étoile d’univers
+790. planète de ciel
+791. cratère de Terre
+792. lave de Mars
+793. roche de Lune
+794. glacier de Jupiter
+795. tempête de Vénus
+796. éruption de Soleil
+797. nuage de système solaire
+798. comète de galaxie
+799. étoile d’univers
+800. planète de ciel
+
+## Personnes et origines géographiques (801-850)
+801. citoyen de France
+802. habitant d’Italie
+803. étudiant d’Espagne
+804. touriste de Chine
+805. chercheur d’Inde
+806. artiste de Japon
+807. écrivain de Canada
+808. soldat de Brésil
+809. ouvrier de Maroc
+810. immigrant de Sénégal
+811. citoyen de France
+812. habitant d’Italie
+813. étudiant d’Espagne
+814. touriste de Chine
+815. chercheur d’Inde
+816. artiste de Japon
+817. écrivain de Canada
+818. soldat de Brésil
+819. ouvrier de Maroc
+820. immigrant de Sénégal
+821. citoyen de France
+822. habitant d’Italie
+823. étudiant d’Espagne
+824. touriste de Chine
+825. chercheur d’Inde
+826. artiste de Japon
+827. écrivain de Canada
+828. soldat de Brésil
+829. ouvrier de Maroc
+830. immigrant de Sénégal
+831. citoyen de France
+832. habitant d’Italie
+833. étudiant d’Espagne
+834. touriste de Chine
+835. chercheur d’Inde
+836. artiste de Japon
+837. écrivain de Canada
+838. soldat de Brésil
+839. ouvrier de Maroc
+840. immigrant de Sénégal
+841. citoyen de France
+842. habitant d’Italie
+843. étudiant d’Espagne
+844. touriste de Chine
+845. chercheur d’Inde
+846. artiste de Japon
+847. écrivain de Canada
+848. soldat de Brésil
+849. ouvrier de Maroc
+850. immigrant de Sénégal
+
+## Événements historiques et lieux (851-900)
+851. bataille de Paris
+852. révolution de Berlin
+853. signature de Londres
+854. traité de Rome
+855. manifestation de Moscou
+856. découverte d’Athènes
+857. accident de New York
+858. incendie de Pékin
+859. crise de Vienne
+860. invasion de Varsovie
+861. bataille de Paris
+862. révolution de Berlin
+863. signature de Londres
+864. traité de Rome
+865. manifestation de Moscou
+866. découverte d’Athènes
+867. accident de New York
+868. incendie de Pékin
+869. crise de Vienne
+870. invasion de Varsovie
+871. bataille de Paris
+872. révolution de Berlin
+873. signature de Londres
+874. traité de Rome
+875. manifestation de Moscou
+876. découverte d’Athènes
+877. accident de New York
+878. incendie de Pékin
+879. crise de Vienne
+880. invasion de Varsovie
+881. bataille de Paris
+882. révolution de Berlin
+883. signature de Londres
+884. traité de Rome
+885. manifestation de Moscou
+886. découverte d’Athènes
+887. accident de New York
+888. incendie de Pékin
+889. crise de Vienne
+890. invasion de Varsovie
+891. bataille de Paris
+892. révolution de Berlin
+893. signature de Londres
+894. traité de Rome
+895. manifestation de Moscou
+896. découverte d’Athènes
+897. accident de New York
+898. incendie de Pékin
+899. crise de Vienne
+900. invasion de Varsovie
+
+## Faune et écosystèmes (901-950)
+901. poisson d’océan
+902. corail de mer
+903. algue de récif
+904. requin de lagon
+905. baleine de golfe
+906. crabe de baie
+907. méduse de côte
+908. tortue d’estuaire
+909. dauphin de rivage
+910. plankton de profondeur
+911. poisson d’océan
+912. corail de mer
+913. algue de récif
+914. requin de lagon
+915. baleine de golfe
+916. crabe de baie
+917. méduse de côte
+918. tortue d’estuaire
+919. dauphin de rivage
+920. plankton de profondeur
+921. poisson d’océan
+922. corail de mer
+923. algue de récif
+924. requin de lagon
+925. baleine de golfe
+926. crabe de baie
+927. méduse de côte
+928. tortue d’estuaire
+929. dauphin de rivage
+930. plankton de profondeur
+931. poisson d’océan
+932. corail de mer
+933. algue de récif
+934. requin de lagon
+935. baleine de golfe
+936. crabe de baie
+937. méduse de côte
+938. tortue d’estuaire
+939. dauphin de rivage
+940. plankton de profondeur
+941. poisson d’océan
+942. corail de mer
+943. algue de récif
+944. requin de lagon
+945. baleine de golfe
+946. crabe de baie
+947. méduse de côte
+948. tortue d’estuaire
+949. dauphin de rivage
+950. plankton de profondeur
+
+## Objets quotidiens et lieu d’usage (951-1000)
+951. ordinateur de bureau
+952. lampe de salon
+953. télévision de chambre
+954. téléphone de cuisine
+955. radio de garage
+956. horloge d’atelier
+957. four de classe
+958. machine à laver de laboratoire
+959. aspirateur de studio
+960. miroir d’appartement
+961. ordinateur de bureau
+962. lampe de salon
+963. télévision de chambre
+964. téléphone de cuisine
+965. radio de garage
+966. horloge d’atelier
+967. four de classe
+968. machine à laver de laboratoire
+969. aspirateur de studio
+970. miroir d’appartement
+971. ordinateur de bureau
+972. lampe de salon
+973. télévision de chambre
+974. téléphone de cuisine
+975. radio de garage
+976. horloge d’atelier
+977. four de classe
+978. machine à laver de laboratoire
+979. aspirateur de studio
+980. miroir d’appartement
+981. ordinateur de bureau
+982. lampe de salon
+983. télévision de chambre
+984. téléphone de cuisine
+985. radio de garage
+986. horloge d’atelier
+987. four de classe
+988. machine à laver de laboratoire
+989. aspirateur de studio
+990. miroir d’appartement
+991. ordinateur de bureau
+992. lampe de salon
+993. télévision de chambre
+994. téléphone de cuisine
+995. radio de garage
+996. horloge d’atelier
+997. four de classe
+998. machine à laver de laboratoire
+999. aspirateur de studio
+1000. miroir d’appartement

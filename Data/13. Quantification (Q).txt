@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Quantification (Q)
+
+
+*Structure : N1 de N2 où N1 sert de mesure à N2*
+
+## Unité de longueur (1-50)
+1. mètre de route
+2. centimètre de mur
+3. millimètre de pièce
+4. kilomètre de chambre
+5. pouce d’arbre
+6. pas de table
+7. toise de couloir
+8. brasse de bâtiment
+9. lieue de rivière
+10. coudée de pont
+11. mètre de route
+12. centimètre de mur
+13. millimètre de pièce
+14. kilomètre de chambre
+15. pouce d’arbre
+16. pas de table
+17. toise de couloir
+18. brasse de bâtiment
+19. lieue de rivière
+20. coudée de pont
+21. mètre de route
+22. centimètre de mur
+23. millimètre de pièce
+24. kilomètre de chambre
+25. pouce d’arbre
+26. pas de table
+27. toise de couloir
+28. brasse de bâtiment
+29. lieue de rivière
+30. coudée de pont
+31. mètre de route
+32. centimètre de mur
+33. millimètre de pièce
+34. kilomètre de chambre
+35. pouce d’arbre
+36. pas de table
+37. toise de couloir
+38. brasse de bâtiment
+39. lieue de rivière
+40. coudée de pont
+41. mètre de route
+42. centimètre de mur
+43. millimètre de pièce
+44. kilomètre de chambre
+45. pouce d’arbre
+46. pas de table
+47. toise de couloir
+48. brasse de bâtiment
+49. lieue de rivière
+50. coudée de pont
+
+## Unité de poids (51-100)
+51. gramme de pomme
+52. kilogramme de riz
+53. tonne de blé
+54. livre de sucre
+55. once de viande
+56. milligramme de pain
+57. paquet de fromage
+58. sac de farine
+59. charge de terre
+60. poids de sable
+61. gramme de pomme
+62. kilogramme de riz
+63. tonne de blé
+64. livre de sucre
+65. once de viande
+66. milligramme de pain
+67. paquet de fromage
+68. sac de farine
+69. charge de terre
+70. poids de sable
+71. gramme de pomme
+72. kilogramme de riz
+73. tonne de blé
+74. livre de sucre
+75. once de viande
+76. milligramme de pain
+77. paquet de fromage
+78. sac de farine
+79. charge de terre
+80. poids de sable
+81. gramme de pomme
+82. kilogramme de riz
+83. tonne de blé
+84. livre de sucre
+85. once de viande
+86. milligramme de pain
+87. paquet de fromage
+88. sac de farine
+89. charge de terre
+90. poids de sable
+91. gramme de pomme
+92. kilogramme de riz
+93. tonne de blé
+94. livre de sucre
+95. once de viande
+96. milligramme de pain
+97. paquet de fromage
+98. sac de farine
+99. charge de terre
+100. poids de sable
+
+## Unité de volume (101-150)
+101. litre d’eau
+102. millilitre de vin
+103. verre d’huile
+104. bouteille de lait
+105. seau de jus
+106. goutte de bière
+107. tasse de sauce
+108. bol de soupe
+109. carafe de café
+110. flacon de thé
+111. litre d’eau
+112. millilitre de vin
+113. verre d’huile
+114. bouteille de lait
+115. seau de jus
+116. goutte de bière
+117. tasse de sauce
+118. bol de soupe
+119. carafe de café
+120. flacon de thé
+121. litre d’eau
+122. millilitre de vin
+123. verre d’huile
+124. bouteille de lait
+125. seau de jus
+126. goutte de bière
+127. tasse de sauce
+128. bol de soupe
+129. carafe de café
+130. flacon de thé
+131. litre d’eau
+132. millilitre de vin
+133. verre d’huile
+134. bouteille de lait
+135. seau de jus
+136. goutte de bière
+137. tasse de sauce
+138. bol de soupe
+139. carafe de café
+140. flacon de thé
+141. litre d’eau
+142. millilitre de vin
+143. verre d’huile
+144. bouteille de lait
+145. seau de jus
+146. goutte de bière
+147. tasse de sauce
+148. bol de soupe
+149. carafe de café
+150. flacon de thé
+
+## Unité de temps (151-200)
+151. seconde d’attente
+152. minute de réflexion
+153. heure de pause
+154. jour de marche
+155. semaine de course
+156. mois de lecture
+157. année de détente
+158. décennie de pluie
+159. siècle de réunion
+160. instant de voyage
+161. seconde d’attente
+162. minute de réflexion
+163. heure de pause
+164. jour de marche
+165. semaine de course
+166. mois de lecture
+167. année de détente
+168. décennie de pluie
+169. siècle de réunion
+170. instant de voyage
+171. seconde d’attente
+172. minute de réflexion
+173. heure de pause
+174. jour de marche
+175. semaine de course
+176. mois de lecture
+177. année de détente
+178. décennie de pluie
+179. siècle de réunion
+180. instant de voyage
+181. seconde d’attente
+182. minute de réflexion
+183. heure de pause
+184. jour de marche
+185. semaine de course
+186. mois de lecture
+187. année de détente
+188. décennie de pluie
+189. siècle de réunion
+190. instant de voyage
+191. seconde d’attente
+192. minute de réflexion
+193. heure de pause
+194. jour de marche
+195. semaine de course
+196. mois de lecture
+197. année de détente
+198. décennie de pluie
+199. siècle de réunion
+200. instant de voyage
+
+## Unité monétaire (201-250)
+201. euro d’achat
+202. centime de transaction
+203. dollar de dépense
+204. yen de paiement
+205. livre de facture
+206. dirham de revenu
+207. franc de salaire
+208. pièce de vente
+209. billet de don
+210. montant de taxe
+211. euro d’achat
+212. centime de transaction
+213. dollar de dépense
+214. yen de paiement
+215. livre de facture
+216. dirham de revenu
+217. franc de salaire
+218. pièce de vente
+219. billet de don
+220. montant de taxe
+221. euro d’achat
+222. centime de transaction
+223. dollar de dépense
+224. yen de paiement
+225. livre de facture
+226. dirham de revenu
+227. franc de salaire
+228. pièce de vente
+229. billet de don
+230. montant de taxe
+231. euro d’achat
+232. centime de transaction
+233. dollar de dépense
+234. yen de paiement
+235. livre de facture
+236. dirham de revenu
+237. franc de salaire
+238. pièce de vente
+239. billet de don
+240. montant de taxe
+241. euro d’achat
+242. centime de transaction
+243. dollar de dépense
+244. yen de paiement
+245. livre de facture
+246. dirham de revenu
+247. franc de salaire
+248. pièce de vente
+249. billet de don
+250. montant de taxe
+
+## Unité de surface (251-300)
+251. mètre carré de champ
+252. hectare de forêt
+253. centiare de jardin
+254. ar de verger
+255. terrain de pelouse
+256. parcelle de pâturage
+257. portion de plage
+258. lot de rizière
+259. espace de propriété
+260. zone de parc
+261. mètre carré de champ
+262. hectare de forêt
+263. centiare de jardin
+264. ar de verger
+265. terrain de pelouse
+266. parcelle de pâturage
+267. portion de plage
+268. lot de rizière
+269. espace de propriété
+270. zone de parc
+271. mètre carré de champ
+272. hectare de forêt
+273. centiare de jardin
+274. ar de verger
+275. terrain de pelouse
+276. parcelle de pâturage
+277. portion de plage
+278. lot de rizière
+279. espace de propriété
+280. zone de parc
+281. mètre carré de champ
+282. hectare de forêt
+283. centiare de jardin
+284. ar de verger
+285. terrain de pelouse
+286. parcelle de pâturage
+287. portion de plage
+288. lot de rizière
+289. espace de propriété
+290. zone de parc
+291. mètre carré de champ
+292. hectare de forêt
+293. centiare de jardin
+294. ar de verger
+295. terrain de pelouse
+296. parcelle de pâturage
+297. portion de plage
+298. lot de rizière
+299. espace de propriété
+300. zone de parc
+
+## Unité de distance (301-350)
+301. mètre de voyage
+302. kilomètre de route
+303. centimètre de chemin
+304. pas de course
+305. trajet de randonnée
+306. parcours de marche
+307. étape de trajet
+308. section de sentier
+309. portion d’autoroute
+310. tracé de piste
+311. mètre de voyage
+312. kilomètre de route
+313. centimètre de chemin
+314. pas de course
+315. trajet de randonnée
+316. parcours de marche
+317. étape de trajet
+318. section de sentier
+319. portion d’autoroute
+320. tracé de piste
+321. mètre de voyage
+322. kilomètre de route
+323. centimètre de chemin
+324. pas de course
+325. trajet de randonnée
+326. parcours de marche
+327. étape de trajet
+328. section de sentier
+329. portion d’autoroute
+330. tracé de piste
+331. mètre de voyage
+332. kilomètre de route
+333. centimètre de chemin
+334. pas de course
+335. trajet de randonnée
+336. parcours de marche
+337. étape de trajet
+338. section de sentier
+339. portion d’autoroute
+340. tracé de piste
+341. mètre de voyage
+342. kilomètre de route
+343. centimètre de chemin
+344. pas de course
+345. trajet de randonnée
+346. parcours de marche
+347. étape de trajet
+348. section de sentier
+349. portion d’autoroute
+350. tracé de piste
+
+## Unité de quantité alimentaire (351-400)
+351. morceau de gâteau
+352. part de pain
+353. portion de viande
+354. tranche de légume
+355. bouchée de fruit
+356. lamelle de fromage
+357. cuillère de tarte
+358. tasse de pizza
+359. bol de chocolat
+360. assiette de poisson
+361. morceau de gâteau
+362. part de pain
+363. portion de viande
+364. tranche de légume
+365. bouchée de fruit
+366. lamelle de fromage
+367. cuillère de tarte
+368. tasse de pizza
+369. bol de chocolat
+370. assiette de poisson
+371. morceau de gâteau
+372. part de pain
+373. portion de viande
+374. tranche de légume
+375. bouchée de fruit
+376. lamelle de fromage
+377. cuillère de tarte
+378. tasse de pizza
+379. bol de chocolat
+380. assiette de poisson
+381. morceau de gâteau
+382. part de pain
+383. portion de viande
+384. tranche de légume
+385. bouchée de fruit
+386. lamelle de fromage
+387. cuillère de tarte
+388. tasse de pizza
+389. bol de chocolat
+390. assiette de poisson
+391. morceau de gâteau
+392. part de pain
+393. portion de viande
+394. tranche de légume
+395. bouchée de fruit
+396. lamelle de fromage
+397. cuillère de tarte
+398. tasse de pizza
+399. bol de chocolat
+400. assiette de poisson
+
+## Unité de collecte (401-450)
+401. bouquet de fleur
+402. brin d’herbe
+403. botte de blé
+404. gerbe de roseau
+405. fagot de branche
+406. poignée de feuille
+407. tas de légume
+408. amas de paille
+409. lot de graine
+410. groupe de fruit
+411. bouquet de fleur
+412. brin d’herbe
+413. botte de blé
+414. gerbe de roseau
+415. fagot de branche
+416. poignée de feuille
+417. tas de légume
+418. amas de paille
+419. lot de graine
+420. groupe de fruit
+421. bouquet de fleur
+422. brin d’herbe
+423. botte de blé
+424. gerbe de roseau
+425. fagot de branche
+426. poignée de feuille
+427. tas de légume
+428. amas de paille
+429. lot de graine
+430. groupe de fruit
+431. bouquet de fleur
+432. brin d’herbe
+433. botte de blé
+434. gerbe de roseau
+435. fagot de branche
+436. poignée de feuille
+437. tas de légume
+438. amas de paille
+439. lot de graine
+440. groupe de fruit
+441. bouquet de fleur
+442. brin d’herbe
+443. botte de blé
+444. gerbe de roseau
+445. fagot de branche
+446. poignée de feuille
+447. tas de légume
+448. amas de paille
+449. lot de graine
+450. groupe de fruit
+
+## Unité de données numériques (451-500)
+451. bit d’information
+452. octet de message
+453. kilooctet de donnée
+454. mégaoctet de document
+455. gigaoctet d’image
+456. teraoctet de vidéo
+457. fichier de texte
+458. bloc de programme
+459. paquet de base
+460. flux de serveur
+461. bit d’information
+462. octet de message
+463. kilooctet de donnée
+464. mégaoctet de document
+465. gigaoctet d’image
+466. teraoctet de vidéo
+467. fichier de texte
+468. bloc de programme
+469. paquet de base
+470. flux de serveur
+471. bit d’information
+472. octet de message
+473. kilooctet de donnée
+474. mégaoctet de document
+475. gigaoctet d’image
+476. teraoctet de vidéo
+477. fichier de texte
+478. bloc de programme
+479. paquet de base
+480. flux de serveur
+481. bit d’information
+482. octet de message
+483. kilooctet de donnée
+484. mégaoctet de document
+485. gigaoctet d’image
+486. teraoctet de vidéo
+487. fichier de texte
+488. bloc de programme
+489. paquet de base
+490. flux de serveur
+491. bit d’information
+492. octet de message
+493. kilooctet de donnée
+494. mégaoctet de document
+495. gigaoctet d’image
+496. teraoctet de vidéo
+497. fichier de texte
+498. bloc de programme
+499. paquet de base
+500. flux de serveur
+
+## Unité d’énergie (501-550)
+501. joule de lumière
+502. calorie de chaleur
+503. kilowatt de électricité
+504. volt de travail
+505. ampère de mouvement
+506. watt de énergie
+507. kilocalorie d’effort
+508. unité de courant
+509. charge de batterie
+510. dose de réacteur
+511. joule de lumière
+512. calorie de chaleur
+513. kilowatt de électricité
+514. volt de travail
+515. ampère de mouvement
+516. watt de énergie
+517. kilocalorie d’effort
+518. unité de courant
+519. charge de batterie
+520. dose de réacteur
+521. joule de lumière
+522. calorie de chaleur
+523. kilowatt de électricité
+524. volt de travail
+525. ampère de mouvement
+526. watt de énergie
+527. kilocalorie d’effort
+528. unité de courant
+529. charge de batterie
+530. dose de réacteur
+531. joule de lumière
+532. calorie de chaleur
+533. kilowatt de électricité
+534. volt de travail
+535. ampère de mouvement
+536. watt de énergie
+537. kilocalorie d’effort
+538. unité de courant
+539. charge de batterie
+540. dose de réacteur
+541. joule de lumière
+542. calorie de chaleur
+543. kilowatt de électricité
+544. volt de travail
+545. ampère de mouvement
+546. watt de énergie
+547. kilocalorie d’effort
+548. unité de courant
+549. charge de batterie
+550. dose de réacteur
+
+## Unité de population (551-600)
+551. personne de village
+552. habitant de ville
+553. famille de pays
+554. groupe de quartier
+555. tribu de région
+556. foule de commune
+557. assemblée de campagne
+558. équipe de île
+559. classe de nation
+560. communauté de continent
+561. personne de village
+562. habitant de ville
+563. famille de pays
+564. groupe de quartier
+565. tribu de région
+566. foule de commune
+567. assemblée de campagne
+568. équipe de île
+569. classe de nation
+570. communauté de continent
+571. personne de village
+572. habitant de ville
+573. famille de pays
+574. groupe de quartier
+575. tribu de région
+576. foule de commune
+577. assemblée de campagne
+578. équipe de île
+579. classe de nation
+580. communauté de continent
+581. personne de village
+582. habitant de ville
+583. famille de pays
+584. groupe de quartier
+585. tribu de région
+586. foule de commune
+587. assemblée de campagne
+588. équipe de île
+589. classe de nation
+590. communauté de continent
+591. personne de village
+592. habitant de ville
+593. famille de pays
+594. groupe de quartier
+595. tribu de région
+596. foule de commune
+597. assemblée de campagne
+598. équipe de île
+599. classe de nation
+600. communauté de continent
+
+## Unité de produit (601-650)
+601. paquet de produit
+602. boîte d’article
+603. sac de boisson
+604. flacon d’aliment
+605. bouteille de matière
+606. carton d’objet
+607. baril de marchandise
+608. seau de médicament
+609. lot de fruit
+610. palette de vêtement
+611. paquet de produit
+612. boîte d’article
+613. sac de boisson
+614. flacon d’aliment
+615. bouteille de matière
+616. carton d’objet
+617. baril de marchandise
+618. seau de médicament
+619. lot de fruit
+620. palette de vêtement
+621. paquet de produit
+622. boîte d’article
+623. sac de boisson
+624. flacon d’aliment
+625. bouteille de matière
+626. carton d’objet
+627. baril de marchandise
+628. seau de médicament
+629. lot de fruit
+630. palette de vêtement
+631. paquet de produit
+632. boîte d’article
+633. sac de boisson
+634. flacon d’aliment
+635. bouteille de matière
+636. carton d’objet
+637. baril de marchandise
+638. seau de médicament
+639. lot de fruit
+640. palette de vêtement
+641. paquet de produit
+642. boîte d’article
+643. sac de boisson
+644. flacon d’aliment
+645. bouteille de matière
+646. carton d’objet
+647. baril de marchandise
+648. seau de médicament
+649. lot de fruit
+650. palette de vêtement
+
+## Unité de mesure informelle (651-700)
+651. poignée de sel
+652. pincée de sucre
+653. grain de poivre
+654. goutte de piment
+655. nuage de épice
+656. trace d’huile
+657. zeste d’arôme
+658. brin de café
+659. filet d’herbe
+660. parfum de vanille
+661. poignée de sel
+662. pincée de sucre
+663. grain de poivre
+664. goutte de piment
+665. nuage de épice
+666. trace d’huile
+667. zeste d’arôme
+668. brin de café
+669. filet d’herbe
+670. parfum de vanille
+671. poignée de sel
+672. pincée de sucre
+673. grain de poivre
+674. goutte de piment
+675. nuage de épice
+676. trace d’huile
+677. zeste d’arôme
+678. brin de café
+679. filet d’herbe
+680. parfum de vanille
+681. poignée de sel
+682. pincée de sucre
+683. grain de poivre
+684. goutte de piment
+685. nuage de épice
+686. trace d’huile
+687. zeste d’arôme
+688. brin de café
+689. filet d’herbe
+690. parfum de vanille
+691. poignée de sel
+692. pincée de sucre
+693. grain de poivre
+694. goutte de piment
+695. nuage de épice
+696. trace d’huile
+697. zeste d’arôme
+698. brin de café
+699. filet d’herbe
+700. parfum de vanille
+
+## Unité naturelle (701-750)
+701. rayon de lumière
+702. faisceau de neige
+703. flocon de pluie
+704. goutte de poussière
+705. grain de vent
+706. bulle d’air
+707. feuille de vapeur
+708. brin de son
+709. onde de énergie
+710. particule de chaleur
+711. rayon de lumière
+712. faisceau de neige
+713. flocon de pluie
+714. goutte de poussière
+715. grain de vent
+716. bulle d’air
+717. feuille de vapeur
+718. brin de son
+719. onde de énergie
+720. particule de chaleur
+721. rayon de lumière
+722. faisceau de neige
+723. flocon de pluie
+724. goutte de poussière
+725. grain de vent
+726. bulle d’air
+727. feuille de vapeur
+728. brin de son
+729. onde de énergie
+730. particule de chaleur
+731. rayon de lumière
+732. faisceau de neige
+733. flocon de pluie
+734. goutte de poussière
+735. grain de vent
+736. bulle d’air
+737. feuille de vapeur
+738. brin de son
+739. onde de énergie
+740. particule de chaleur
+741. rayon de lumière
+742. faisceau de neige
+743. flocon de pluie
+744. goutte de poussière
+745. grain de vent
+746. bulle d’air
+747. feuille de vapeur
+748. brin de son
+749. onde de énergie
+750. particule de chaleur
+
+## Unité de groupe humain (751-800)
+751. bataillon de soldat
+752. brigade de policier
+753. escouade de étudiant
+754. troupe de participant
+755. délégation de spectateur
+756. groupe de manifestant
+757. famille de joueur
+758. classe d’ouvrier
+759. équipe de touriste
+760. foule de citoyen
+761. bataillon de soldat
+762. brigade de policier
+763. escouade de étudiant
+764. troupe de participant
+765. délégation de spectateur
+766. groupe de manifestant
+767. famille de joueur
+768. classe d’ouvrier
+769. équipe de touriste
+770. foule de citoyen
+771. bataillon de soldat
+772. brigade de policier
+773. escouade de étudiant
+774. troupe de participant
+775. délégation de spectateur
+776. groupe de manifestant
+777. famille de joueur
+778. classe d’ouvrier
+779. équipe de touriste
+780. foule de citoyen
+781. bataillon de soldat
+782. brigade de policier
+783. escouade de étudiant
+784. troupe de participant
+785. délégation de spectateur
+786. groupe de manifestant
+787. famille de joueur
+788. classe d’ouvrier
+789. équipe de touriste
+790. foule de citoyen
+791. bataillon de soldat
+792. brigade de policier
+793. escouade de étudiant
+794. troupe de participant
+795. délégation de spectateur
+796. groupe de manifestant
+797. famille de joueur
+798. classe d’ouvrier
+799. équipe de touriste
+800. foule de citoyen
+
+## Unité de production (801-850)
+801. pièce de machine
+802. lot de fabrication
+803. série d’usine
+804. exemplaire de production
+805. modèle de commande
+806. article d’atelier
+807. prototype d’entreprise
+808. unité de chantier
+809. échantillon de laboratoire
+810. produit de ligne
+811. pièce de machine
+812. lot de fabrication
+813. série d’usine
+814. exemplaire de production
+815. modèle de commande
+816. article d’atelier
+817. prototype d’entreprise
+818. unité de chantier
+819. échantillon de laboratoire
+820. produit de ligne
+821. pièce de machine
+822. lot de fabrication
+823. série d’usine
+824. exemplaire de production
+825. modèle de commande
+826. article d’atelier
+827. prototype d’entreprise
+828. unité de chantier
+829. échantillon de laboratoire
+830. produit de ligne
+831. pièce de machine
+832. lot de fabrication
+833. série d’usine
+834. exemplaire de production
+835. modèle de commande
+836. article d’atelier
+837. prototype d’entreprise
+838. unité de chantier
+839. échantillon de laboratoire
+840. produit de ligne
+841. pièce de machine
+842. lot de fabrication
+843. série d’usine
+844. exemplaire de production
+845. modèle de commande
+846. article d’atelier
+847. prototype d’entreprise
+848. unité de chantier
+849. échantillon de laboratoire
+850. produit de ligne
+
+## Unité d’information (851-900)
+851. page de livre
+852. chapitre de roman
+853. article de manuel
+854. phrase de rapport
+855. mot de document
+856. paragraphe de magazine
+857. image de journal
+858. section de site
+859. figure de thèse
+860. table de brochure
+861. page de livre
+862. chapitre de roman
+863. article de manuel
+864. phrase de rapport
+865. mot de document
+866. paragraphe de magazine
+867. image de journal
+868. section de site
+869. figure de thèse
+870. table de brochure
+871. page de livre
+872. chapitre de roman
+873. article de manuel
+874. phrase de rapport
+875. mot de document
+876. paragraphe de magazine
+877. image de journal
+878. section de site
+879. figure de thèse
+880. table de brochure
+881. page de livre
+882. chapitre de roman
+883. article de manuel
+884. phrase de rapport
+885. mot de document
+886. paragraphe de magazine
+887. image de journal
+888. section de site
+889. figure de thèse
+890. table de brochure
+891. page de livre
+892. chapitre de roman
+893. article de manuel
+894. phrase de rapport
+895. mot de document
+896. paragraphe de magazine
+897. image de journal
+898. section de site
+899. figure de thèse
+900. table de brochure
+
+## Unité de déplacement (901-950)
+901. pas de promenade
+902. bond de randonnée
+903. saut de compétition
+904. tour de déplacement
+905. périple d’aventure
+906. voyage de fuite
+907. étape de chasse
+908. marche de visite
+909. course de retour
+910. chemin d’ascension
+911. pas de promenade
+912. bond de randonnée
+913. saut de compétition
+914. tour de déplacement
+915. périple d’aventure
+916. voyage de fuite
+917. étape de chasse
+918. marche de visite
+919. course de retour
+920. chemin d’ascension
+921. pas de promenade
+922. bond de randonnée
+923. saut de compétition
+924. tour de déplacement
+925. périple d’aventure
+926. voyage de fuite
+927. étape de chasse
+928. marche de visite
+929. course de retour
+930. chemin d’ascension
+931. pas de promenade
+932. bond de randonnée
+933. saut de compétition
+934. tour de déplacement
+935. périple d’aventure
+936. voyage de fuite
+937. étape de chasse
+938. marche de visite
+939. course de retour
+940. chemin d’ascension
+941. pas de promenade
+942. bond de randonnée
+943. saut de compétition
+944. tour de déplacement
+945. périple d’aventure
+946. voyage de fuite
+947. étape de chasse
+948. marche de visite
+949. course de retour
+950. chemin d’ascension
+
+## Unité de consommation (951-1000)
+951. verre d’eau
+952. tasse de vin
+953. bouteille de bière
+954. canette de jus
+955. dose de soda
+956. gorgée de lait
+957. bol de thé
+958. flacon de café
+959. portion de liqueur
+960. assiette de soupe
+961. verre d’eau
+962. tasse de vin
+963. bouteille de bière
+964. canette de jus
+965. dose de soda
+966. gorgée de lait
+967. bol de thé
+968. flacon de café
+969. portion de liqueur
+970. assiette de soupe
+971. verre d’eau
+972. tasse de vin
+973. bouteille de bière
+974. canette de jus
+975. dose de soda
+976. gorgée de lait
+977. bol de thé
+978. flacon de café
+979. portion de liqueur
+980. assiette de soupe
+981. verre d’eau
+982. tasse de vin
+983. bouteille de bière
+984. canette de jus
+985. dose de soda
+986. gorgée de lait
+987. bol de thé
+988. flacon de café
+989. portion de liqueur
+990. assiette de soupe
+991. verre d’eau
+992. tasse de vin
+993. bouteille de bière
+994. canette de jus
+995. dose de soda
+996. gorgée de lait
+997. bol de thé
+998. flacon de café
+999. portion de liqueur
+1000. assiette de soupe

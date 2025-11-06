@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Instrument (I)
+
+
+*Structure : N1 de N2 où N1 est l’instrument de l’action N2 ou de l’action que N2 subit*
+
+## Outils et métiers manuels (1-50)
+1. marteau de menuiserie
+2. tournevis de mécanicien
+3. pince de charpentier
+4. scie de maçon
+5. ciseau de forgeron
+6. lime de ébéniste
+7. rabot de plombier
+8. clé de électricien
+9. meule d’artisan
+10. perceuse d’ouvrier
+11. marteau de menuiserie
+12. tournevis de mécanicien
+13. pince de charpentier
+14. scie de maçon
+15. ciseau de forgeron
+16. lime de ébéniste
+17. rabot de plombier
+18. clé de électricien
+19. meule d’artisan
+20. perceuse d’ouvrier
+21. marteau de menuiserie
+22. tournevis de mécanicien
+23. pince de charpentier
+24. scie de maçon
+25. ciseau de forgeron
+26. lime de ébéniste
+27. rabot de plombier
+28. clé de électricien
+29. meule d’artisan
+30. perceuse d’ouvrier
+31. marteau de menuiserie
+32. tournevis de mécanicien
+33. pince de charpentier
+34. scie de maçon
+35. ciseau de forgeron
+36. lime de ébéniste
+37. rabot de plombier
+38. clé de électricien
+39. meule d’artisan
+40. perceuse d’ouvrier
+41. marteau de menuiserie
+42. tournevis de mécanicien
+43. pince de charpentier
+44. scie de maçon
+45. ciseau de forgeron
+46. lime de ébéniste
+47. rabot de plombier
+48. clé de électricien
+49. meule d’artisan
+50. perceuse d’ouvrier
+
+## Écriture et dessin (51-100)
+51. stylo de écriture
+52. crayon de dessin
+53. feutre de croquis
+54. plume de brouillon
+55. pinceau de calligraphie
+56. marqueur de graphisme
+57. craie d’illustration
+58. gomme d’esquisse
+59. règle de plan
+60. compas de schéma
+61. stylo de écriture
+62. crayon de dessin
+63. feutre de croquis
+64. plume de brouillon
+65. pinceau de calligraphie
+66. marqueur de graphisme
+67. craie d’illustration
+68. gomme d’esquisse
+69. règle de plan
+70. compas de schéma
+71. stylo de écriture
+72. crayon de dessin
+73. feutre de croquis
+74. plume de brouillon
+75. pinceau de calligraphie
+76. marqueur de graphisme
+77. craie d’illustration
+78. gomme d’esquisse
+79. règle de plan
+80. compas de schéma
+81. stylo de écriture
+82. crayon de dessin
+83. feutre de croquis
+84. plume de brouillon
+85. pinceau de calligraphie
+86. marqueur de graphisme
+87. craie d’illustration
+88. gomme d’esquisse
+89. règle de plan
+90. compas de schéma
+91. stylo de écriture
+92. crayon de dessin
+93. feutre de croquis
+94. plume de brouillon
+95. pinceau de calligraphie
+96. marqueur de graphisme
+97. craie d’illustration
+98. gomme d’esquisse
+99. règle de plan
+100. compas de schéma
+
+## Cuisine et gastronomie (101-150)
+101. couteau de repas
+102. fourchette de préparation
+103. cuillère de cuisine
+104. mixeur de dessert
+105. batteur de soupe
+106. moulin de plat
+107. verre de recette
+108. poêle de pâtisserie
+109. casserole de sauce
+110. grille-pain de boisson
+111. couteau de repas
+112. fourchette de préparation
+113. cuillère de cuisine
+114. mixeur de dessert
+115. batteur de soupe
+116. moulin de plat
+117. verre de recette
+118. poêle de pâtisserie
+119. casserole de sauce
+120. grille-pain de boisson
+121. couteau de repas
+122. fourchette de préparation
+123. cuillère de cuisine
+124. mixeur de dessert
+125. batteur de soupe
+126. moulin de plat
+127. verre de recette
+128. poêle de pâtisserie
+129. casserole de sauce
+130. grille-pain de boisson
+131. couteau de repas
+132. fourchette de préparation
+133. cuillère de cuisine
+134. mixeur de dessert
+135. batteur de soupe
+136. moulin de plat
+137. verre de recette
+138. poêle de pâtisserie
+139. casserole de sauce
+140. grille-pain de boisson
+141. couteau de repas
+142. fourchette de préparation
+143. cuillère de cuisine
+144. mixeur de dessert
+145. batteur de soupe
+146. moulin de plat
+147. verre de recette
+148. poêle de pâtisserie
+149. casserole de sauce
+150. grille-pain de boisson
+
+## Musique et son (151-200)
+151. guitare de concert
+152. violon de représentation
+153. piano de musique
+154. flûte de chanson
+155. trompette de mélodie
+156. batterie d’accompagnement
+157. microphone de composition
+158. haut-parleur de spectacle
+159. ampli d’enregistrement
+160. synthétiseur d’interprétation
+161. guitare de concert
+162. violon de représentation
+163. piano de musique
+164. flûte de chanson
+165. trompette de mélodie
+166. batterie d’accompagnement
+167. microphone de composition
+168. haut-parleur de spectacle
+169. ampli d’enregistrement
+170. synthétiseur d’interprétation
+171. guitare de concert
+172. violon de représentation
+173. piano de musique
+174. flûte de chanson
+175. trompette de mélodie
+176. batterie d’accompagnement
+177. microphone de composition
+178. haut-parleur de spectacle
+179. ampli d’enregistrement
+180. synthétiseur d’interprétation
+181. guitare de concert
+182. violon de représentation
+183. piano de musique
+184. flûte de chanson
+185. trompette de mélodie
+186. batterie d’accompagnement
+187. microphone de composition
+188. haut-parleur de spectacle
+189. ampli d’enregistrement
+190. synthétiseur d’interprétation
+191. guitare de concert
+192. violon de représentation
+193. piano de musique
+194. flûte de chanson
+195. trompette de mélodie
+196. batterie d’accompagnement
+197. microphone de composition
+198. haut-parleur de spectacle
+199. ampli d’enregistrement
+200. synthétiseur d’interprétation
+
+## Médecine et santé (201-250)
+201. seringue d’opération
+202. scalpel d’examen
+203. stéthoscope de consultation
+204. thermomètre d’analyse
+205. sonde de diagnostic
+206. microscope de chirurgie
+207. lampe de soin
+208. défibrillateur de transfusion
+209. aiguille de vaccination
+210. pince d’intervention
+211. seringue d’opération
+212. scalpel d’examen
+213. stéthoscope de consultation
+214. thermomètre d’analyse
+215. sonde de diagnostic
+216. microscope de chirurgie
+217. lampe de soin
+218. défibrillateur de transfusion
+219. aiguille de vaccination
+220. pince d’intervention
+221. seringue d’opération
+222. scalpel d’examen
+223. stéthoscope de consultation
+224. thermomètre d’analyse
+225. sonde de diagnostic
+226. microscope de chirurgie
+227. lampe de soin
+228. défibrillateur de transfusion
+229. aiguille de vaccination
+230. pince d’intervention
+231. seringue d’opération
+232. scalpel d’examen
+233. stéthoscope de consultation
+234. thermomètre d’analyse
+235. sonde de diagnostic
+236. microscope de chirurgie
+237. lampe de soin
+238. défibrillateur de transfusion
+239. aiguille de vaccination
+240. pince d’intervention
+241. seringue d’opération
+242. scalpel d’examen
+243. stéthoscope de consultation
+244. thermomètre d’analyse
+245. sonde de diagnostic
+246. microscope de chirurgie
+247. lampe de soin
+248. défibrillateur de transfusion
+249. aiguille de vaccination
+250. pince d’intervention
+
+## Construction et bâtiment (251-300)
+251. grue de chantier
+252. bétonnière de construction
+253. perceuse de réparation
+254. pelle de bâtiment
+255. marteau-piqueur de rénovation
+256. niveau de travaux
+257. mètre de démolition
+258. burin de fondation
+259. scie de mur
+260. truelle de toit
+261. grue de chantier
+262. bétonnière de construction
+263. perceuse de réparation
+264. pelle de bâtiment
+265. marteau-piqueur de rénovation
+266. niveau de travaux
+267. mètre de démolition
+268. burin de fondation
+269. scie de mur
+270. truelle de toit
+271. grue de chantier
+272. bétonnière de construction
+273. perceuse de réparation
+274. pelle de bâtiment
+275. marteau-piqueur de rénovation
+276. niveau de travaux
+277. mètre de démolition
+278. burin de fondation
+279. scie de mur
+280. truelle de toit
+281. grue de chantier
+282. bétonnière de construction
+283. perceuse de réparation
+284. pelle de bâtiment
+285. marteau-piqueur de rénovation
+286. niveau de travaux
+287. mètre de démolition
+288. burin de fondation
+289. scie de mur
+290. truelle de toit
+291. grue de chantier
+292. bétonnière de construction
+293. perceuse de réparation
+294. pelle de bâtiment
+295. marteau-piqueur de rénovation
+296. niveau de travaux
+297. mètre de démolition
+298. burin de fondation
+299. scie de mur
+300. truelle de toit
+
+## Transport et déplacement (301-350)
+301. voiture de voyage
+302. camion de transport
+303. bus de livraison
+304. train de trajet
+305. bateau de déplacement
+306. avion de mission
+307. moto de visite
+308. vélo de départ
+309. trotinette d’arrivée
+310. tramway de course
+311. voiture de voyage
+312. camion de transport
+313. bus de livraison
+314. train de trajet
+315. bateau de déplacement
+316. avion de mission
+317. moto de visite
+318. vélo de départ
+319. trotinette d’arrivée
+320. tramway de course
+321. voiture de voyage
+322. camion de transport
+323. bus de livraison
+324. train de trajet
+325. bateau de déplacement
+326. avion de mission
+327. moto de visite
+328. vélo de départ
+329. trotinette d’arrivée
+330. tramway de course
+331. voiture de voyage
+332. camion de transport
+333. bus de livraison
+334. train de trajet
+335. bateau de déplacement
+336. avion de mission
+337. moto de visite
+338. vélo de départ
+339. trotinette d’arrivée
+340. tramway de course
+341. voiture de voyage
+342. camion de transport
+343. bus de livraison
+344. train de trajet
+345. bateau de déplacement
+346. avion de mission
+347. moto de visite
+348. vélo de départ
+349. trotinette d’arrivée
+350. tramway de course
+
+## Informatique et technologie (351-400)
+351. ordinateur de programmation
+352. clavier de rédaction
+353. souris de communication
+354. imprimante de recherche
+355. scanner de travail
+356. serveur de présentation
+357. routeur de calcul
+358. smartphone d’analyse
+359. tablette de simulation
+360. micro de dessin
+361. ordinateur de programmation
+362. clavier de rédaction
+363. souris de communication
+364. imprimante de recherche
+365. scanner de travail
+366. serveur de présentation
+367. routeur de calcul
+368. smartphone d’analyse
+369. tablette de simulation
+370. micro de dessin
+371. ordinateur de programmation
+372. clavier de rédaction
+373. souris de communication
+374. imprimante de recherche
+375. scanner de travail
+376. serveur de présentation
+377. routeur de calcul
+378. smartphone d’analyse
+379. tablette de simulation
+380. micro de dessin
+381. ordinateur de programmation
+382. clavier de rédaction
+383. souris de communication
+384. imprimante de recherche
+385. scanner de travail
+386. serveur de présentation
+387. routeur de calcul
+388. smartphone d’analyse
+389. tablette de simulation
+390. micro de dessin
+391. ordinateur de programmation
+392. clavier de rédaction
+393. souris de communication
+394. imprimante de recherche
+395. scanner de travail
+396. serveur de présentation
+397. routeur de calcul
+398. smartphone d’analyse
+399. tablette de simulation
+400. micro de dessin
+
+## Science et recherche (401-450)
+401. microscope d’expérience
+402. téléscope d’analyse
+403. centrifugeuse d’observation
+404. balance de mesure
+405. pipette de recherche
+406. spectromètre de étude
+407. capteur de détection
+408. analyseur d’expérimentation
+409. lunette d’examen
+410. chromatographe de test
+411. microscope d’expérience
+412. téléscope d’analyse
+413. centrifugeuse d’observation
+414. balance de mesure
+415. pipette de recherche
+416. spectromètre de étude
+417. capteur de détection
+418. analyseur d’expérimentation
+419. lunette d’examen
+420. chromatographe de test
+421. microscope d’expérience
+422. téléscope d’analyse
+423. centrifugeuse d’observation
+424. balance de mesure
+425. pipette de recherche
+426. spectromètre de étude
+427. capteur de détection
+428. analyseur d’expérimentation
+429. lunette d’examen
+430. chromatographe de test
+431. microscope d’expérience
+432. téléscope d’analyse
+433. centrifugeuse d’observation
+434. balance de mesure
+435. pipette de recherche
+436. spectromètre de étude
+437. capteur de détection
+438. analyseur d’expérimentation
+439. lunette d’examen
+440. chromatographe de test
+441. microscope d’expérience
+442. téléscope d’analyse
+443. centrifugeuse d’observation
+444. balance de mesure
+445. pipette de recherche
+446. spectromètre de étude
+447. capteur de détection
+448. analyseur d’expérimentation
+449. lunette d’examen
+450. chromatographe de test
+
+## Agriculture et jardinage (451-500)
+451. râteau de récolte
+452. bêche de plantation
+453. pelle de labour
+454. sécateur de taille
+455. arrosoir de semis
+456. pioche d’arrosage
+457. tracteur d’entretien
+458. charrue de cueillette
+459. pulvérisateur de culture
+460. houe de fertilisation
+461. râteau de récolte
+462. bêche de plantation
+463. pelle de labour
+464. sécateur de taille
+465. arrosoir de semis
+466. pioche d’arrosage
+467. tracteur d’entretien
+468. charrue de cueillette
+469. pulvérisateur de culture
+470. houe de fertilisation
+471. râteau de récolte
+472. bêche de plantation
+473. pelle de labour
+474. sécateur de taille
+475. arrosoir de semis
+476. pioche d’arrosage
+477. tracteur d’entretien
+478. charrue de cueillette
+479. pulvérisateur de culture
+480. houe de fertilisation
+481. râteau de récolte
+482. bêche de plantation
+483. pelle de labour
+484. sécateur de taille
+485. arrosoir de semis
+486. pioche d’arrosage
+487. tracteur d’entretien
+488. charrue de cueillette
+489. pulvérisateur de culture
+490. houe de fertilisation
+491. râteau de récolte
+492. bêche de plantation
+493. pelle de labour
+494. sécateur de taille
+495. arrosoir de semis
+496. pioche d’arrosage
+497. tracteur d’entretien
+498. charrue de cueillette
+499. pulvérisateur de culture
+500. houe de fertilisation
+
+## Sport et entraînement (501-550)
+501. raquette de match
+502. ballon de compétition
+503. batte de jeu
+504. club de course
+505. patin d’entraînement
+506. pagaie de tournoi
+507. gant de épreuve
+508. pied de combat
+509. épée de rencontre
+510. arc d’activité physique
+511. raquette de match
+512. ballon de compétition
+513. batte de jeu
+514. club de course
+515. patin d’entraînement
+516. pagaie de tournoi
+517. gant de épreuve
+518. pied de combat
+519. épée de rencontre
+520. arc d’activité physique
+521. raquette de match
+522. ballon de compétition
+523. batte de jeu
+524. club de course
+525. patin d’entraînement
+526. pagaie de tournoi
+527. gant de épreuve
+528. pied de combat
+529. épée de rencontre
+530. arc d’activité physique
+531. raquette de match
+532. ballon de compétition
+533. batte de jeu
+534. club de course
+535. patin d’entraînement
+536. pagaie de tournoi
+537. gant de épreuve
+538. pied de combat
+539. épée de rencontre
+540. arc d’activité physique
+541. raquette de match
+542. ballon de compétition
+543. batte de jeu
+544. club de course
+545. patin d’entraînement
+546. pagaie de tournoi
+547. gant de épreuve
+548. pied de combat
+549. épée de rencontre
+550. arc d’activité physique
+
+## Arts et artisanat (551-600)
+551. pinceau de peinture
+552. ciseau de sculpture
+553. burin de gravure
+554. lime de tissage
+555. tour de couture
+556. aiguille de broderie
+557. marteau de calligraphie
+558. brosse de dessin
+559. plume de modélisation
+560. spatule de création
+561. pinceau de peinture
+562. ciseau de sculpture
+563. burin de gravure
+564. lime de tissage
+565. tour de couture
+566. aiguille de broderie
+567. marteau de calligraphie
+568. brosse de dessin
+569. plume de modélisation
+570. spatule de création
+571. pinceau de peinture
+572. ciseau de sculpture
+573. burin de gravure
+574. lime de tissage
+575. tour de couture
+576. aiguille de broderie
+577. marteau de calligraphie
+578. brosse de dessin
+579. plume de modélisation
+580. spatule de création
+581. pinceau de peinture
+582. ciseau de sculpture
+583. burin de gravure
+584. lime de tissage
+585. tour de couture
+586. aiguille de broderie
+587. marteau de calligraphie
+588. brosse de dessin
+589. plume de modélisation
+590. spatule de création
+591. pinceau de peinture
+592. ciseau de sculpture
+593. burin de gravure
+594. lime de tissage
+595. tour de couture
+596. aiguille de broderie
+597. marteau de calligraphie
+598. brosse de dessin
+599. plume de modélisation
+600. spatule de création
+
+## Bureau et administration (601-650)
+601. ordinateur de rédaction
+602. imprimante d’impression
+603. tampon de signature
+604. stylo d’envoi
+605. clavier de courrier
+606. scanner de gestion
+607. cachet de dossier
+608. agenda de communication
+609. timbre de rapport
+610. enveloppe de contrat
+611. ordinateur de rédaction
+612. imprimante d’impression
+613. tampon de signature
+614. stylo d’envoi
+615. clavier de courrier
+616. scanner de gestion
+617. cachet de dossier
+618. agenda de communication
+619. timbre de rapport
+620. enveloppe de contrat
+621. ordinateur de rédaction
+622. imprimante d’impression
+623. tampon de signature
+624. stylo d’envoi
+625. clavier de courrier
+626. scanner de gestion
+627. cachet de dossier
+628. agenda de communication
+629. timbre de rapport
+630. enveloppe de contrat
+631. ordinateur de rédaction
+632. imprimante d’impression
+633. tampon de signature
+634. stylo d’envoi
+635. clavier de courrier
+636. scanner de gestion
+637. cachet de dossier
+638. agenda de communication
+639. timbre de rapport
+640. enveloppe de contrat
+641. ordinateur de rédaction
+642. imprimante d’impression
+643. tampon de signature
+644. stylo d’envoi
+645. clavier de courrier
+646. scanner de gestion
+647. cachet de dossier
+648. agenda de communication
+649. timbre de rapport
+650. enveloppe de contrat
+
+## Sécurité et défense (651-700)
+651. arme de protection
+652. pistolet d’attaque
+653. fusil d’arrestation
+654. matraque de défense
+655. bouclier de patrouille
+656. gilet d’intervention
+657. casque de surveillance
+658. grenade de garde
+659. caméra d’opération
+660. menotte de contrôle
+661. arme de protection
+662. pistolet d’attaque
+663. fusil d’arrestation
+664. matraque de défense
+665. bouclier de patrouille
+666. gilet d’intervention
+667. casque de surveillance
+668. grenade de garde
+669. caméra d’opération
+670. menotte de contrôle
+671. arme de protection
+672. pistolet d’attaque
+673. fusil d’arrestation
+674. matraque de défense
+675. bouclier de patrouille
+676. gilet d’intervention
+677. casque de surveillance
+678. grenade de garde
+679. caméra d’opération
+680. menotte de contrôle
+681. arme de protection
+682. pistolet d’attaque
+683. fusil d’arrestation
+684. matraque de défense
+685. bouclier de patrouille
+686. gilet d’intervention
+687. casque de surveillance
+688. grenade de garde
+689. caméra d’opération
+690. menotte de contrôle
+691. arme de protection
+692. pistolet d’attaque
+693. fusil d’arrestation
+694. matraque de défense
+695. bouclier de patrouille
+696. gilet d’intervention
+697. casque de surveillance
+698. grenade de garde
+699. caméra d’opération
+700. menotte de contrôle
+
+## Nettoyage et hygiène (701-750)
+701. balai de nettoyage
+702. aspirateur de désinfection
+703. chiffon de lavage
+704. seau d’entretien
+705. brosse de ménage
+706. serpillière de dépoussiérage
+707. gant de lessive
+708. raclette de décontamination
+709. pulvérisateur de désodorisation
+710. éponge de désinsectisation
+711. balai de nettoyage
+712. aspirateur de désinfection
+713. chiffon de lavage
+714. seau d’entretien
+715. brosse de ménage
+716. serpillière de dépoussiérage
+717. gant de lessive
+718. raclette de décontamination
+719. pulvérisateur de désodorisation
+720. éponge de désinsectisation
+721. balai de nettoyage
+722. aspirateur de désinfection
+723. chiffon de lavage
+724. seau d’entretien
+725. brosse de ménage
+726. serpillière de dépoussiérage
+727. gant de lessive
+728. raclette de décontamination
+729. pulvérisateur de désodorisation
+730. éponge de désinsectisation
+731. balai de nettoyage
+732. aspirateur de désinfection
+733. chiffon de lavage
+734. seau d’entretien
+735. brosse de ménage
+736. serpillière de dépoussiérage
+737. gant de lessive
+738. raclette de décontamination
+739. pulvérisateur de désodorisation
+740. éponge de désinsectisation
+741. balai de nettoyage
+742. aspirateur de désinfection
+743. chiffon de lavage
+744. seau d’entretien
+745. brosse de ménage
+746. serpillière de dépoussiérage
+747. gant de lessive
+748. raclette de décontamination
+749. pulvérisateur de désodorisation
+750. éponge de désinsectisation
+
+## Art et culture visuelle (751-800)
+751. caméra de photographie
+752. objectif de cinéma
+753. projecteur de projection
+754. pinceau d’exposition
+755. palette de tournage
+756. écran de montage
+757. film de capture
+758. drone de création
+759. trépied de présentation
+760. scanner de diffusion
+761. caméra de photographie
+762. objectif de cinéma
+763. projecteur de projection
+764. pinceau d’exposition
+765. palette de tournage
+766. écran de montage
+767. film de capture
+768. drone de création
+769. trépied de présentation
+770. scanner de diffusion
+771. caméra de photographie
+772. objectif de cinéma
+773. projecteur de projection
+774. pinceau d’exposition
+775. palette de tournage
+776. écran de montage
+777. film de capture
+778. drone de création
+779. trépied de présentation
+780. scanner de diffusion
+781. caméra de photographie
+782. objectif de cinéma
+783. projecteur de projection
+784. pinceau d’exposition
+785. palette de tournage
+786. écran de montage
+787. film de capture
+788. drone de création
+789. trépied de présentation
+790. scanner de diffusion
+791. caméra de photographie
+792. objectif de cinéma
+793. projecteur de projection
+794. pinceau d’exposition
+795. palette de tournage
+796. écran de montage
+797. film de capture
+798. drone de création
+799. trépied de présentation
+800. scanner de diffusion
+
+## Cuisine et pâtisserie (801-850)
+801. mixeur de pâte
+802. fouet de gâteau
+803. spatule de sauce
+804. moule de dessert
+805. couteau de crème
+806. tamis de soupe
+807. louche de pain
+808. poche de préparation
+809. planche de purée
+810. four de salade
+811. mixeur de pâte
+812. fouet de gâteau
+813. spatule de sauce
+814. moule de dessert
+815. couteau de crème
+816. tamis de soupe
+817. louche de pain
+818. poche de préparation
+819. planche de purée
+820. four de salade
+821. mixeur de pâte
+822. fouet de gâteau
+823. spatule de sauce
+824. moule de dessert
+825. couteau de crème
+826. tamis de soupe
+827. louche de pain
+828. poche de préparation
+829. planche de purée
+830. four de salade
+831. mixeur de pâte
+832. fouet de gâteau
+833. spatule de sauce
+834. moule de dessert
+835. couteau de crème
+836. tamis de soupe
+837. louche de pain
+838. poche de préparation
+839. planche de purée
+840. four de salade
+841. mixeur de pâte
+842. fouet de gâteau
+843. spatule de sauce
+844. moule de dessert
+845. couteau de crème
+846. tamis de soupe
+847. louche de pain
+848. poche de préparation
+849. planche de purée
+850. four de salade
+
+## Technologie et communication (851-900)
+851. téléphone d’appel
+852. micro de conférence
+853. ordinateur de émission
+854. antenne de communication
+855. modem de diffusion
+856. caméra de transmission
+857. émetteur de réunion
+858. haut-parleur de podcast
+859. routeur d’enregistrement
+860. satellite de discussion
+861. téléphone d’appel
+862. micro de conférence
+863. ordinateur de émission
+864. antenne de communication
+865. modem de diffusion
+866. caméra de transmission
+867. émetteur de réunion
+868. haut-parleur de podcast
+869. routeur d’enregistrement
+870. satellite de discussion
+871. téléphone d’appel
+872. micro de conférence
+873. ordinateur de émission
+874. antenne de communication
+875. modem de diffusion
+876. caméra de transmission
+877. émetteur de réunion
+878. haut-parleur de podcast
+879. routeur d’enregistrement
+880. satellite de discussion
+881. téléphone d’appel
+882. micro de conférence
+883. ordinateur de émission
+884. antenne de communication
+885. modem de diffusion
+886. caméra de transmission
+887. émetteur de réunion
+888. haut-parleur de podcast
+889. routeur d’enregistrement
+890. satellite de discussion
+891. téléphone d’appel
+892. micro de conférence
+893. ordinateur de émission
+894. antenne de communication
+895. modem de diffusion
+896. caméra de transmission
+897. émetteur de réunion
+898. haut-parleur de podcast
+899. routeur d’enregistrement
+900. satellite de discussion
+
+## Maintenance et réparation (901-950)
+901. clé de réparation
+902. tournevis d’entretien
+903. pince de montage
+904. marteau de remplacement
+905. multimètre d’ajustement
+906. soudure d’installation
+907. fer à souder de démontage
+908. colle de bricolage
+909. mastic de test
+910. lubrifiant de réglage
+911. clé de réparation
+912. tournevis d’entretien
+913. pince de montage
+914. marteau de remplacement
+915. multimètre d’ajustement
+916. soudure d’installation
+917. fer à souder de démontage
+918. colle de bricolage
+919. mastic de test
+920. lubrifiant de réglage
+921. clé de réparation
+922. tournevis d’entretien
+923. pince de montage
+924. marteau de remplacement
+925. multimètre d’ajustement
+926. soudure d’installation
+927. fer à souder de démontage
+928. colle de bricolage
+929. mastic de test
+930. lubrifiant de réglage
+931. clé de réparation
+932. tournevis d’entretien
+933. pince de montage
+934. marteau de remplacement
+935. multimètre d’ajustement
+936. soudure d’installation
+937. fer à souder de démontage
+938. colle de bricolage
+939. mastic de test
+940. lubrifiant de réglage
+941. clé de réparation
+942. tournevis d’entretien
+943. pince de montage
+944. marteau de remplacement
+945. multimètre d’ajustement
+946. soudure d’installation
+947. fer à souder de démontage
+948. colle de bricolage
+949. mastic de test
+950. lubrifiant de réglage
+
+## Musique et production sonore (951-1000)
+951. micro d’enregistrement
+952. casque de mixage
+953. ampli de composition
+954. mixeur d’interprétation
+955. synthétiseur de concert
+956. enregistreur de production
+957. piano de création
+958. table de mixage de podcast
+959. guitare de diffusion
+960. enceinte de représentation
+961. micro d’enregistrement
+962. casque de mixage
+963. ampli de composition
+964. mixeur d’interprétation
+965. synthétiseur de concert
+966. enregistreur de production
+967. piano de création
+968. table de mixage de podcast
+969. guitare de diffusion
+970. enceinte de représentation
+971. micro d’enregistrement
+972. casque de mixage
+973. ampli de composition
+974. mixeur d’interprétation
+975. synthétiseur de concert
+976. enregistreur de production
+977. piano de création
+978. table de mixage de podcast
+979. guitare de diffusion
+980. enceinte de représentation
+981. micro d’enregistrement
+982. casque de mixage
+983. ampli de composition
+984. mixeur d’interprétation
+985. synthétiseur de concert
+986. enregistreur de production
+987. piano de création
+988. table de mixage de podcast
+989. guitare de diffusion
+990. enceinte de représentation
+991. micro d’enregistrement
+992. casque de mixage
+993. ampli de composition
+994. mixeur d’interprétation
+995. synthétiseur de concert
+996. enregistreur de production
+997. piano de création
+998. table de mixage de podcast
+999. guitare de diffusion
+1000. enceinte de représentation

@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Patient (P)
+
+
+*Structure : N1 de N2 où N1 est la nominalisation d’une action que N2 subit*
+
+## Travail et production (1-50)
+1. fabrication de bois
+2. production de métal
+3. réparation de pierre
+4. montage de tissu
+5. assemblage de verre
+6. transformation de plastique
+7. polissage de papier
+8. usinage de cuir
+9. découpe de marbre
+10. construction de béton
+11. fabrication de bois
+12. production de métal
+13. réparation de pierre
+14. montage de tissu
+15. assemblage de verre
+16. transformation de plastique
+17. polissage de papier
+18. usinage de cuir
+19. découpe de marbre
+20. construction de béton
+21. fabrication de bois
+22. production de métal
+23. réparation de pierre
+24. montage de tissu
+25. assemblage de verre
+26. transformation de plastique
+27. polissage de papier
+28. usinage de cuir
+29. découpe de marbre
+30. construction de béton
+31. fabrication de bois
+32. production de métal
+33. réparation de pierre
+34. montage de tissu
+35. assemblage de verre
+36. transformation de plastique
+37. polissage de papier
+38. usinage de cuir
+39. découpe de marbre
+40. construction de béton
+41. fabrication de bois
+42. production de métal
+43. réparation de pierre
+44. montage de tissu
+45. assemblage de verre
+46. transformation de plastique
+47. polissage de papier
+48. usinage de cuir
+49. découpe de marbre
+50. construction de béton
+
+## Nettoyage et entretien (51-100)
+51. lavage de voiture
+52. nettoyage de vêtement
+53. brossage de sol
+54. désinfection de vitre
+55. dépoussiérage de main
+56. rinçage de plancher
+57. polissage d’outil
+58. stérilisation de machine
+59. épuration de moteur
+60. traitement de surface
+61. lavage de voiture
+62. nettoyage de vêtement
+63. brossage de sol
+64. désinfection de vitre
+65. dépoussiérage de main
+66. rinçage de plancher
+67. polissage d’outil
+68. stérilisation de machine
+69. épuration de moteur
+70. traitement de surface
+71. lavage de voiture
+72. nettoyage de vêtement
+73. brossage de sol
+74. désinfection de vitre
+75. dépoussiérage de main
+76. rinçage de plancher
+77. polissage d’outil
+78. stérilisation de machine
+79. épuration de moteur
+80. traitement de surface
+81. lavage de voiture
+82. nettoyage de vêtement
+83. brossage de sol
+84. désinfection de vitre
+85. dépoussiérage de main
+86. rinçage de plancher
+87. polissage d’outil
+88. stérilisation de machine
+89. épuration de moteur
+90. traitement de surface
+91. lavage de voiture
+92. nettoyage de vêtement
+93. brossage de sol
+94. désinfection de vitre
+95. dépoussiérage de main
+96. rinçage de plancher
+97. polissage d’outil
+98. stérilisation de machine
+99. épuration de moteur
+100. traitement de surface
+
+## Cuisine et alimentation (101-150)
+101. préparation de viande
+102. cuisson de légume
+103. décoration de fruit
+104. assaisonnement de pomme de terre
+105. trempage de pain
+106. mélange de poisson
+107. découpe de riz
+108. séchage de sauce
+109. broyage de gâteau
+110. fermentation de lait
+111. préparation de viande
+112. cuisson de légume
+113. décoration de fruit
+114. assaisonnement de pomme de terre
+115. trempage de pain
+116. mélange de poisson
+117. découpe de riz
+118. séchage de sauce
+119. broyage de gâteau
+120. fermentation de lait
+121. préparation de viande
+122. cuisson de légume
+123. décoration de fruit
+124. assaisonnement de pomme de terre
+125. trempage de pain
+126. mélange de poisson
+127. découpe de riz
+128. séchage de sauce
+129. broyage de gâteau
+130. fermentation de lait
+131. préparation de viande
+132. cuisson de légume
+133. décoration de fruit
+134. assaisonnement de pomme de terre
+135. trempage de pain
+136. mélange de poisson
+137. découpe de riz
+138. séchage de sauce
+139. broyage de gâteau
+140. fermentation de lait
+141. préparation de viande
+142. cuisson de légume
+143. décoration de fruit
+144. assaisonnement de pomme de terre
+145. trempage de pain
+146. mélange de poisson
+147. découpe de riz
+148. séchage de sauce
+149. broyage de gâteau
+150. fermentation de lait
+
+## Médecine et santé (151-200)
+151. opération de patient
+152. intervention de bras
+153. soin de jambe
+154. traitement de cœur
+155. vaccination de poumon
+156. examen de dent
+157. analyse de peau
+158. transfusion de œil
+159. amputation d’os
+160. greffe de main
+161. opération de patient
+162. intervention de bras
+163. soin de jambe
+164. traitement de cœur
+165. vaccination de poumon
+166. examen de dent
+167. analyse de peau
+168. transfusion de œil
+169. amputation d’os
+170. greffe de main
+171. opération de patient
+172. intervention de bras
+173. soin de jambe
+174. traitement de cœur
+175. vaccination de poumon
+176. examen de dent
+177. analyse de peau
+178. transfusion de œil
+179. amputation d’os
+180. greffe de main
+181. opération de patient
+182. intervention de bras
+183. soin de jambe
+184. traitement de cœur
+185. vaccination de poumon
+186. examen de dent
+187. analyse de peau
+188. transfusion de œil
+189. amputation d’os
+190. greffe de main
+191. opération de patient
+192. intervention de bras
+193. soin de jambe
+194. traitement de cœur
+195. vaccination de poumon
+196. examen de dent
+197. analyse de peau
+198. transfusion de œil
+199. amputation d’os
+200. greffe de main
+
+## Enseignement et évaluation (201-250)
+201. notation de copie
+202. évaluation de devoir
+203. correction d’examen
+204. lecture de rapport
+205. surveillance de texte
+206. explication d’article
+207. observation de thèse
+208. contrôle de mémoire
+209. rédaction de test
+210. analyse de document
+211. notation de copie
+212. évaluation de devoir
+213. correction d’examen
+214. lecture de rapport
+215. surveillance de texte
+216. explication d’article
+217. observation de thèse
+218. contrôle de mémoire
+219. rédaction de test
+220. analyse de document
+221. notation de copie
+222. évaluation de devoir
+223. correction d’examen
+224. lecture de rapport
+225. surveillance de texte
+226. explication d’article
+227. observation de thèse
+228. contrôle de mémoire
+229. rédaction de test
+230. analyse de document
+231. notation de copie
+232. évaluation de devoir
+233. correction d’examen
+234. lecture de rapport
+235. surveillance de texte
+236. explication d’article
+237. observation de thèse
+238. contrôle de mémoire
+239. rédaction de test
+240. analyse de document
+241. notation de copie
+242. évaluation de devoir
+243. correction d’examen
+244. lecture de rapport
+245. surveillance de texte
+246. explication d’article
+247. observation de thèse
+248. contrôle de mémoire
+249. rédaction de test
+250. analyse de document
+
+## Justice et droit (251-300)
+251. jugement de suspect
+252. condamnation de criminel
+253. arrestation de coupable
+254. interrogatoire d’accusé
+255. punition de conducteur
+256. amende d’entreprise
+257. sanction de citoyen
+258. contrôle de étudiant
+259. audition de fonctionnaire
+260. procès de contrevenant
+261. jugement de suspect
+262. condamnation de criminel
+263. arrestation de coupable
+264. interrogatoire d’accusé
+265. punition de conducteur
+266. amende d’entreprise
+267. sanction de citoyen
+268. contrôle de étudiant
+269. audition de fonctionnaire
+270. procès de contrevenant
+271. jugement de suspect
+272. condamnation de criminel
+273. arrestation de coupable
+274. interrogatoire d’accusé
+275. punition de conducteur
+276. amende d’entreprise
+277. sanction de citoyen
+278. contrôle de étudiant
+279. audition de fonctionnaire
+280. procès de contrevenant
+281. jugement de suspect
+282. condamnation de criminel
+283. arrestation de coupable
+284. interrogatoire d’accusé
+285. punition de conducteur
+286. amende d’entreprise
+287. sanction de citoyen
+288. contrôle de étudiant
+289. audition de fonctionnaire
+290. procès de contrevenant
+291. jugement de suspect
+292. condamnation de criminel
+293. arrestation de coupable
+294. interrogatoire d’accusé
+295. punition de conducteur
+296. amende d’entreprise
+297. sanction de citoyen
+298. contrôle de étudiant
+299. audition de fonctionnaire
+300. procès de contrevenant
+
+## Communication et médias (301-350)
+301. interview d’auteur
+302. reportage d’artiste
+303. diffusion d’acteur
+304. publication de écrivain
+305. critique de film
+306. citation de livre
+307. lecture d’article
+308. présentation de œuvre
+309. commentaire de spectacle
+310. exposition de programme
+311. interview d’auteur
+312. reportage d’artiste
+313. diffusion d’acteur
+314. publication de écrivain
+315. critique de film
+316. citation de livre
+317. lecture d’article
+318. présentation de œuvre
+319. commentaire de spectacle
+320. exposition de programme
+321. interview d’auteur
+322. reportage d’artiste
+323. diffusion d’acteur
+324. publication de écrivain
+325. critique de film
+326. citation de livre
+327. lecture d’article
+328. présentation de œuvre
+329. commentaire de spectacle
+330. exposition de programme
+331. interview d’auteur
+332. reportage d’artiste
+333. diffusion d’acteur
+334. publication de écrivain
+335. critique de film
+336. citation de livre
+337. lecture d’article
+338. présentation de œuvre
+339. commentaire de spectacle
+340. exposition de programme
+341. interview d’auteur
+342. reportage d’artiste
+343. diffusion d’acteur
+344. publication de écrivain
+345. critique de film
+346. citation de livre
+347. lecture d’article
+348. présentation de œuvre
+349. commentaire de spectacle
+350. exposition de programme
+
+## Administration et gestion (351-400)
+351. inspection de dossier
+352. vérification de document
+353. audite de formulaire
+354. analyse de compte
+355. évaluation de registre
+356. révision de contrat
+357. classement de projet
+358. archivage de rapport
+359. rédaction de facture
+360. mise à jour de base de données
+361. inspection de dossier
+362. vérification de document
+363. audite de formulaire
+364. analyse de compte
+365. évaluation de registre
+366. révision de contrat
+367. classement de projet
+368. archivage de rapport
+369. rédaction de facture
+370. mise à jour de base de données
+371. inspection de dossier
+372. vérification de document
+373. audite de formulaire
+374. analyse de compte
+375. évaluation de registre
+376. révision de contrat
+377. classement de projet
+378. archivage de rapport
+379. rédaction de facture
+380. mise à jour de base de données
+381. inspection de dossier
+382. vérification de document
+383. audite de formulaire
+384. analyse de compte
+385. évaluation de registre
+386. révision de contrat
+387. classement de projet
+388. archivage de rapport
+389. rédaction de facture
+390. mise à jour de base de données
+391. inspection de dossier
+392. vérification de document
+393. audite de formulaire
+394. analyse de compte
+395. évaluation de registre
+396. révision de contrat
+397. classement de projet
+398. archivage de rapport
+399. rédaction de facture
+400. mise à jour de base de données
+
+## Art et culture (401-450)
+401. restauration de tableau
+402. reproduction de sculpture
+403. copie de photo
+404. repeinture de manuscrit
+405. nettoyage de peinture
+406. conservation d’affiche
+407. numérisation de dessin
+408. édition de document
+409. reliure de plan
+410. encadrement de statue
+411. restauration de tableau
+412. reproduction de sculpture
+413. copie de photo
+414. repeinture de manuscrit
+415. nettoyage de peinture
+416. conservation d’affiche
+417. numérisation de dessin
+418. édition de document
+419. reliure de plan
+420. encadrement de statue
+421. restauration de tableau
+422. reproduction de sculpture
+423. copie de photo
+424. repeinture de manuscrit
+425. nettoyage de peinture
+426. conservation d’affiche
+427. numérisation de dessin
+428. édition de document
+429. reliure de plan
+430. encadrement de statue
+431. restauration de tableau
+432. reproduction de sculpture
+433. copie de photo
+434. repeinture de manuscrit
+435. nettoyage de peinture
+436. conservation d’affiche
+437. numérisation de dessin
+438. édition de document
+439. reliure de plan
+440. encadrement de statue
+441. restauration de tableau
+442. reproduction de sculpture
+443. copie de photo
+444. repeinture de manuscrit
+445. nettoyage de peinture
+446. conservation d’affiche
+447. numérisation de dessin
+448. édition de document
+449. reliure de plan
+450. encadrement de statue
+
+## Sport et compétition (451-500)
+451. entrainement de joueur
+452. test de équipe
+453. sélection d’athlète
+454. préparation de cheval
+455. échauffement de vélo
+456. soin de voiture
+457. massage de ballon
+458. analyse de moteur
+459. suivi de patin
+460. récupération de raquette
+461. entrainement de joueur
+462. test de équipe
+463. sélection d’athlète
+464. préparation de cheval
+465. échauffement de vélo
+466. soin de voiture
+467. massage de ballon
+468. analyse de moteur
+469. suivi de patin
+470. récupération de raquette
+471. entrainement de joueur
+472. test de équipe
+473. sélection d’athlète
+474. préparation de cheval
+475. échauffement de vélo
+476. soin de voiture
+477. massage de ballon
+478. analyse de moteur
+479. suivi de patin
+480. récupération de raquette
+481. entrainement de joueur
+482. test de équipe
+483. sélection d’athlète
+484. préparation de cheval
+485. échauffement de vélo
+486. soin de voiture
+487. massage de ballon
+488. analyse de moteur
+489. suivi de patin
+490. récupération de raquette
+491. entrainement de joueur
+492. test de équipe
+493. sélection d’athlète
+494. préparation de cheval
+495. échauffement de vélo
+496. soin de voiture
+497. massage de ballon
+498. analyse de moteur
+499. suivi de patin
+500. récupération de raquette
+
+## Transport et logistique (501-550)
+501. livraison de colis
+502. transport de marchandise
+503. acheminement de produit
+504. chargement de lettre
+505. déchargement de paquet
+506. expédition de commande
+507. manutention de conteneur
+508. distribution de caisse
+509. emballage de dossier
+510. stockage de véhicule
+511. livraison de colis
+512. transport de marchandise
+513. acheminement de produit
+514. chargement de lettre
+515. déchargement de paquet
+516. expédition de commande
+517. manutention de conteneur
+518. distribution de caisse
+519. emballage de dossier
+520. stockage de véhicule
+521. livraison de colis
+522. transport de marchandise
+523. acheminement de produit
+524. chargement de lettre
+525. déchargement de paquet
+526. expédition de commande
+527. manutention de conteneur
+528. distribution de caisse
+529. emballage de dossier
+530. stockage de véhicule
+531. livraison de colis
+532. transport de marchandise
+533. acheminement de produit
+534. chargement de lettre
+535. déchargement de paquet
+536. expédition de commande
+537. manutention de conteneur
+538. distribution de caisse
+539. emballage de dossier
+540. stockage de véhicule
+541. livraison de colis
+542. transport de marchandise
+543. acheminement de produit
+544. chargement de lettre
+545. déchargement de paquet
+546. expédition de commande
+547. manutention de conteneur
+548. distribution de caisse
+549. emballage de dossier
+550. stockage de véhicule
+
+## Éducation et apprentissage (551-600)
+551. enseignement de élève
+552. formation de étudiant
+553. lecture d’apprenant
+554. explication de stagiaire
+555. correction de public
+556. préparation de participant
+557. annotation d’auditeur
+558. transmission d’enfant
+559. présentation de classe
+560. démonstration de groupe
+561. enseignement de élève
+562. formation de étudiant
+563. lecture d’apprenant
+564. explication de stagiaire
+565. correction de public
+566. préparation de participant
+567. annotation d’auditeur
+568. transmission d’enfant
+569. présentation de classe
+570. démonstration de groupe
+571. enseignement de élève
+572. formation de étudiant
+573. lecture d’apprenant
+574. explication de stagiaire
+575. correction de public
+576. préparation de participant
+577. annotation d’auditeur
+578. transmission d’enfant
+579. présentation de classe
+580. démonstration de groupe
+581. enseignement de élève
+582. formation de étudiant
+583. lecture d’apprenant
+584. explication de stagiaire
+585. correction de public
+586. préparation de participant
+587. annotation d’auditeur
+588. transmission d’enfant
+589. présentation de classe
+590. démonstration de groupe
+591. enseignement de élève
+592. formation de étudiant
+593. lecture d’apprenant
+594. explication de stagiaire
+595. correction de public
+596. préparation de participant
+597. annotation d’auditeur
+598. transmission d’enfant
+599. présentation de classe
+600. démonstration de groupe
+
+## Musique et spectacle (601-650)
+601. représentation de pièce
+602. concert de film
+603. interprétation de spectacle
+604. projection de scène
+605. diffusion de chanson
+606. improvisation de musique
+607. création de numéro
+608. répétition de ballet
+609. adaptation d’opéra
+610. montage de programme
+611. représentation de pièce
+612. concert de film
+613. interprétation de spectacle
+614. projection de scène
+615. diffusion de chanson
+616. improvisation de musique
+617. création de numéro
+618. répétition de ballet
+619. adaptation d’opéra
+620. montage de programme
+621. représentation de pièce
+622. concert de film
+623. interprétation de spectacle
+624. projection de scène
+625. diffusion de chanson
+626. improvisation de musique
+627. création de numéro
+628. répétition de ballet
+629. adaptation d’opéra
+630. montage de programme
+631. représentation de pièce
+632. concert de film
+633. interprétation de spectacle
+634. projection de scène
+635. diffusion de chanson
+636. improvisation de musique
+637. création de numéro
+638. répétition de ballet
+639. adaptation d’opéra
+640. montage de programme
+641. représentation de pièce
+642. concert de film
+643. interprétation de spectacle
+644. projection de scène
+645. diffusion de chanson
+646. improvisation de musique
+647. création de numéro
+648. répétition de ballet
+649. adaptation d’opéra
+650. montage de programme
+
+## Agriculture et nature (651-700)
+651. récolte de fruit
+652. cueillette de fleur
+653. taille de plante
+654. plantation de blé
+655. arrosage de vigne
+656. pulvérisation de champ
+657. fertilisation de forêt
+658. traitement de verger
+659. semis de terrain
+660. labour de jardin
+661. récolte de fruit
+662. cueillette de fleur
+663. taille de plante
+664. plantation de blé
+665. arrosage de vigne
+666. pulvérisation de champ
+667. fertilisation de forêt
+668. traitement de verger
+669. semis de terrain
+670. labour de jardin
+671. récolte de fruit
+672. cueillette de fleur
+673. taille de plante
+674. plantation de blé
+675. arrosage de vigne
+676. pulvérisation de champ
+677. fertilisation de forêt
+678. traitement de verger
+679. semis de terrain
+680. labour de jardin
+681. récolte de fruit
+682. cueillette de fleur
+683. taille de plante
+684. plantation de blé
+685. arrosage de vigne
+686. pulvérisation de champ
+687. fertilisation de forêt
+688. traitement de verger
+689. semis de terrain
+690. labour de jardin
+691. récolte de fruit
+692. cueillette de fleur
+693. taille de plante
+694. plantation de blé
+695. arrosage de vigne
+696. pulvérisation de champ
+697. fertilisation de forêt
+698. traitement de verger
+699. semis de terrain
+700. labour de jardin
+
+## Ménage et vie domestique (701-750)
+701. lavage de linge
+702. repassage de vêtement
+703. pliage de table
+704. nettoyage de sol
+705. rangement de tapis
+706. désinfection de chambre
+707. aspiration de vaisselle
+708. cuisson de fenêtre
+709. débarras de canapé
+710. vaisselle de moquette
+711. lavage de linge
+712. repassage de vêtement
+713. pliage de table
+714. nettoyage de sol
+715. rangement de tapis
+716. désinfection de chambre
+717. aspiration de vaisselle
+718. cuisson de fenêtre
+719. débarras de canapé
+720. vaisselle de moquette
+721. lavage de linge
+722. repassage de vêtement
+723. pliage de table
+724. nettoyage de sol
+725. rangement de tapis
+726. désinfection de chambre
+727. aspiration de vaisselle
+728. cuisson de fenêtre
+729. débarras de canapé
+730. vaisselle de moquette
+731. lavage de linge
+732. repassage de vêtement
+733. pliage de table
+734. nettoyage de sol
+735. rangement de tapis
+736. désinfection de chambre
+737. aspiration de vaisselle
+738. cuisson de fenêtre
+739. débarras de canapé
+740. vaisselle de moquette
+741. lavage de linge
+742. repassage de vêtement
+743. pliage de table
+744. nettoyage de sol
+745. rangement de tapis
+746. désinfection de chambre
+747. aspiration de vaisselle
+748. cuisson de fenêtre
+749. débarras de canapé
+750. vaisselle de moquette
+
+## Technologie et maintenance (751-800)
+751. réparation d’ordinateur
+752. mise à jour de logiciel
+753. nettoyage d’imprimante
+754. installation de système
+755. configuration de téléphone
+756. maintenance d’appareil
+757. changement de serveur
+758. optimisation de routeur
+759. test de programme
+760. analyse de base de données
+761. réparation d’ordinateur
+762. mise à jour de logiciel
+763. nettoyage d’imprimante
+764. installation de système
+765. configuration de téléphone
+766. maintenance d’appareil
+767. changement de serveur
+768. optimisation de routeur
+769. test de programme
+770. analyse de base de données
+771. réparation d’ordinateur
+772. mise à jour de logiciel
+773. nettoyage d’imprimante
+774. installation de système
+775. configuration de téléphone
+776. maintenance d’appareil
+777. changement de serveur
+778. optimisation de routeur
+779. test de programme
+780. analyse de base de données
+781. réparation d’ordinateur
+782. mise à jour de logiciel
+783. nettoyage d’imprimante
+784. installation de système
+785. configuration de téléphone
+786. maintenance d’appareil
+787. changement de serveur
+788. optimisation de routeur
+789. test de programme
+790. analyse de base de données
+791. réparation d’ordinateur
+792. mise à jour de logiciel
+793. nettoyage d’imprimante
+794. installation de système
+795. configuration de téléphone
+796. maintenance d’appareil
+797. changement de serveur
+798. optimisation de routeur
+799. test de programme
+800. analyse de base de données
+
+## Industrie et fabrication (801-850)
+801. usinage de pièce
+802. moulage de métal
+803. perçage d’acier
+804. découpe de bois
+805. assemblage de verre
+806. soudure de plastique
+807. polissage de pierre
+808. fabrication de tissu
+809. impression de câble
+810. laminage de pneu
+811. usinage de pièce
+812. moulage de métal
+813. perçage d’acier
+814. découpe de bois
+815. assemblage de verre
+816. soudure de plastique
+817. polissage de pierre
+818. fabrication de tissu
+819. impression de câble
+820. laminage de pneu
+821. usinage de pièce
+822. moulage de métal
+823. perçage d’acier
+824. découpe de bois
+825. assemblage de verre
+826. soudure de plastique
+827. polissage de pierre
+828. fabrication de tissu
+829. impression de câble
+830. laminage de pneu
+831. usinage de pièce
+832. moulage de métal
+833. perçage d’acier
+834. découpe de bois
+835. assemblage de verre
+836. soudure de plastique
+837. polissage de pierre
+838. fabrication de tissu
+839. impression de câble
+840. laminage de pneu
+841. usinage de pièce
+842. moulage de métal
+843. perçage d’acier
+844. découpe de bois
+845. assemblage de verre
+846. soudure de plastique
+847. polissage de pierre
+848. fabrication de tissu
+849. impression de câble
+850. laminage de pneu
+
+## Beauté et esthétique (851-900)
+851. maquillage de visage
+852. coiffure de cheveux
+853. soin de peau
+854. massage d’ongle
+855. manucure de corps
+856. coloration de main
+857. démaquillage de pied
+858. modelage de barbe
+859. rasage de cils
+860. nettoyage de teint
+861. maquillage de visage
+862. coiffure de cheveux
+863. soin de peau
+864. massage d’ongle
+865. manucure de corps
+866. coloration de main
+867. démaquillage de pied
+868. modelage de barbe
+869. rasage de cils
+870. nettoyage de teint
+871. maquillage de visage
+872. coiffure de cheveux
+873. soin de peau
+874. massage d’ongle
+875. manucure de corps
+876. coloration de main
+877. démaquillage de pied
+878. modelage de barbe
+879. rasage de cils
+880. nettoyage de teint
+881. maquillage de visage
+882. coiffure de cheveux
+883. soin de peau
+884. massage d’ongle
+885. manucure de corps
+886. coloration de main
+887. démaquillage de pied
+888. modelage de barbe
+889. rasage de cils
+890. nettoyage de teint
+891. maquillage de visage
+892. coiffure de cheveux
+893. soin de peau
+894. massage d’ongle
+895. manucure de corps
+896. coloration de main
+897. démaquillage de pied
+898. modelage de barbe
+899. rasage de cils
+900. nettoyage de teint
+
+## Sécurité et défense (901-950)
+901. contrôle de bâtiment
+902. inspection de site
+903. surveillance de personne
+904. intervention de manifestant
+905. protection de foule
+906. capture de suspect
+907. interrogatoire d’intrus
+908. évacuation de voiture
+909. patrouille de navire
+910. vérification d’aéronef
+911. contrôle de bâtiment
+912. inspection de site
+913. surveillance de personne
+914. intervention de manifestant
+915. protection de foule
+916. capture de suspect
+917. interrogatoire d’intrus
+918. évacuation de voiture
+919. patrouille de navire
+920. vérification d’aéronef
+921. contrôle de bâtiment
+922. inspection de site
+923. surveillance de personne
+924. intervention de manifestant
+925. protection de foule
+926. capture de suspect
+927. interrogatoire d’intrus
+928. évacuation de voiture
+929. patrouille de navire
+930. vérification d’aéronef
+931. contrôle de bâtiment
+932. inspection de site
+933. surveillance de personne
+934. intervention de manifestant
+935. protection de foule
+936. capture de suspect
+937. interrogatoire d’intrus
+938. évacuation de voiture
+939. patrouille de navire
+940. vérification d’aéronef
+941. contrôle de bâtiment
+942. inspection de site
+943. surveillance de personne
+944. intervention de manifestant
+945. protection de foule
+946. capture de suspect
+947. interrogatoire d’intrus
+948. évacuation de voiture
+949. patrouille de navire
+950. vérification d’aéronef
+
+## Science et recherche (951-1000)
+951. analyse de échantillon
+952. observation de cellule
+953. expérience de molécule
+954. mesure d’organisme
+955. manipulation de plante
+956. modélisation d’animal
+957. simulation de roche
+958. test de minéral
+959. examen de composé
+960. recherche de substance
+961. analyse de échantillon
+962. observation de cellule
+963. expérience de molécule
+964. mesure d’organisme
+965. manipulation de plante
+966. modélisation d’animal
+967. simulation de roche
+968. test de minéral
+969. examen de composé
+970. recherche de substance
+971. analyse de échantillon
+972. observation de cellule
+973. expérience de molécule
+974. mesure d’organisme
+975. manipulation de plante
+976. modélisation d’animal
+977. simulation de roche
+978. test de minéral
+979. examen de composé
+980. recherche de substance
+981. analyse de échantillon
+982. observation de cellule
+983. expérience de molécule
+984. mesure d’organisme
+985. manipulation de plante
+986. modélisation d’animal
+987. simulation de roche
+988. test de minéral
+989. examen de composé
+990. recherche de substance
+991. analyse de échantillon
+992. observation de cellule
+993. expérience de molécule
+994. mesure d’organisme
+995. manipulation de plante
+996. modélisation d’animal
+997. simulation de roche
+998. test de minéral
+999. examen de composé
+1000. recherche de substance

@@ -1,0 +1,1044 @@
+# 1000 exemples de relation sémantique Lien social (LS)
+
+
+*Structure : N1 de N2 où N1 tient un rôle social vis-à-vis de N2*
+
+## Famille et parenté (1-50)
+1. père de Lucie
+2. mère de Paul
+3. fils de Marie
+4. fille de Jean
+5. frère de Élise
+6. sœur de Thomas
+7. oncle de Claire
+8. tante de Julien
+9. cousin de Anna
+10. cousine de Pierre
+11. père de Lucie
+12. mère de Paul
+13. fils de Marie
+14. fille de Jean
+15. frère de Élise
+16. sœur de Thomas
+17. oncle de Claire
+18. tante de Julien
+19. cousin de Anna
+20. cousine de Pierre
+21. père de Lucie
+22. mère de Paul
+23. fils de Marie
+24. fille de Jean
+25. frère de Élise
+26. sœur de Thomas
+27. oncle de Claire
+28. tante de Julien
+29. cousin de Anna
+30. cousine de Pierre
+31. père de Lucie
+32. mère de Paul
+33. fils de Marie
+34. fille de Jean
+35. frère de Élise
+36. sœur de Thomas
+37. oncle de Claire
+38. tante de Julien
+39. cousin de Anna
+40. cousine de Pierre
+41. père de Lucie
+42. mère de Paul
+43. fils de Marie
+44. fille de Jean
+45. frère de Élise
+46. sœur de Thomas
+47. oncle de Claire
+48. tante de Julien
+49. cousin de Anna
+50. cousine de Pierre
+
+## Éducation et école (51-100)
+51. professeur de classe
+52. professeure de cours
+53. maître d’université
+54. maîtresse d’atelier
+55. élève de groupe
+56. étudiant de promotion
+57. étudiante de école
+58. tuteur de collège
+59. formatrice de lycée
+60. formateur de faculté
+61. professeur de classe
+62. professeure de cours
+63. maître d’université
+64. maîtresse d’atelier
+65. élève de groupe
+66. étudiant de promotion
+67. étudiante de école
+68. tuteur de collège
+69. formatrice de lycée
+70. formateur de faculté
+71. professeur de classe
+72. professeure de cours
+73. maître d’université
+74. maîtresse d’atelier
+75. élève de groupe
+76. étudiant de promotion
+77. étudiante de école
+78. tuteur de collège
+79. formatrice de lycée
+80. formateur de faculté
+81. professeur de classe
+82. professeure de cours
+83. maître d’université
+84. maîtresse d’atelier
+85. élève de groupe
+86. étudiant de promotion
+87. étudiante de école
+88. tuteur de collège
+89. formatrice de lycée
+90. formateur de faculté
+91. professeur de classe
+92. professeure de cours
+93. maître d’université
+94. maîtresse d’atelier
+95. élève de groupe
+96. étudiant de promotion
+97. étudiante de école
+98. tuteur de collège
+99. formatrice de lycée
+100. formateur de faculté
+
+## Travail et hiérarchie (101-150)
+101. chef de équipe
+102. cheffe de projet
+103. directeur de service
+104. directrice d’entreprise
+105. manager de département
+106. superviseur d’atelier
+107. superviseuse de groupe
+108. responsable de bureau
+109. collègue d’organisation
+110. employé d’association
+111. chef de équipe
+112. cheffe de projet
+113. directeur de service
+114. directrice d’entreprise
+115. manager de département
+116. superviseur d’atelier
+117. superviseuse de groupe
+118. responsable de bureau
+119. collègue d’organisation
+120. employé d’association
+121. chef de équipe
+122. cheffe de projet
+123. directeur de service
+124. directrice d’entreprise
+125. manager de département
+126. superviseur d’atelier
+127. superviseuse de groupe
+128. responsable de bureau
+129. collègue d’organisation
+130. employé d’association
+131. chef de équipe
+132. cheffe de projet
+133. directeur de service
+134. directrice d’entreprise
+135. manager de département
+136. superviseur d’atelier
+137. superviseuse de groupe
+138. responsable de bureau
+139. collègue d’organisation
+140. employé d’association
+141. chef de équipe
+142. cheffe de projet
+143. directeur de service
+144. directrice d’entreprise
+145. manager de département
+146. superviseur d’atelier
+147. superviseuse de groupe
+148. responsable de bureau
+149. collègue d’organisation
+150. employé d’association
+
+## Amitié et relations personnelles (151-200)
+151. ami d’enfance
+152. amie de travail
+153. compagnon d’université
+154. compagne de quartier
+155. partenaire de vie
+156. confident de voyage
+157. confidente de loisir
+158. voisin de groupe
+159. voisine de réseau
+160. connaissance d’association
+161. ami d’enfance
+162. amie de travail
+163. compagnon d’université
+164. compagne de quartier
+165. partenaire de vie
+166. confident de voyage
+167. confidente de loisir
+168. voisin de groupe
+169. voisine de réseau
+170. connaissance d’association
+171. ami d’enfance
+172. amie de travail
+173. compagnon d’université
+174. compagne de quartier
+175. partenaire de vie
+176. confident de voyage
+177. confidente de loisir
+178. voisin de groupe
+179. voisine de réseau
+180. connaissance d’association
+181. ami d’enfance
+182. amie de travail
+183. compagnon d’université
+184. compagne de quartier
+185. partenaire de vie
+186. confident de voyage
+187. confidente de loisir
+188. voisin de groupe
+189. voisine de réseau
+190. connaissance d’association
+191. ami d’enfance
+192. amie de travail
+193. compagnon d’université
+194. compagne de quartier
+195. partenaire de vie
+196. confident de voyage
+197. confidente de loisir
+198. voisin de groupe
+199. voisine de réseau
+200. connaissance d’association
+
+## Politique et pouvoir (201-250)
+201. président de pays
+202. présidente de ville
+203. ministre de région
+204. député de commune
+205. députée de province
+206. sénateur de parti
+207. sénatrice d’organisation
+208. maire d’assemblée
+209. mairesse de gouvernement
+210. gouverneur de sénat
+211. président de pays
+212. présidente de ville
+213. ministre de région
+214. député de commune
+215. députée de province
+216. sénateur de parti
+217. sénatrice d’organisation
+218. maire d’assemblée
+219. mairesse de gouvernement
+220. gouverneur de sénat
+221. président de pays
+222. présidente de ville
+223. ministre de région
+224. député de commune
+225. députée de province
+226. sénateur de parti
+227. sénatrice d’organisation
+228. maire d’assemblée
+229. mairesse de gouvernement
+230. gouverneur de sénat
+231. président de pays
+232. présidente de ville
+233. ministre de région
+234. député de commune
+235. députée de province
+236. sénateur de parti
+237. sénatrice d’organisation
+238. maire d’assemblée
+239. mairesse de gouvernement
+240. gouverneur de sénat
+241. président de pays
+242. présidente de ville
+243. ministre de région
+244. député de commune
+245. députée de province
+246. sénateur de parti
+247. sénatrice d’organisation
+248. maire d’assemblée
+249. mairesse de gouvernement
+250. gouverneur de sénat
+
+## Religion et spiritualité (251-300)
+251. prêtre de paroisse
+252. religieuse de église
+253. moine de mosquée
+254. abbé de temple
+255. imam de communauté
+256. pasteur de confrérie
+257. évêque de couvent
+258. fidèle de monastère
+259. croyant de synagogue
+260. prophète d’ordre
+261. prêtre de paroisse
+262. religieuse de église
+263. moine de mosquée
+264. abbé de temple
+265. imam de communauté
+266. pasteur de confrérie
+267. évêque de couvent
+268. fidèle de monastère
+269. croyant de synagogue
+270. prophète d’ordre
+271. prêtre de paroisse
+272. religieuse de église
+273. moine de mosquée
+274. abbé de temple
+275. imam de communauté
+276. pasteur de confrérie
+277. évêque de couvent
+278. fidèle de monastère
+279. croyant de synagogue
+280. prophète d’ordre
+281. prêtre de paroisse
+282. religieuse de église
+283. moine de mosquée
+284. abbé de temple
+285. imam de communauté
+286. pasteur de confrérie
+287. évêque de couvent
+288. fidèle de monastère
+289. croyant de synagogue
+290. prophète d’ordre
+291. prêtre de paroisse
+292. religieuse de église
+293. moine de mosquée
+294. abbé de temple
+295. imam de communauté
+296. pasteur de confrérie
+297. évêque de couvent
+298. fidèle de monastère
+299. croyant de synagogue
+300. prophète d’ordre
+
+## Justice et droit (301-350)
+301. avocat de prisonnier
+302. avocate d’accusé
+303. juge d’accusée
+304. procureur de témoin
+305. policier de client
+306. policière de victime
+307. inspecteur de suspect
+308. inspectrice de détenu
+309. gardien de citoyen
+310. gardienne de citoyenne
+311. avocat de prisonnier
+312. avocate d’accusé
+313. juge d’accusée
+314. procureur de témoin
+315. policier de client
+316. policière de victime
+317. inspecteur de suspect
+318. inspectrice de détenu
+319. gardien de citoyen
+320. gardienne de citoyenne
+321. avocat de prisonnier
+322. avocate d’accusé
+323. juge d’accusée
+324. procureur de témoin
+325. policier de client
+326. policière de victime
+327. inspecteur de suspect
+328. inspectrice de détenu
+329. gardien de citoyen
+330. gardienne de citoyenne
+331. avocat de prisonnier
+332. avocate d’accusé
+333. juge d’accusée
+334. procureur de témoin
+335. policier de client
+336. policière de victime
+337. inspecteur de suspect
+338. inspectrice de détenu
+339. gardien de citoyen
+340. gardienne de citoyenne
+341. avocat de prisonnier
+342. avocate d’accusé
+343. juge d’accusée
+344. procureur de témoin
+345. policier de client
+346. policière de victime
+347. inspecteur de suspect
+348. inspectrice de détenu
+349. gardien de citoyen
+350. gardienne de citoyenne
+
+## Médecine et santé (351-400)
+351. médecin de patient
+352. doctoresse de patiente
+353. infirmier de blessé
+354. infirmière de malade
+355. chirurgien d’enfant
+356. chirurgienne de senior
+357. psychologue de femme
+358. psychiatre d’homme
+359. sage-femme de sportif
+360. soignant de sportive
+361. médecin de patient
+362. doctoresse de patiente
+363. infirmier de blessé
+364. infirmière de malade
+365. chirurgien d’enfant
+366. chirurgienne de senior
+367. psychologue de femme
+368. psychiatre d’homme
+369. sage-femme de sportif
+370. soignant de sportive
+371. médecin de patient
+372. doctoresse de patiente
+373. infirmier de blessé
+374. infirmière de malade
+375. chirurgien d’enfant
+376. chirurgienne de senior
+377. psychologue de femme
+378. psychiatre d’homme
+379. sage-femme de sportif
+380. soignant de sportive
+381. médecin de patient
+382. doctoresse de patiente
+383. infirmier de blessé
+384. infirmière de malade
+385. chirurgien d’enfant
+386. chirurgienne de senior
+387. psychologue de femme
+388. psychiatre d’homme
+389. sage-femme de sportif
+390. soignant de sportive
+391. médecin de patient
+392. doctoresse de patiente
+393. infirmier de blessé
+394. infirmière de malade
+395. chirurgien d’enfant
+396. chirurgienne de senior
+397. psychologue de femme
+398. psychiatre d’homme
+399. sage-femme de sportif
+400. soignant de sportive
+
+## Culture et arts (401-450)
+401. artiste de film
+402. peintre de pièce
+403. acteur de roman
+404. actrice de spectacle
+405. auteur de livre
+406. autrice de poème
+407. écrivain d’exposition
+408. écrivaine de galerie
+409. réalisateur de musée
+410. réalisatrice de festival
+411. artiste de film
+412. peintre de pièce
+413. acteur de roman
+414. actrice de spectacle
+415. auteur de livre
+416. autrice de poème
+417. écrivain d’exposition
+418. écrivaine de galerie
+419. réalisateur de musée
+420. réalisatrice de festival
+421. artiste de film
+422. peintre de pièce
+423. acteur de roman
+424. actrice de spectacle
+425. auteur de livre
+426. autrice de poème
+427. écrivain d’exposition
+428. écrivaine de galerie
+429. réalisateur de musée
+430. réalisatrice de festival
+431. artiste de film
+432. peintre de pièce
+433. acteur de roman
+434. actrice de spectacle
+435. auteur de livre
+436. autrice de poème
+437. écrivain d’exposition
+438. écrivaine de galerie
+439. réalisateur de musée
+440. réalisatrice de festival
+441. artiste de film
+442. peintre de pièce
+443. acteur de roman
+444. actrice de spectacle
+445. auteur de livre
+446. autrice de poème
+447. écrivain d’exposition
+448. écrivaine de galerie
+449. réalisateur de musée
+450. réalisatrice de festival
+
+## Sport et encadrement (451-500)
+451. entraîneur de équipe
+452. entraîneuse de club
+453. coach de match
+454. arbitre de compétition
+455. capitaine de tournoi
+456. joueur de championnat
+457. joueuse de ligue
+458. partenaire de groupe
+459. adversaire de rencontre
+460. supporter d’entraînement
+461. entraîneur de équipe
+462. entraîneuse de club
+463. coach de match
+464. arbitre de compétition
+465. capitaine de tournoi
+466. joueur de championnat
+467. joueuse de ligue
+468. partenaire de groupe
+469. adversaire de rencontre
+470. supporter d’entraînement
+471. entraîneur de équipe
+472. entraîneuse de club
+473. coach de match
+474. arbitre de compétition
+475. capitaine de tournoi
+476. joueur de championnat
+477. joueuse de ligue
+478. partenaire de groupe
+479. adversaire de rencontre
+480. supporter d’entraînement
+481. entraîneur de équipe
+482. entraîneuse de club
+483. coach de match
+484. arbitre de compétition
+485. capitaine de tournoi
+486. joueur de championnat
+487. joueuse de ligue
+488. partenaire de groupe
+489. adversaire de rencontre
+490. supporter d’entraînement
+491. entraîneur de équipe
+492. entraîneuse de club
+493. coach de match
+494. arbitre de compétition
+495. capitaine de tournoi
+496. joueur de championnat
+497. joueuse de ligue
+498. partenaire de groupe
+499. adversaire de rencontre
+500. supporter d’entraînement
+
+## Militaire et défense (501-550)
+501. soldat d’armée
+502. officier de compagnie
+503. commandant de bataillon
+504. capitaine d’escouade
+505. général d’unité
+506. colonel de régiment
+507. sergent de garnison
+508. gardien de base
+509. patrouilleur de brigade
+510. agent de mission
+511. soldat d’armée
+512. officier de compagnie
+513. commandant de bataillon
+514. capitaine d’escouade
+515. général d’unité
+516. colonel de régiment
+517. sergent de garnison
+518. gardien de base
+519. patrouilleur de brigade
+520. agent de mission
+521. soldat d’armée
+522. officier de compagnie
+523. commandant de bataillon
+524. capitaine d’escouade
+525. général d’unité
+526. colonel de régiment
+527. sergent de garnison
+528. gardien de base
+529. patrouilleur de brigade
+530. agent de mission
+531. soldat d’armée
+532. officier de compagnie
+533. commandant de bataillon
+534. capitaine d’escouade
+535. général d’unité
+536. colonel de régiment
+537. sergent de garnison
+538. gardien de base
+539. patrouilleur de brigade
+540. agent de mission
+541. soldat d’armée
+542. officier de compagnie
+543. commandant de bataillon
+544. capitaine d’escouade
+545. général d’unité
+546. colonel de régiment
+547. sergent de garnison
+548. gardien de base
+549. patrouilleur de brigade
+550. agent de mission
+
+## Vie associative (551-600)
+551. président d’association
+552. présidente de club
+553. secrétaire d’organisation
+554. trésorier de groupe
+555. trésorière de ONG
+556. bénévole de cercle
+557. adhérent de fédération
+558. adhérente d’union
+559. membre de collectif
+560. animateur de comité
+561. président d’association
+562. présidente de club
+563. secrétaire d’organisation
+564. trésorier de groupe
+565. trésorière de ONG
+566. bénévole de cercle
+567. adhérent de fédération
+568. adhérente d’union
+569. membre de collectif
+570. animateur de comité
+571. président d’association
+572. présidente de club
+573. secrétaire d’organisation
+574. trésorier de groupe
+575. trésorière de ONG
+576. bénévole de cercle
+577. adhérent de fédération
+578. adhérente d’union
+579. membre de collectif
+580. animateur de comité
+581. président d’association
+582. présidente de club
+583. secrétaire d’organisation
+584. trésorier de groupe
+585. trésorière de ONG
+586. bénévole de cercle
+587. adhérent de fédération
+588. adhérente d’union
+589. membre de collectif
+590. animateur de comité
+591. président d’association
+592. présidente de club
+593. secrétaire d’organisation
+594. trésorier de groupe
+595. trésorière de ONG
+596. bénévole de cercle
+597. adhérent de fédération
+598. adhérente d’union
+599. membre de collectif
+600. animateur de comité
+
+## Entreprise et économie (601-650)
+601. entrepreneur de société
+602. entrepreneuse de magasin
+603. investisseur d’entreprise
+604. investisseuse de commerce
+605. commerçant de banque
+606. commerçante de start-up
+607. vendeur de boutique
+608. vendeuse de marché
+609. banquier d’usine
+610. banquière de coopérative
+611. entrepreneur de société
+612. entrepreneuse de magasin
+613. investisseur d’entreprise
+614. investisseuse de commerce
+615. commerçant de banque
+616. commerçante de start-up
+617. vendeur de boutique
+618. vendeuse de marché
+619. banquier d’usine
+620. banquière de coopérative
+621. entrepreneur de société
+622. entrepreneuse de magasin
+623. investisseur d’entreprise
+624. investisseuse de commerce
+625. commerçant de banque
+626. commerçante de start-up
+627. vendeur de boutique
+628. vendeuse de marché
+629. banquier d’usine
+630. banquière de coopérative
+631. entrepreneur de société
+632. entrepreneuse de magasin
+633. investisseur d’entreprise
+634. investisseuse de commerce
+635. commerçant de banque
+636. commerçante de start-up
+637. vendeur de boutique
+638. vendeuse de marché
+639. banquier d’usine
+640. banquière de coopérative
+641. entrepreneur de société
+642. entrepreneuse de magasin
+643. investisseur d’entreprise
+644. investisseuse de commerce
+645. commerçant de banque
+646. commerçante de start-up
+647. vendeur de boutique
+648. vendeuse de marché
+649. banquier d’usine
+650. banquière de coopérative
+
+## Éducation et mentorat (651-700)
+651. mentor de stagiaire
+652. mentore de élève
+653. apprenti de étudiant
+654. apprentie de étudiante
+655. formateur de participant
+656. formatrice de collègue
+657. guide de groupe
+658. enseignant de classe
+659. enseignante de promotion
+660. coach de équipe
+661. mentor de stagiaire
+662. mentore de élève
+663. apprenti de étudiant
+664. apprentie de étudiante
+665. formateur de participant
+666. formatrice de collègue
+667. guide de groupe
+668. enseignant de classe
+669. enseignante de promotion
+670. coach de équipe
+671. mentor de stagiaire
+672. mentore de élève
+673. apprenti de étudiant
+674. apprentie de étudiante
+675. formateur de participant
+676. formatrice de collègue
+677. guide de groupe
+678. enseignant de classe
+679. enseignante de promotion
+680. coach de équipe
+681. mentor de stagiaire
+682. mentore de élève
+683. apprenti de étudiant
+684. apprentie de étudiante
+685. formateur de participant
+686. formatrice de collègue
+687. guide de groupe
+688. enseignant de classe
+689. enseignante de promotion
+690. coach de équipe
+691. mentor de stagiaire
+692. mentore de élève
+693. apprenti de étudiant
+694. apprentie de étudiante
+695. formateur de participant
+696. formatrice de collègue
+697. guide de groupe
+698. enseignant de classe
+699. enseignante de promotion
+700. coach de équipe
+
+## Science et recherche (701-750)
+701. chercheur de doctorant
+702. chercheuse de doctorante
+703. directeur de thèse de étudiant
+704. directrice de thèse de étudiante
+705. collaborateur d’assistant
+706. collaboratrice d’assistante
+707. encadrant de laboratoire
+708. encadrante de équipe
+709. superviseur de groupe
+710. superviseuse d’institut
+711. chercheur de doctorant
+712. chercheuse de doctorante
+713. directeur de thèse de étudiant
+714. directrice de thèse de étudiante
+715. collaborateur d’assistant
+716. collaboratrice d’assistante
+717. encadrant de laboratoire
+718. encadrante de équipe
+719. superviseur de groupe
+720. superviseuse d’institut
+721. chercheur de doctorant
+722. chercheuse de doctorante
+723. directeur de thèse de étudiant
+724. directrice de thèse de étudiante
+725. collaborateur d’assistant
+726. collaboratrice d’assistante
+727. encadrant de laboratoire
+728. encadrante de équipe
+729. superviseur de groupe
+730. superviseuse d’institut
+731. chercheur de doctorant
+732. chercheuse de doctorante
+733. directeur de thèse de étudiant
+734. directrice de thèse de étudiante
+735. collaborateur d’assistant
+736. collaboratrice d’assistante
+737. encadrant de laboratoire
+738. encadrante de équipe
+739. superviseur de groupe
+740. superviseuse d’institut
+741. chercheur de doctorant
+742. chercheuse de doctorante
+743. directeur de thèse de étudiant
+744. directrice de thèse de étudiante
+745. collaborateur d’assistant
+746. collaboratrice d’assistante
+747. encadrant de laboratoire
+748. encadrante de équipe
+749. superviseur de groupe
+750. superviseuse d’institut
+
+## Relations amoureuses (751-800)
+751. amant d’homme
+752. maîtresse de femme
+753. époux de compagne
+754. épouse de compagnon
+755. petit ami de épouse
+756. petite amie de époux
+757. conjoint de petit ami
+758. conjointe de petite amie
+759. partenaire de partenaire
+760. fiancé de fiancée
+761. amant d’homme
+762. maîtresse de femme
+763. époux de compagne
+764. épouse de compagnon
+765. petit ami de épouse
+766. petite amie de époux
+767. conjoint de petit ami
+768. conjointe de petite amie
+769. partenaire de partenaire
+770. fiancé de fiancée
+771. amant d’homme
+772. maîtresse de femme
+773. époux de compagne
+774. épouse de compagnon
+775. petit ami de épouse
+776. petite amie de époux
+777. conjoint de petit ami
+778. conjointe de petite amie
+779. partenaire de partenaire
+780. fiancé de fiancée
+781. amant d’homme
+782. maîtresse de femme
+783. époux de compagne
+784. épouse de compagnon
+785. petit ami de épouse
+786. petite amie de époux
+787. conjoint de petit ami
+788. conjointe de petite amie
+789. partenaire de partenaire
+790. fiancé de fiancée
+791. amant d’homme
+792. maîtresse de femme
+793. époux de compagne
+794. épouse de compagnon
+795. petit ami de épouse
+796. petite amie de époux
+797. conjoint de petit ami
+798. conjointe de petite amie
+799. partenaire de partenaire
+800. fiancé de fiancée
+
+## Vie sociale et réseau (801-850)
+801. ami de réseau social
+802. amie d’association
+803. contact de groupe
+804. collègue de communauté
+805. voisin de plateforme
+806. voisine de quartier
+807. membre d’entreprise
+808. suiveur de classe
+809. abonné de forum
+810. abonnée de collectif
+811. ami de réseau social
+812. amie d’association
+813. contact de groupe
+814. collègue de communauté
+815. voisin de plateforme
+816. voisine de quartier
+817. membre d’entreprise
+818. suiveur de classe
+819. abonné de forum
+820. abonnée de collectif
+821. ami de réseau social
+822. amie d’association
+823. contact de groupe
+824. collègue de communauté
+825. voisin de plateforme
+826. voisine de quartier
+827. membre d’entreprise
+828. suiveur de classe
+829. abonné de forum
+830. abonnée de collectif
+831. ami de réseau social
+832. amie d’association
+833. contact de groupe
+834. collègue de communauté
+835. voisin de plateforme
+836. voisine de quartier
+837. membre d’entreprise
+838. suiveur de classe
+839. abonné de forum
+840. abonnée de collectif
+841. ami de réseau social
+842. amie d’association
+843. contact de groupe
+844. collègue de communauté
+845. voisin de plateforme
+846. voisine de quartier
+847. membre d’entreprise
+848. suiveur de classe
+849. abonné de forum
+850. abonnée de collectif
+
+## Éducation religieuse (851-900)
+851. catéchiste d’enfant
+852. enseignant de élève
+853. enseignante de jeune
+854. imam de participant
+855. rabbin de fidèle
+856. moine de croyant
+857. religieuse de paroissien
+858. éducateur de étudiant
+859. éducatrice de membre
+860. formateur de groupe
+861. catéchiste d’enfant
+862. enseignant de élève
+863. enseignante de jeune
+864. imam de participant
+865. rabbin de fidèle
+866. moine de croyant
+867. religieuse de paroissien
+868. éducateur de étudiant
+869. éducatrice de membre
+870. formateur de groupe
+871. catéchiste d’enfant
+872. enseignant de élève
+873. enseignante de jeune
+874. imam de participant
+875. rabbin de fidèle
+876. moine de croyant
+877. religieuse de paroissien
+878. éducateur de étudiant
+879. éducatrice de membre
+880. formateur de groupe
+881. catéchiste d’enfant
+882. enseignant de élève
+883. enseignante de jeune
+884. imam de participant
+885. rabbin de fidèle
+886. moine de croyant
+887. religieuse de paroissien
+888. éducateur de étudiant
+889. éducatrice de membre
+890. formateur de groupe
+891. catéchiste d’enfant
+892. enseignant de élève
+893. enseignante de jeune
+894. imam de participant
+895. rabbin de fidèle
+896. moine de croyant
+897. religieuse de paroissien
+898. éducateur de étudiant
+899. éducatrice de membre
+900. formateur de groupe
+
+## Loisirs et activités (901-950)
+901. organisateur d’atelier
+902. organisatrice de voyage
+903. animateur de sortie
+904. animatrice de randonnée
+905. participant de jeu
+906. participante d’activité
+907. guide de club
+908. responsable de stage
+909. bénévole de événement
+910. coordinateur de fête
+911. organisateur d’atelier
+912. organisatrice de voyage
+913. animateur de sortie
+914. animatrice de randonnée
+915. participant de jeu
+916. participante d’activité
+917. guide de club
+918. responsable de stage
+919. bénévole de événement
+920. coordinateur de fête
+921. organisateur d’atelier
+922. organisatrice de voyage
+923. animateur de sortie
+924. animatrice de randonnée
+925. participant de jeu
+926. participante d’activité
+927. guide de club
+928. responsable de stage
+929. bénévole de événement
+930. coordinateur de fête
+931. organisateur d’atelier
+932. organisatrice de voyage
+933. animateur de sortie
+934. animatrice de randonnée
+935. participant de jeu
+936. participante d’activité
+937. guide de club
+938. responsable de stage
+939. bénévole de événement
+940. coordinateur de fête
+941. organisateur d’atelier
+942. organisatrice de voyage
+943. animateur de sortie
+944. animatrice de randonnée
+945. participant de jeu
+946. participante d’activité
+947. guide de club
+948. responsable de stage
+949. bénévole de événement
+950. coordinateur de fête
+
+## Vie publique et société (951-1000)
+951. citoyen de parti
+952. citoyenne d’association
+953. militant de groupe
+954. militante de manifestation
+955. activiste de syndicat
+956. représentant d’organisation
+957. représentante de ville
+958. porte-parole de région
+959. délégué de pays
+960. déléguée de mouvement
+961. citoyen de parti
+962. citoyenne d’association
+963. militant de groupe
+964. militante de manifestation
+965. activiste de syndicat
+966. représentant d’organisation
+967. représentante de ville
+968. porte-parole de région
+969. délégué de pays
+970. déléguée de mouvement
+971. citoyen de parti
+972. citoyenne d’association
+973. militant de groupe
+974. militante de manifestation
+975. activiste de syndicat
+976. représentant d’organisation
+977. représentante de ville
+978. porte-parole de région
+979. délégué de pays
+980. déléguée de mouvement
+981. citoyen de parti
+982. citoyenne d’association
+983. militant de groupe
+984. militante de manifestation
+985. activiste de syndicat
+986. représentant d’organisation
+987. représentante de ville
+988. porte-parole de région
+989. délégué de pays
+990. déléguée de mouvement
+991. citoyen de parti
+992. citoyenne d’association
+993. militant de groupe
+994. militante de manifestation
+995. activiste de syndicat
+996. représentant d’organisation
+997. représentante de ville
+998. porte-parole de région
+999. délégué de pays
+1000. déléguée de mouvement
